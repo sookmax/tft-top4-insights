@@ -1,12 +1,4 @@
-import {
-  darkerGrotesque,
-  goldman,
-  oswald,
-  rajdhani,
-  raleway,
-  robotoCondensed,
-  sulphurPoint,
-} from "./fonts";
+import { rajdhani } from "./fonts";
 import "./globals.css";
 import { classNames } from "./utils";
 
