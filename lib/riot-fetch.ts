@@ -1,7 +1,7 @@
 import * as dotenv from "dotenv"; // see https://github.com/motdotla/dotenv#how-do-i-use-dotenv-with-import
 dotenv.config();
 
-if (!process.env.RIOT_API_KEY) throw `RIOT_API_KEY env variable not found.`;
+// if (!process.env.RIOT_API_KEY) throw `RIOT_API_KEY env variable not found.`;
 
 const REQUEST_COOLDOWN_MS = 500; // 1200: 100 requests every 2 minutes(s)
 
@@ -15,7 +15,7 @@ function sleep(durationMS: number) {
 
 const FETCH_OPTIONS: RequestInit = {
   headers: {
-    "X-Riot-Token": process.env.RIOT_API_KEY,
+    "X-Riot-Token": process.env.RIOT_API_KEY ?? "",
   },
 };
 

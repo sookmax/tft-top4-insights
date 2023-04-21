@@ -18,7 +18,7 @@ export default function ListVirtualizer({
     count: items.length,
     estimateSize: () => itemHeight,
     scrollMargin,
-    paddingEnd: 12,
+    // paddingEnd: 12,
   });
 
   const vItems = virtualizer.getVirtualItems();
