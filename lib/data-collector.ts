@@ -76,7 +76,7 @@ export default class DataCollector {
     "12.23",
     ".DS_Store", // this gets created whenever you click `Get Info` from the finder context menu.
   ];
-  public static REGIONS_TO_COLLECT: Region[] = ["NA", "EUNE", "EUW", "KR"];
+  public static REGIONS_TO_COLLECT: Region[] = ["KR", "NA", "EUNE", "EUW"];
   public static LEAGUES_TO_COLLECT = [
     "CHALLENGER",
     "GRANDMASTER",

@@ -49,7 +49,7 @@ export type StatsAggregateUnion =
 export default class DataAggregator {
   public static DATA_DIR = path.join(DATA_DIR_ROOT, "stats");
   public static PARAMS_FILE_NAME = "params.json";
-  public static NUM_BATCHES_TO_READ = 5;
+  public static NUM_BATCHES_TO_READ = 10;
 
   public static async exec() {
     const execStartedTS = Date.now();
