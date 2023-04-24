@@ -12,6 +12,7 @@ export const metadata = {
     type: "website",
     siteName: TITLE,
   },
+  keywords: ["TFT", "Teamfight Tactics", "top4", "stats"],
 };
 
 export default function RootLayout({
