@@ -62,28 +62,27 @@ export default function Trait({ allTraitStats, ...rest }: Props) {
                     </h2>
                     <ul className="grid grid-cols-3 gap-1">
                       {trait.units.map((unit) => (
-                        <li key={unit.apiName} className="flex">
-                          <Popover
-                            triggerAsChild
-                            trigger={
-                              <button
-                                className="aspect-square border"
-                                style={{ borderColor: unit.color }}
-                              >
-                                <img
-                                  src={unit.imageUrl}
-                                  alt={unit.apiName}
-                                  className="w-full h-full"
-                                />
-                              </button>
-                            }
-                            content={
-                              <div className="p-4">
-                                <p>{unit.name}</p>
-                              </div>
-                            }
-                          />
-                        </li>
+                        <Popover
+                          key={unit.apiName}
+                          triggerAsChild
+                          trigger={
+                            <button
+                              className="border"
+                              style={{ borderColor: unit.color }}
+                            >
+                              <img
+                                src={unit.imageUrl}
+                                alt={unit.apiName}
+                                className="w-full h-full"
+                              />
+                            </button>
+                          }
+                          content={
+                            <div className="p-4">
+                              <p>{unit.name}</p>
+                            </div>
+                          }
+                        />
                       ))}
                     </ul>
                   </div>
@@ -158,32 +157,33 @@ export default function Trait({ allTraitStats, ...rest }: Props) {
                           <span>/</span>
                           <span>60</span>
                         </p>
-                        <ul className="grid grid-cols-3 gap-1 mt-2">
+                        <div className="grid grid-cols-3 gap-1 mt-2">
                           {neighbor.units.map((unit) => (
-                            <li key={unit.apiName} className="flex">
-                              <Popover
-                                triggerAsChild
-                                trigger={
-                                  <button
-                                    className="aspect-square border"
-                                    style={{ borderColor: unit.color }}
-                                  >
-                                    <img
-                                      src={unit.imageUrl}
-                                      alt={unit.apiName}
-                                      className="w-full h-full"
-                                    />
-                                  </button>
-                                }
-                                content={
-                                  <div className="p-4">
-                                    <p>{unit.name}</p>
-                                  </div>
-                                }
-                              />
-                            </li>
+                            // <div key={unit.apiName} className="aspect-square">
+                            <Popover
+                              key={unit.apiName}
+                              triggerAsChild
+                              trigger={
+                                <button
+                                  className="aspect-square border"
+                                  style={{ borderColor: unit.color }}
+                                >
+                                  <img
+                                    src={unit.imageUrl}
+                                    alt={unit.apiName}
+                                    className="w-full h-full"
+                                  />
+                                </button>
+                              }
+                              content={
+                                <div className="p-4">
+                                  <p>{unit.name}</p>
+                                </div>
+                              }
+                            />
+                            // </div>
                           ))}
-                        </ul>
+                        </div>
                       </div>
                     }
                   />
