@@ -6,6 +6,7 @@ import Filters from "./Filters";
 import NavBarLinks from "./NavBarLinks";
 import LastUpdatedBanner from "./LastUpdatedBanner";
 import HorizontalScrollProgressBar from "./HorizontalScrollProgressBar";
+import { DESCRIPTION, TITLE } from "@/app/const";
 
 export default async function NavBar({
   params,
@@ -50,11 +51,9 @@ export default async function NavBar({
               <div className="space-y-10 mb-20 p-4">
                 <div className="flex flex-col items-center">
                   <h1 className="text-4xl font-[500] mb-1">
-                    {"TFT Top4 Insights".toUpperCase()}
+                    {TITLE.toUpperCase()}
                   </h1>
-                  <p className="text-gray-400 text-sm">
-                    {"See what's popular among players who've made to top4."}
-                  </p>
+                  <p className="text-gray-400 text-sm">{DESCRIPTION}</p>
                 </div>
                 <NavBarLinks params={params} />
               </div>
