@@ -49,7 +49,7 @@ export type StatsAggregateUnion =
 export default class DataAggregator {
   public static DATA_DIR = path.join(DATA_DIR_ROOT, "stats");
   public static PARAMS_FILE_NAME = "params.json";
-  public static NUM_BATCHES_TO_READ = 10;
+  public static NUM_BATCHES_TO_READ = 5;
 
   public static async exec() {
     const execStartedTS = Date.now();
@@ -154,7 +154,15 @@ export default class DataAggregator {
       }
     });
 
-    // const [latestBatchTS] = timestamps;
+    for (const batchIdToRemove of timestamps.slice(
+      DataAggregator.NUM_BATCHES_TO_READ
+    )) {
+      const removeDir = path.join(batchDir, batchIdToRemove.toString());
+      await fsPromises.rm(removeDir, { recursive: true, force: true });
+      console.log(
+        `[REMOVE DIR]: removed the following old batch - ${removeDir}`
+      );
+    }
 
     let matchFileNames: string[] = [];
     const matches: Match[] = [];
