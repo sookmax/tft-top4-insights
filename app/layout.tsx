@@ -1,4 +1,5 @@
 import { rajdhani } from "./fonts";
+import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 import { classNames } from "./utils";
 import { TITLE, DESCRIPTION } from "./const";
@@ -34,7 +35,10 @@ export default function RootLayout({
         rajdhani.className
       )}
     >
-      <body className="overflow-x-hidden">{children}</body>
+      <body className="overflow-x-hidden">
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
