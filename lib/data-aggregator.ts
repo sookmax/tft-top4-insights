@@ -50,6 +50,7 @@ export default class DataAggregator {
   public static DATA_DIR = path.join(DATA_DIR_ROOT, "stats");
   public static PARAMS_FILE_NAME = "params.json";
   public static NUM_BATCHES_TO_READ = 5;
+  public static MAX_NUM_MATCHES = 500;
 
   public static async exec() {
     const execStartedTS = Date.now();
@@ -154,23 +155,21 @@ export default class DataAggregator {
       }
     });
 
-    for (const batchIdToRemove of timestamps.slice(
-      DataAggregator.NUM_BATCHES_TO_READ
-    )) {
-      const removeDir = path.join(batchDir, batchIdToRemove.toString());
-      await fsPromises.rm(removeDir, { recursive: true, force: true });
-      console.log(
-        `[REMOVE DIR]: removed the following old batch - ${removeDir}`
-      );
-    }
+    // for (const batchIdToRemove of timestamps.slice(
+    //   DataAggregator.NUM_BATCHES_TO_READ
+    // )) {
+    //   const removeDir = path.join(batchDir, batchIdToRemove.toString());
+    //   await fsPromises.rm(removeDir, { recursive: true, force: true });
+    //   console.log(
+    //     `[REMOVE DIR]: removed the following old batch - ${removeDir}`
+    //   );
+    // }
 
     let matchFileNames: string[] = [];
+    let removeStartBatchIndex = timestamps.length;
     const matches: Match[] = [];
 
-    for (const batchId of timestamps.slice(
-      0,
-      DataAggregator.NUM_BATCHES_TO_READ
-    )) {
+    for (const [batchIndex, batchId] of timestamps.entries()) {
       console.log(`[Reading batchId: ${batchId} in ${batchDir}]`);
       const readDir = path.join(batchDir, batchId.toString());
       const fileNames = await fsPromises.readdir(readDir);
@@ -192,6 +191,18 @@ export default class DataAggregator {
       }
       matchFileNames.push(...fileNames);
       matchFileNames = [...new Set(matchFileNames)];
+      if (matches.length >= DataAggregator.MAX_NUM_MATCHES) {
+        removeStartBatchIndex = batchIndex + 1;
+        break;
+      }
+    }
+
+    for (const batchIdToRemove of timestamps.slice(removeStartBatchIndex)) {
+      const removeDir = path.join(batchDir, batchIdToRemove.toString());
+      await fsPromises.rm(removeDir, { recursive: true, force: true });
+      console.log(
+        `[REMOVE DIR]: removed the following old batch - ${removeDir}`
+      );
     }
 
     const top4s = matches.map((m) => m.top4);

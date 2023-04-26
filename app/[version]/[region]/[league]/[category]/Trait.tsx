@@ -114,83 +114,88 @@ export default function Trait({ allTraitStats, ...rest }: Props) {
               <span>({trait.unitCount})</span>
             </span>
           </p>
-          <ul className="flex space-x-2 overflow-x-auto">
-            {trait.neighbors.map((neighbor) => {
-              const neighborRank =
-                allTraitStats.findIndex(
-                  (traitStats) => traitStats.id === neighbor.id
-                ) + 1;
+          <div className="relative">
+            <ul className="flex space-x-2 overflow-x-auto">
+              {trait.neighbors.map((neighbor) => {
+                const neighborRank =
+                  allTraitStats.findIndex(
+                    (traitStats) => traitStats.id === neighbor.id
+                  ) + 1;
 
-              return (
-                <li key={neighbor.id} className="flex">
-                  <VerticalPercentageBar
-                    percentage={(neighbor.count / trait.count) * 100}
-                  />
-                  <Popover
-                    closeButton={false}
-                    side="top"
-                    triggerAsChild
-                    trigger={
-                      <button
-                        className="p-1 border w-9 h-9"
-                        style={{
-                          borderColor: neighbor.borderColor,
-                          backgroundColor: neighbor.color,
-                        }}
-                      >
-                        <img
-                          src={neighbor.imageUrl}
-                          alt={neighbor.id}
-                          className="w-full h-full"
-                        />
-                      </button>
-                    }
-                    content={
-                      <div className="p-2 w-48">
-                        <h2 className="text-sm text-center space-x-[2px] font-[500]">
-                          <span>{neighbor.name}</span>
-                          <span>({neighbor.unitCount})</span>
-                        </h2>
-                        <p className="text-xs text-center text-gray-300 space-x-1">
-                          <span>Rank:</span>
-                          <span className="text-teal-200">{neighborRank}</span>
-                          <span>/</span>
-                          <span>60</span>
-                        </p>
-                        <div className="grid grid-cols-3 gap-1 mt-2">
-                          {neighbor.units.map((unit) => (
-                            // <div key={unit.apiName} className="aspect-square">
-                            <Popover
-                              key={unit.apiName}
-                              triggerAsChild
-                              trigger={
-                                <button
-                                  className="aspect-square border"
-                                  style={{ borderColor: unit.color }}
-                                >
-                                  <img
-                                    src={unit.imageUrl}
-                                    alt={unit.apiName}
-                                    className="w-full h-full"
-                                  />
-                                </button>
-                              }
-                              content={
-                                <div className="p-4">
-                                  <p>{unit.name}</p>
-                                </div>
-                              }
-                            />
-                            // </div>
-                          ))}
+                return (
+                  <li key={neighbor.id} className="flex">
+                    <VerticalPercentageBar
+                      percentage={(neighbor.count / trait.count) * 100}
+                    />
+                    <Popover
+                      closeButton={false}
+                      side="top"
+                      triggerAsChild
+                      trigger={
+                        <button
+                          className="p-1 border w-9 h-9"
+                          style={{
+                            borderColor: neighbor.borderColor,
+                            backgroundColor: neighbor.color,
+                          }}
+                        >
+                          <img
+                            src={neighbor.imageUrl}
+                            alt={neighbor.id}
+                            className="w-full h-full"
+                          />
+                        </button>
+                      }
+                      content={
+                        <div className="p-2 w-48">
+                          <h2 className="text-sm text-center space-x-[2px] font-[500]">
+                            <span>{neighbor.name}</span>
+                            <span>({neighbor.unitCount})</span>
+                          </h2>
+                          <p className="text-xs text-center text-gray-300 space-x-1">
+                            <span>Rank:</span>
+                            <span className="text-teal-200">
+                              {neighborRank}
+                            </span>
+                            <span>/</span>
+                            <span>60</span>
+                          </p>
+                          <div className="grid grid-cols-3 gap-1 mt-2">
+                            {neighbor.units.map((unit) => (
+                              // <div key={unit.apiName} className="aspect-square">
+                              <Popover
+                                key={unit.apiName}
+                                triggerAsChild
+                                trigger={
+                                  <button
+                                    className="aspect-square border"
+                                    style={{ borderColor: unit.color }}
+                                  >
+                                    <img
+                                      src={unit.imageUrl}
+                                      alt={unit.apiName}
+                                      className="w-full h-full"
+                                    />
+                                  </button>
+                                }
+                                content={
+                                  <div className="p-4">
+                                    <p>{unit.name}</p>
+                                  </div>
+                                }
+                              />
+                              // </div>
+                            ))}
+                          </div>
                         </div>
-                      </div>
-                    }
-                  />
-                </li>
-              );
-            })}
-          </ul>
+                      }
+                    />
+                  </li>
+                );
+              })}
+            </ul>
+            <div className="absolute top-0 right-0 w-full h-full bg-gradient-to-r from-transparent via-transparent to-gray-800/80 md:to-transparent pointer-events-none"></div>
+          </div>
         </div>
       </div>
     </div>
