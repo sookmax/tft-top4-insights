@@ -408,11 +408,11 @@
               "count": 26
             },
             {
-              "id": "TFT_Item_HextechGunblade",
+              "id": "TFT_Item_GuardianAngel",
               "count": 23
             },
             {
-              "id": "TFT_Item_GuardianAngel",
+              "id": "TFT_Item_HextechGunblade",
               "count": 23
             },
             {
@@ -713,11 +713,11 @@
           "count": 74
         },
         {
-          "id": "TFT_Item_BrambleVest",
+          "id": "TFT_Item_FrozenHeart",
           "count": 59
         },
         {
-          "id": "TFT_Item_FrozenHeart",
+          "id": "TFT_Item_BrambleVest",
           "count": 59
         },
         {
@@ -757,15 +757,15 @@
               "count": 34
             },
             {
+              "id": "TFT_Item_Redemption",
+              "count": 32
+            },
+            {
               "id": "TFT_Item_WarmogsArmor",
               "count": 32
             },
             {
               "id": "TFT_Item_GargoyleStoneplate",
-              "count": 32
-            },
-            {
-              "id": "TFT_Item_Redemption",
               "count": 32
             },
             {
@@ -825,11 +825,11 @@
               "count": 17
             },
             {
-              "id": "TFT_Item_ArchangelsStaff",
+              "id": "TFT_Item_ThiefsGloves",
               "count": 15
             },
             {
-              "id": "TFT_Item_ThiefsGloves",
+              "id": "TFT_Item_ArchangelsStaff",
               "count": 15
             },
             {
@@ -889,11 +889,11 @@
               "count": 20
             },
             {
-              "id": "TFT_Item_UnstableConcoction",
+              "id": "TFT_Item_GuardianAngel",
               "count": 19
             },
             {
-              "id": "TFT_Item_GuardianAngel",
+              "id": "TFT_Item_UnstableConcoction",
               "count": 19
             }
           ]
@@ -1658,11 +1658,11 @@
               "count": 26
             },
             {
-              "id": "TFT_Item_BrambleVest",
+              "id": "TFT_Item_GargoyleStoneplate",
               "count": 24
             },
             {
-              "id": "TFT_Item_GargoyleStoneplate",
+              "id": "TFT_Item_BrambleVest",
               "count": 24
             },
             {
@@ -1706,19 +1706,19 @@
               "count": 66
             },
             {
-              "id": "TFT_Item_LocketOfTheIronSolari",
-              "count": 14
-            },
-            {
               "id": "TFT_Item_RedBuff",
               "count": 14
             },
             {
-              "id": "TFT_Item_Redemption",
-              "count": 12
+              "id": "TFT_Item_LocketOfTheIronSolari",
+              "count": 14
             },
             {
               "id": "TFT_Item_WarmogsArmor",
+              "count": 12
+            },
+            {
+              "id": "TFT_Item_Redemption",
               "count": 12
             },
             {
@@ -1902,15 +1902,15 @@
               "count": 5
             },
             {
+              "id": "TFT_Item_TearOfTheGoddess",
+              "count": 4
+            },
+            {
               "id": "TFT_Item_GuinsoosRageblade",
               "count": 4
             },
             {
               "id": "TFT_Item_StatikkShiv",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_TearOfTheGoddess",
               "count": 4
             },
             {
@@ -2367,11 +2367,11 @@
               "count": 9
             },
             {
-              "id": "TFT_Item_InfinityEdge",
+              "id": "TFT_Item_Bloodthirster",
               "count": 8
             },
             {
-              "id": "TFT_Item_Bloodthirster",
+              "id": "TFT_Item_InfinityEdge",
               "count": 8
             },
             {
@@ -2501,66 +2501,6 @@
           ]
         },
         {
-          "id": "TFT8_Blitzcrank",
-          "count": 101,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 75
-            },
-            {
-              "id": 3,
-              "count": 21
-            },
-            {
-              "id": 1,
-              "count": 5
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 34
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 32
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 25
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
-              "count": 23
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 16
-            },
-            {
-              "id": "TFT_Item_Redemption",
-              "count": 14
-            },
-            {
-              "id": "TFT_Item_TitanicHydra",
-              "count": 12
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 9
-            },
-            {
-              "id": "TFT_Item_BrambleVest",
-              "count": 6
-            },
-            {
-              "id": "TFT_Item_FrozenHeart",
-              "count": 6
-            }
-          ]
-        },
-        {
           "id": "TFT8_Ekko",
           "count": 101,
           "tiers": [
@@ -2617,6 +2557,66 @@
             {
               "id": "TFT_Item_Redemption",
               "count": 5
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Blitzcrank",
+          "count": 101,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 75
+            },
+            {
+              "id": 3,
+              "count": 21
+            },
+            {
+              "id": 1,
+              "count": 5
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 34
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 32
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 25
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 23
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 16
+            },
+            {
+              "id": "TFT_Item_Redemption",
+              "count": 14
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 12
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 9
+            },
+            {
+              "id": "TFT_Item_BrambleVest",
+              "count": 6
+            },
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 6
             }
           ]
         }
@@ -3978,11 +3978,11 @@
           "count": 54
         },
         {
-          "id": "TFT_Item_IonicSpark",
+          "id": "TFT_Item_Redemption",
           "count": 41
         },
         {
-          "id": "TFT_Item_Redemption",
+          "id": "TFT_Item_IonicSpark",
           "count": 41
         },
         {
@@ -4494,11 +4494,11 @@
               "count": 19
             },
             {
-              "id": "TFT_Item_IonicSpark",
+              "id": "TFT_Item_WarmogsArmor",
               "count": 14
             },
             {
-              "id": "TFT_Item_WarmogsArmor",
+              "id": "TFT_Item_IonicSpark",
               "count": 14
             },
             {
@@ -4855,11 +4855,11 @@
               "count": 70
             },
             {
-              "id": "TFT_Item_RedBuff",
+              "id": "TFT_Item_WarmogsArmor",
               "count": 39
             },
             {
-              "id": "TFT_Item_WarmogsArmor",
+              "id": "TFT_Item_RedBuff",
               "count": 39
             },
             {
@@ -5039,11 +5039,11 @@
               "count": 16
             },
             {
-              "id": "TFT_Item_RedBuff",
+              "id": "TFT_Item_WarmogsArmor",
               "count": 13
             },
             {
-              "id": "TFT_Item_WarmogsArmor",
+              "id": "TFT_Item_RedBuff",
               "count": 13
             },
             {
@@ -5820,19 +5820,19 @@
               "count": 34
             },
             {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 16
-            },
-            {
               "id": "TFT_Item_MadredsBloodrazor",
               "count": 16
             },
             {
-              "id": "TFT_Item_RabadonsDeathcap",
-              "count": 11
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 16
             },
             {
               "id": "TFT_Item_HextechGunblade",
+              "count": 11
+            },
+            {
+              "id": "TFT_Item_RabadonsDeathcap",
               "count": 11
             },
             {
@@ -6205,7 +6205,7 @@
               "count": 5
             },
             {
-              "id": "TFT_Item_BrambleVest",
+              "id": "TFT_Item_ThiefsGloves",
               "count": 4
             }
           ]
@@ -6962,15 +6962,15 @@
               "count": 14
             },
             {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 13
+            },
+            {
               "id": "TFT_Item_LocketOfTheIronSolari",
               "count": 13
             },
             {
               "id": "TFT_Item_ThiefsGloves",
-              "count": 13
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
               "count": 13
             },
             {
@@ -7038,11 +7038,11 @@
               "count": 13
             },
             {
-              "id": "TFT_Item_Redemption",
+              "id": "TFT_Item_ThiefsGloves",
               "count": 10
             },
             {
-              "id": "TFT_Item_ThiefsGloves",
+              "id": "TFT_Item_Redemption",
               "count": 10
             },
             {
@@ -7086,11 +7086,11 @@
               "count": 13
             },
             {
-              "id": "TFT_Item_IonicSpark",
+              "id": "TFT_Item_WarmogsArmor",
               "count": 12
             },
             {
-              "id": "TFT_Item_WarmogsArmor",
+              "id": "TFT_Item_IonicSpark",
               "count": 12
             },
             {
@@ -7399,11 +7399,11 @@
               "count": 15
             },
             {
-              "id": "TFT8_Item_Shojin_GenAE",
+              "id": "TFT_Item_RabadonsDeathcap",
               "count": 13
             },
             {
-              "id": "TFT_Item_RabadonsDeathcap",
+              "id": "TFT8_Item_Shojin_GenAE",
               "count": 13
             }
           ]
@@ -7519,11 +7519,11 @@
               "count": 10
             },
             {
-              "id": "TFT4_Item_OrnnInfinityForce",
+              "id": "TFT8_Item_Warmogs_GenAE",
               "count": 4
             },
             {
-              "id": "TFT8_Item_Warmogs_GenAE",
+              "id": "TFT4_Item_OrnnInfinityForce",
               "count": 4
             }
           ]
@@ -8352,11 +8352,11 @@
               "count": 10
             },
             {
-              "id": "TFT_Item_TitansResolve",
+              "id": "TFT_Item_Redemption",
               "count": 8
             },
             {
-              "id": "TFT_Item_Redemption",
+              "id": "TFT_Item_FrozenHeart",
               "count": 8
             }
           ]
@@ -8412,11 +8412,11 @@
               "count": 3
             },
             {
-              "id": "TFT_Item_FrozenHeart",
+              "id": "TFT8_Item_BrawlerEmblemItem",
               "count": 2
             },
             {
-              "id": "TFT_Item_PowerGauntlet",
+              "id": "TFT_Item_FrozenHeart",
               "count": 2
             }
           ]
@@ -8985,11 +8985,11 @@
               "count": 22
             },
             {
-              "id": "TFT_Item_DragonsClaw",
+              "id": "TFT_Item_WarmogsArmor",
               "count": 15
             },
             {
-              "id": "TFT_Item_WarmogsArmor",
+              "id": "TFT_Item_DragonsClaw",
               "count": 15
             },
             {
@@ -11016,11 +11016,11 @@
               "count": 12
             },
             {
-              "id": "TFT_Item_ThiefsGloves",
+              "id": "TFT_Item_SeraphsEmbrace",
               "count": 9
             },
             {
-              "id": "TFT_Item_SeraphsEmbrace",
+              "id": "TFT_Item_ThiefsGloves",
               "count": 9
             },
             {
@@ -11028,15 +11028,15 @@
               "count": 7
             },
             {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 6
+            },
+            {
               "id": "TFT_Item_LastWhisper",
               "count": 6
             },
             {
               "id": "TFT_Item_HextechGunblade",
-              "count": 6
-            },
-            {
-              "id": "TFT_Item_Bloodthirster",
               "count": 6
             }
           ]
@@ -11321,11 +11321,11 @@
               "count": 26
             },
             {
-              "id": "TFT_Item_StatikkShiv",
+              "id": "TFT_Item_RabadonsDeathcap",
               "count": 18
             },
             {
-              "id": "TFT_Item_RabadonsDeathcap",
+              "id": "TFT_Item_StatikkShiv",
               "count": 18
             },
             {
@@ -11579,6 +11579,62 @@
           ]
         },
         {
+          "id": "TFT8_Ekko",
+          "count": 91,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 77
+            },
+            {
+              "id": 1,
+              "count": 14
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 20
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 16
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 14
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 13
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 13
+            },
+            {
+              "id": "TFT_Item_BrambleVest",
+              "count": 10
+            },
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 10
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 9
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 8
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 6
+            }
+          ]
+        },
+        {
           "id": "TFT8_Blitzcrank",
           "count": 91,
           "tiers": [
@@ -11635,62 +11691,6 @@
           ]
         },
         {
-          "id": "TFT8_Ekko",
-          "count": 91,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 77
-            },
-            {
-              "id": 1,
-              "count": 14
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 20
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 16
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 14
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 13
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 13
-            },
-            {
-              "id": "TFT_Item_FrozenHeart",
-              "count": 10
-            },
-            {
-              "id": "TFT_Item_BrambleVest",
-              "count": 10
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
-              "count": 9
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 8
-            },
-            {
-              "id": "TFT_Item_TitanicHydra",
-              "count": 6
-            }
-          ]
-        },
-        {
           "id": "TFT8_Rell",
           "count": 84,
           "tiers": [
@@ -11709,11 +11709,11 @@
           ],
           "items": [
             {
-              "id": "no-item",
+              "id": "TFT_Item_WarmogsArmor",
               "count": 26
             },
             {
-              "id": "TFT_Item_WarmogsArmor",
+              "id": "no-item",
               "count": 26
             },
             {
@@ -12134,11 +12134,11 @@
           ],
           "items": [
             {
-              "id": "TFT_Item_StatikkShiv",
+              "id": "no-item",
               "count": 54
             },
             {
-              "id": "no-item",
+              "id": "TFT_Item_StatikkShiv",
               "count": 54
             },
             {
@@ -12326,15 +12326,15 @@
               "count": 7
             },
             {
+              "id": "TFT_Item_SeraphsEmbrace",
+              "count": 5
+            },
+            {
               "id": "TFT_Item_ThiefsGloves",
               "count": 5
             },
             {
               "id": "TFT_Item_HextechGunblade",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_SeraphsEmbrace",
               "count": 5
             },
             {
@@ -12511,11 +12511,11 @@
           "count": 14
         },
         {
-          "id": "TFT8_Item_InfiniteamEmblemItem",
+          "id": "TFT_Item_SeraphsEmbrace",
           "count": 13
         },
         {
-          "id": "TFT_Item_SeraphsEmbrace",
+          "id": "TFT8_Item_InfiniteamEmblemItem",
           "count": 13
         },
         {
@@ -12615,11 +12615,11 @@
               "count": 14
             },
             {
-              "id": "TFT_Item_BrambleVest",
+              "id": "TFT_Item_Redemption",
               "count": 13
             },
             {
-              "id": "TFT_Item_Redemption",
+              "id": "TFT_Item_BrambleVest",
               "count": 13
             },
             {
@@ -13588,7 +13588,7 @@
               "count": 3
             },
             {
-              "id": "TFT_Item_WarmogsArmor",
+              "id": "TFT_Item_ThiefsGloves",
               "count": 2
             }
           ]
@@ -13624,12 +13624,16 @@
               "count": 9
             },
             {
+              "id": "TFT_Item_SeraphsEmbrace",
+              "count": 7
+            },
+            {
               "id": "TFT_Item_ThiefsGloves",
               "count": 7
             },
             {
-              "id": "TFT_Item_SeraphsEmbrace",
-              "count": 7
+              "id": "TFT_Item_Bloodthirster",
+              "count": 5
             },
             {
               "id": "TFT_Item_RunaansHurricane",
@@ -13637,10 +13641,6 @@
             },
             {
               "id": "TFT_Item_HextechGunblade",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_Bloodthirster",
               "count": 5
             },
             {
@@ -14113,11 +14113,11 @@
               "count": 9
             },
             {
-              "id": "TFT_Item_MadredsBloodrazor",
+              "id": "no-item",
               "count": 7
             },
             {
-              "id": "no-item",
+              "id": "TFT_Item_MadredsBloodrazor",
               "count": 7
             },
             {
@@ -14514,11 +14514,11 @@
               "count": 12
             },
             {
-              "id": "TFT_Item_Redemption",
+              "id": "TFT_Item_BrambleVest",
               "count": 7
             },
             {
-              "id": "TFT_Item_BrambleVest",
+              "id": "TFT_Item_Redemption",
               "count": 7
             },
             {
@@ -15008,62 +15008,62 @@
           ]
         },
         {
-          "id": "TFT8_Kaisa",
+          "id": "TFT8_Viego",
           "count": 46,
           "tiers": [
             {
               "id": 2,
-              "count": 32
-            },
-            {
-              "id": 3,
-              "count": 10
+              "count": 38
             },
             {
               "id": 1,
-              "count": 4
+              "count": 7
+            },
+            {
+              "id": 3,
+              "count": 1
             }
           ],
           "items": [
             {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 21
+              "id": "no-item",
+              "count": 16
             },
             {
-              "id": "TFT_Item_HextechGunblade",
-              "count": 15
-            },
-            {
-              "id": "TFT_Item_GuinsoosRageblade",
-              "count": 14
-            },
-            {
-              "id": "TFT_Item_MadredsBloodrazor",
+              "id": "TFT_Item_IonicSpark",
               "count": 10
             },
             {
-              "id": "no-item",
-              "count": 9
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 5
+            },
+            {
+              "id": "TFT_Item_RabadonsDeathcap",
+              "count": 5
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 5
             },
             {
               "id": "TFT_Item_JeweledGauntlet",
               "count": 4
             },
             {
-              "id": "TFT_Item_ZekesHerald",
+              "id": "TFT_Item_LocketOfTheIronSolari",
               "count": 3
             },
             {
-              "id": "TFT8_Item_RenegadeEmblemItem",
+              "id": "TFT_Item_Bloodthirster",
               "count": 3
             },
             {
-              "id": "TFT_Item_Chalice",
+              "id": "TFT_Item_RedBuff",
               "count": 3
             },
             {
               "id": "TFT_Item_UnstableConcoction",
-              "count": 2
+              "count": 3
             }
           ]
         }
@@ -15119,11 +15119,11 @@
           "count": 18
         },
         {
-          "id": "TFT_Item_HextechGunblade",
+          "id": "TFT_Item_RabadonsDeathcap",
           "count": 11
         },
         {
-          "id": "TFT_Item_RabadonsDeathcap",
+          "id": "TFT_Item_HextechGunblade",
           "count": 11
         },
         {
@@ -15896,11 +15896,11 @@
               "count": 20
             },
             {
-              "id": "no-item",
+              "id": "TFT_Item_HextechGunblade",
               "count": 18
             },
             {
-              "id": "TFT_Item_HextechGunblade",
+              "id": "no-item",
               "count": 18
             },
             {
@@ -15956,11 +15956,11 @@
               "count": 16
             },
             {
-              "id": "TFT_Item_IonicSpark",
+              "id": "TFT_Item_BrambleVest",
               "count": 13
             },
             {
-              "id": "TFT_Item_BrambleVest",
+              "id": "TFT_Item_IonicSpark",
               "count": 13
             },
             {
@@ -16192,11 +16192,11 @@
               "count": 4
             },
             {
-              "id": "TFT_Item_StatikkShiv",
+              "id": "TFT_Item_TearOfTheGoddess",
               "count": 3
             },
             {
-              "id": "TFT_Item_TearOfTheGoddess",
+              "id": "TFT_Item_StatikkShiv",
               "count": 3
             },
             {
@@ -16793,11 +16793,11 @@
               "count": 4
             },
             {
-              "id": "TFT_Item_HextechGunblade",
+              "id": "TFT_Item_RabadonsDeathcap",
               "count": 3
             },
             {
-              "id": "TFT_Item_RabadonsDeathcap",
+              "id": "TFT_Item_HextechGunblade",
               "count": 3
             },
             {
@@ -16983,16 +16983,16 @@
           ]
         },
         {
-          "id": "TFT8_Syndra",
+          "id": "TFT8_Leona",
           "count": 46,
           "tiers": [
             {
               "id": 1,
-              "count": 27
+              "count": 25
             },
             {
               "id": 2,
-              "count": 19
+              "count": 21
             }
           ],
           "items": [
@@ -17001,40 +17001,40 @@
               "count": 18
             },
             {
-              "id": "TFT_Item_SpearOfShojin",
+              "id": "TFT_Item_FrozenHeart",
+              "count": 8
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
               "count": 7
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 7
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 6
             },
             {
               "id": "TFT_Item_GuardianAngel",
               "count": 4
             },
             {
-              "id": "TFT_Item_ZekesHerald",
+              "id": "TFT_Item_GargoyleStoneplate",
               "count": 4
             },
             {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 3
+              "id": "TFT_Item_Redemption",
+              "count": 4
             },
             {
-              "id": "TFT_Item_RecurveBow",
-              "count": 3
-            },
-            {
-              "id": "TFT8_Item_OxForceEmblemItem",
-              "count": 3
-            },
-            {
-              "id": "TFT8_Item_ChannelerEmblemItem",
+              "id": "TFT_Item_Shroud",
               "count": 2
             },
             {
-              "id": "TFT_Item_EmptyBag",
+              "id": "TFT_Item_Chalice",
               "count": 2
-            },
-            {
-              "id": "TFT_Item_Zephyr",
-              "count": 1
             }
           ]
         }
@@ -17202,15 +17202,15 @@
               "count": 10
             },
             {
+              "id": "TFT_Item_RabadonsDeathcap",
+              "count": 5
+            },
+            {
               "id": "no-item",
               "count": 5
             },
             {
               "id": "TFT4_Item_OrnnZhonyasParadox",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_RabadonsDeathcap",
               "count": 5
             },
             {
@@ -17478,11 +17478,11 @@
               "count": 11
             },
             {
-              "id": "TFT_Item_RedBuff",
+              "id": "TFT_Item_WarmogsArmor",
               "count": 7
             },
             {
-              "id": "TFT_Item_WarmogsArmor",
+              "id": "TFT_Item_RedBuff",
               "count": 7
             },
             {
@@ -18456,11 +18456,11 @@
               "count": 8
             },
             {
-              "id": "no-item",
+              "id": "TFT_Item_RabadonsDeathcap",
               "count": 7
             },
             {
-              "id": "TFT_Item_RabadonsDeathcap",
+              "id": "no-item",
               "count": 7
             }
           ]
@@ -18508,11 +18508,11 @@
               "count": 13
             },
             {
-              "id": "TFT_Item_ThiefsGloves",
+              "id": "TFT_Item_BrambleVest",
               "count": 12
             },
             {
-              "id": "TFT_Item_BrambleVest",
+              "id": "TFT_Item_ThiefsGloves",
               "count": 12
             },
             {
@@ -18568,11 +18568,11 @@
               "count": 17
             },
             {
-              "id": "no-item",
+              "id": "TFT_Item_HextechGunblade",
               "count": 16
             },
             {
-              "id": "TFT_Item_HextechGunblade",
+              "id": "no-item",
               "count": 16
             },
             {
@@ -18672,11 +18672,11 @@
               "count": 16
             },
             {
-              "id": "TFT_Item_DragonsClaw",
+              "id": "TFT_Item_GargoyleStoneplate",
               "count": 13
             },
             {
-              "id": "TFT_Item_GargoyleStoneplate",
+              "id": "TFT_Item_DragonsClaw",
               "count": 13
             },
             {
@@ -18736,11 +18736,11 @@
               "count": 4
             },
             {
-              "id": "TFT_Item_SeraphsEmbrace",
+              "id": "TFT_Item_TearOfTheGoddess",
               "count": 3
             },
             {
-              "id": "TFT_Item_TearOfTheGoddess",
+              "id": "TFT_Item_SeraphsEmbrace",
               "count": 3
             },
             {
@@ -20301,6 +20301,1308 @@
       "compTotalCount": 1416
     },
     {
+      "id": "TFT8_Poppy",
+      "count": 145,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 121
+        },
+        {
+          "id": 3,
+          "count": 15
+        },
+        {
+          "id": 1,
+          "count": 9
+        }
+      ],
+      "items": [
+        {
+          "id": "no-item",
+          "count": 71
+        },
+        {
+          "id": "TFT_Item_WarmogsArmor",
+          "count": 11
+        },
+        {
+          "id": "TFT_Item_ThiefsGloves",
+          "count": 8
+        },
+        {
+          "id": "TFT8_Item_Shroud_GenAE",
+          "count": 8
+        },
+        {
+          "id": "TFT_Item_TitanicHydra",
+          "count": 7
+        },
+        {
+          "id": "TFT_Item_RedBuff",
+          "count": 7
+        },
+        {
+          "id": "TFT_Item_BrambleVest",
+          "count": 7
+        },
+        {
+          "id": "TFT_Item_DragonsClaw",
+          "count": 7
+        },
+        {
+          "id": "TFT_Item_Redemption",
+          "count": 6
+        },
+        {
+          "id": "TFT8_Item_ADMINEmblemItem",
+          "count": 6
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Shen",
+          "count": 138,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 116
+            },
+            {
+              "id": 3,
+              "count": 18
+            },
+            {
+              "id": 1,
+              "count": 4
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 60
+            },
+            {
+              "id": "TFT8_Item_GenAEEmblemItem",
+              "count": 15
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 12
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 12
+            },
+            {
+              "id": "TFT8_Item_ADMINEmblemItem",
+              "count": 10
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 9
+            },
+            {
+              "id": "TFT_Item_BrambleVest",
+              "count": 7
+            },
+            {
+              "id": "TFT_Item_Redemption",
+              "count": 6
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 6
+            },
+            {
+              "id": "TFT8_Item_Sunfire_GenAE",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "id": "TFT8_GnarBig",
+          "count": 133,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 99
+            },
+            {
+              "id": 2,
+              "count": 34
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 106
+            },
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 97
+            },
+            {
+              "id": "TFT_Item_TitansResolve",
+              "count": 78
+            },
+            {
+              "id": "TFT_Item_InfinityEdge",
+              "count": 34
+            },
+            {
+              "id": "TFT_Item_Deathblade",
+              "count": 11
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 10
+            },
+            {
+              "id": "TFT_Item_GuardianAngel",
+              "count": 9
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 8
+            },
+            {
+              "id": "TFT8_Item_HackerEmblemItem",
+              "count": 5
+            },
+            {
+              "id": "TFT4_Item_OrnnInfinityForce",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Annie",
+          "count": 131,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 94
+            },
+            {
+              "id": 3,
+              "count": 34
+            },
+            {
+              "id": 1,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 45
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 29
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 27
+            },
+            {
+              "id": "TFT_Item_Redemption",
+              "count": 24
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 22
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 19
+            },
+            {
+              "id": "no-item",
+              "count": 15
+            },
+            {
+              "id": "TFT_Item_BrambleVest",
+              "count": 13
+            },
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 12
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Pyke",
+          "count": 126,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 94
+            },
+            {
+              "id": 3,
+              "count": 25
+            },
+            {
+              "id": 1,
+              "count": 7
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 42
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 13
+            },
+            {
+              "id": "TFT_Item_Morellonomicon",
+              "count": 11
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 10
+            },
+            {
+              "id": "TFT8_Item_Shojin_GenAE",
+              "count": 10
+            },
+            {
+              "id": "TFT8_Item_GenAEEmblemItem",
+              "count": 9
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 9
+            },
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 7
+            },
+            {
+              "id": "TFT_Item_ZekesHerald",
+              "count": 7
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Leblanc",
+          "count": 126,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 100
+            },
+            {
+              "id": 3,
+              "count": 24
+            },
+            {
+              "id": 1,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 46
+            },
+            {
+              "id": "TFT8_Item_GenAEEmblemItem",
+              "count": 45
+            },
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 32
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 25
+            },
+            {
+              "id": "TFT_Item_SeraphsEmbrace",
+              "count": 23
+            },
+            {
+              "id": "no-item",
+              "count": 15
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 13
+            },
+            {
+              "id": "TFT8_Item_Shojin_GenAE",
+              "count": 13
+            },
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 12
+            },
+            {
+              "id": "TFT_Item_RabadonsDeathcap",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Nunu",
+          "count": 97,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 67
+            },
+            {
+              "id": 2,
+              "count": 30
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 21
+            },
+            {
+              "id": "TFT8_Item_Bloodthirster_GenAE",
+              "count": 14
+            },
+            {
+              "id": "TFT8_Item_HandOfJustice_GenAE",
+              "count": 12
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 12
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 12
+            },
+            {
+              "id": "TFT8_Item_IonicSpark_GenAE",
+              "count": 11
+            },
+            {
+              "id": "TFT8_Item_Warmogs_GenAE",
+              "count": 11
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 10
+            },
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 9
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Lulu",
+          "count": 65,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 55
+            },
+            {
+              "id": 1,
+              "count": 7
+            },
+            {
+              "id": 3,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 44
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_ZekesHerald",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_BFSword",
+              "count": 3
+            },
+            {
+              "id": "TFT8_Item_HackerEmblemItem",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_RunaansHurricane",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_Shroud_GenAE",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_HandOfJustice_GenAE",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 40,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 33
+            },
+            {
+              "id": 1,
+              "count": 6
+            },
+            {
+              "id": 3,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 25
+            },
+            {
+              "id": "TFT_Item_Chalice",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Zephyr",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 2
+            },
+            {
+              "id": "TFT4_Item_OrnnRocketPropelledFist",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_PranksterEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_DefenderEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 30,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 16
+            },
+            {
+              "id": 1,
+              "count": 14
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 13
+            },
+            {
+              "id": "TFT_Item_Zephyr",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_DefenderEmblemItem",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Redemption",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_Warmogs_GenAE",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_EmptyBag",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_BrambleVest",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Fiddlesticks",
+          "count": 16,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 13
+            },
+            {
+              "id": 2,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 6
+            },
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 3
+            },
+            {
+              "id": "TFT8_Item_HandOfJustice_GenAE",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_IonicSpark_GenAE",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Morellonomicon",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_HackerEmblemItem",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_Bloodthirster_GenAE",
+              "count": 1
+            },
+            {
+              "id": "TFT4_Item_OrnnRocketPropelledFist",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_LocketOfTheIronSolari",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 32,
+      "rankTotalCount": 55,
+      "compTotalCount": 1416
+    },
+    {
+      "id": "TFT8_Mordekaiser",
+      "count": 145,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 83
+        },
+        {
+          "id": 1,
+          "count": 62
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_JeweledGauntlet",
+          "count": 33
+        },
+        {
+          "id": "no-item",
+          "count": 30
+        },
+        {
+          "id": "TFT_Item_UnstableConcoction",
+          "count": 19
+        },
+        {
+          "id": "TFT_Item_RabadonsDeathcap",
+          "count": 18
+        },
+        {
+          "id": "TFT_Item_ThiefsGloves",
+          "count": 18
+        },
+        {
+          "id": "TFT_Item_MadredsBloodrazor",
+          "count": 16
+        },
+        {
+          "id": "TFT_Item_ArchangelsStaff",
+          "count": 15
+        },
+        {
+          "id": "TFT_Item_GuardianAngel",
+          "count": 10
+        },
+        {
+          "id": "TFT_Item_TitansResolve",
+          "count": 9
+        },
+        {
+          "id": "TFT_Item_Bloodthirster",
+          "count": 9
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Warwick",
+          "count": 107,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 96
+            },
+            {
+              "id": 1,
+              "count": 8
+            },
+            {
+              "id": 3,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_GuardianAngel",
+              "count": 54
+            },
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 40
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 37
+            },
+            {
+              "id": "TFT_Item_TitansResolve",
+              "count": 30
+            },
+            {
+              "id": "TFT_Item_InfinityEdge",
+              "count": 18
+            },
+            {
+              "id": "TFT_Item_RunaansHurricane",
+              "count": 17
+            },
+            {
+              "id": "no-item",
+              "count": 10
+            },
+            {
+              "id": "TFT_Item_Quicksilver",
+              "count": 10
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 8
+            },
+            {
+              "id": "TFT_Item_Deathblade",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Renekton",
+          "count": 100,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 77
+            },
+            {
+              "id": 3,
+              "count": 15
+            },
+            {
+              "id": 1,
+              "count": 8
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 59
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 12
+            },
+            {
+              "id": "TFT_Item_Redemption",
+              "count": 10
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 9
+            },
+            {
+              "id": "TFT_Item_BrambleVest",
+              "count": 6
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 5
+            },
+            {
+              "id": "TFT8_Item_ADMINEmblemItem",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_GiantsBelt",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Yasuo",
+          "count": 90,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 78
+            },
+            {
+              "id": 3,
+              "count": 6
+            },
+            {
+              "id": 1,
+              "count": 6
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 60
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 8
+            },
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 6
+            },
+            {
+              "id": "TFT8_Item_ADMINEmblemItem",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_RunaansHurricane",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ashe",
+          "count": 83,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 51
+            },
+            {
+              "id": 3,
+              "count": 18
+            },
+            {
+              "id": 1,
+              "count": 14
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 48
+            },
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 17
+            },
+            {
+              "id": "TFT_Item_RunaansHurricane",
+              "count": 14
+            },
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 7
+            },
+            {
+              "id": "TFT_Item_Deathblade",
+              "count": 6
+            },
+            {
+              "id": "TFT_Item_Zephyr",
+              "count": 5
+            },
+            {
+              "id": "TFT_Item_GuinsoosRageblade",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_GuardianAngel",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_InfinityEdge",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Blitzcrank",
+          "count": 71,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 57
+            },
+            {
+              "id": 3,
+              "count": 9
+            },
+            {
+              "id": 1,
+              "count": 5
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 32
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 19
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 15
+            },
+            {
+              "id": "TFT_Item_Redemption",
+              "count": 12
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 10
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 6
+            },
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 5
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 5
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 5
+            },
+            {
+              "id": "TFT_Item_BrambleVest",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Fiddlesticks",
+          "count": 54,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 38
+            },
+            {
+              "id": 1,
+              "count": 16
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 17
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 11
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 5
+            },
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 5
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 4
+            },
+            {
+              "id": "TFT8_Item_InfiniteamEmblemItem",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_Morellonomicon",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_RabadonsDeathcap",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Leblanc",
+          "count": 52,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 38
+            },
+            {
+              "id": 1,
+              "count": 11
+            },
+            {
+              "id": 3,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 19
+            },
+            {
+              "id": "TFT_Item_SeraphsEmbrace",
+              "count": 7
+            },
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 7
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 6
+            },
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 5
+            },
+            {
+              "id": "TFT_Item_GuardianAngel",
+              "count": 5
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 3
+            },
+            {
+              "id": "TFT8_Item_GenAEEmblemItem",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Shen",
+          "count": 47,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 42
+            },
+            {
+              "id": 1,
+              "count": 3
+            },
+            {
+              "id": 3,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 16
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 9
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 7
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 6
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 6
+            },
+            {
+              "id": "TFT8_Item_BrawlerEmblemItem",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_Redemption",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_NegatronCloak",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Urgot",
+          "count": 40,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 25
+            },
+            {
+              "id": 1,
+              "count": 15
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 10
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 6
+            },
+            {
+              "id": "TFT_Item_ZekesHerald",
+              "count": 6
+            },
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_InfinityEdge",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_Quicksilver",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_RunaansHurricane",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_GuardianAngel",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Pyke",
+          "count": 37,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 25
+            },
+            {
+              "id": 1,
+              "count": 9
+            },
+            {
+              "id": 3,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 18
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 5
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Zephyr",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Morellonomicon",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_ChainVest",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 32,
+      "rankTotalCount": 55,
+      "compTotalCount": 1416
+    },
+    {
       "id": "TFT8_Sylas",
       "count": 145,
       "tiers": [
@@ -20893,255 +22195,14 @@
           ]
         },
         {
-          "id": "TFT8_Viego",
+          "id": "TFT8_Ekko",
           "count": 24,
           "tiers": [
             {
               "id": 2,
-              "count": 17
-            },
-            {
-              "id": 1,
-              "count": 7
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 14
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_LocketOfTheIronSolari",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_UnstableConcoction",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_Chalice",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_RabadonsDeathcap",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Bloodthirster",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_JeweledGauntlet",
-              "count": 1
-            }
-          ]
-        }
-      ],
-      "rank": 32,
-      "rankTotalCount": 55,
-      "compTotalCount": 1416
-    },
-    {
-      "id": "TFT8_Mordekaiser",
-      "count": 145,
-      "tiers": [
-        {
-          "id": 2,
-          "count": 83
-        },
-        {
-          "id": 1,
-          "count": 62
-        }
-      ],
-      "items": [
-        {
-          "id": "TFT_Item_JeweledGauntlet",
-          "count": 33
-        },
-        {
-          "id": "no-item",
-          "count": 30
-        },
-        {
-          "id": "TFT_Item_UnstableConcoction",
-          "count": 19
-        },
-        {
-          "id": "TFT_Item_RabadonsDeathcap",
-          "count": 18
-        },
-        {
-          "id": "TFT_Item_ThiefsGloves",
-          "count": 18
-        },
-        {
-          "id": "TFT_Item_MadredsBloodrazor",
-          "count": 16
-        },
-        {
-          "id": "TFT_Item_ArchangelsStaff",
-          "count": 15
-        },
-        {
-          "id": "TFT_Item_GuardianAngel",
-          "count": 10
-        },
-        {
-          "id": "TFT_Item_TitansResolve",
-          "count": 9
-        },
-        {
-          "id": "TFT_Item_Bloodthirster",
-          "count": 9
-        }
-      ],
-      "neighbors": [
-        {
-          "id": "TFT8_Warwick",
-          "count": 107,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 96
-            },
-            {
-              "id": 1,
-              "count": 8
-            },
-            {
-              "id": 3,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_GuardianAngel",
-              "count": 54
-            },
-            {
-              "id": "TFT_Item_LastWhisper",
-              "count": 40
-            },
-            {
-              "id": "TFT_Item_Bloodthirster",
-              "count": 37
-            },
-            {
-              "id": "TFT_Item_TitansResolve",
-              "count": 30
-            },
-            {
-              "id": "TFT_Item_InfinityEdge",
               "count": 18
             },
             {
-              "id": "TFT_Item_RunaansHurricane",
-              "count": 17
-            },
-            {
-              "id": "TFT_Item_Quicksilver",
-              "count": 10
-            },
-            {
-              "id": "no-item",
-              "count": 10
-            },
-            {
-              "id": "TFT_Item_UnstableConcoction",
-              "count": 8
-            },
-            {
-              "id": "TFT_Item_Deathblade",
-              "count": 7
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Renekton",
-          "count": 100,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 77
-            },
-            {
-              "id": 3,
-              "count": 15
-            },
-            {
-              "id": 1,
-              "count": 8
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 59
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 12
-            },
-            {
-              "id": "TFT_Item_Redemption",
-              "count": 10
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 9
-            },
-            {
-              "id": "TFT_Item_BrambleVest",
-              "count": 6
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
-              "count": 5
-            },
-            {
-              "id": "TFT8_Item_ADMINEmblemItem",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_GiantsBelt",
-              "count": 3
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Yasuo",
-          "count": 90,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 78
-            },
-            {
-              "id": 3,
-              "count": 6
-            },
-            {
               "id": 1,
               "count": 6
             }
@@ -21149,22 +22210,14 @@
           "items": [
             {
               "id": "no-item",
-              "count": 60
+              "count": 10
             },
             {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 8
-            },
-            {
-              "id": "TFT_Item_Shroud",
-              "count": 6
-            },
-            {
-              "id": "TFT8_Item_ADMINEmblemItem",
+              "id": "TFT8_Item_AnimaSquadEmblemItem",
               "count": 4
             },
             {
-              "id": "TFT_Item_RunaansHurricane",
+              "id": "TFT_Item_GargoyleStoneplate",
               "count": 3
             },
             {
@@ -21173,298 +22226,10 @@
             },
             {
               "id": "TFT_Item_FrozenHeart",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_PowerGauntlet",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 2
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Ashe",
-          "count": 83,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 51
-            },
-            {
-              "id": 3,
-              "count": 18
-            },
-            {
-              "id": 1,
-              "count": 14
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 48
-            },
-            {
-              "id": "TFT_Item_LastWhisper",
-              "count": 17
-            },
-            {
-              "id": "TFT_Item_RunaansHurricane",
-              "count": 14
-            },
-            {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 7
-            },
-            {
-              "id": "TFT_Item_Deathblade",
-              "count": 6
-            },
-            {
-              "id": "TFT_Item_Zephyr",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_GuinsoosRageblade",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_MadredsBloodrazor",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_GuardianAngel",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_InfinityEdge",
-              "count": 2
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Blitzcrank",
-          "count": 71,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 57
-            },
-            {
-              "id": 3,
-              "count": 9
-            },
-            {
-              "id": 1,
-              "count": 5
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 32
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 19
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
-              "count": 15
-            },
-            {
-              "id": "TFT_Item_Redemption",
-              "count": 12
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 10
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 6
-            },
-            {
-              "id": "TFT_Item_FrozenHeart",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_TitanicHydra",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_BrambleVest",
-              "count": 4
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Fiddlesticks",
-          "count": 54,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 38
-            },
-            {
-              "id": 1,
-              "count": 16
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 17
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 11
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_JeweledGauntlet",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_MadredsBloodrazor",
-              "count": 4
-            },
-            {
-              "id": "TFT8_Item_InfiniteamEmblemItem",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_Bloodthirster",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_Morellonomicon",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_RabadonsDeathcap",
               "count": 3
             },
             {
               "id": "TFT_Item_ThiefsGloves",
-              "count": 3
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Leblanc",
-          "count": 52,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 38
-            },
-            {
-              "id": 1,
-              "count": 11
-            },
-            {
-              "id": 3,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 19
-            },
-            {
-              "id": "TFT_Item_SeraphsEmbrace",
-              "count": 7
-            },
-            {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 7
-            },
-            {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 6
-            },
-            {
-              "id": "TFT_Item_JeweledGauntlet",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_GuardianAngel",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 3
-            },
-            {
-              "id": "TFT8_Item_GenAEEmblemItem",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_UnstableConcoction",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_MadredsBloodrazor",
-              "count": 2
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Shen",
-          "count": 47,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 42
-            },
-            {
-              "id": 1,
-              "count": 3
-            },
-            {
-              "id": 3,
-              "count": 2
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 16
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 9
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
-              "count": 7
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 6
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 6
-            },
-            {
-              "id": "TFT8_Item_BrawlerEmblemItem",
               "count": 3
             },
             {
@@ -21472,781 +22237,16 @@
               "count": 3
             },
             {
-              "id": "TFT_Item_Shroud",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
+              "id": "TFT_Item_WarmogsArmor",
               "count": 2
             },
             {
-              "id": "TFT_Item_NegatronCloak",
-              "count": 2
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Urgot",
-          "count": 40,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 25
-            },
-            {
-              "id": 1,
-              "count": 15
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 10
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 6
-            },
-            {
-              "id": "TFT_Item_ZekesHerald",
-              "count": 6
-            },
-            {
-              "id": "TFT_Item_LastWhisper",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_InfinityEdge",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_Quicksilver",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_RunaansHurricane",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_HextechGunblade",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_GuardianAngel",
-              "count": 3
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Pyke",
-          "count": 37,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 25
-            },
-            {
-              "id": 1,
-              "count": 9
-            },
-            {
-              "id": 3,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 18
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 5
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_TitanicHydra",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_HextechGunblade",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_Zephyr",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_Morellonomicon",
+              "id": "TFT_Item_DragonsClaw",
               "count": 2
             },
             {
               "id": "TFT_Item_ChainVest",
-              "count": 1
-            }
-          ]
-        }
-      ],
-      "rank": 32,
-      "rankTotalCount": 55,
-      "compTotalCount": 1416
-    },
-    {
-      "id": "TFT8_Poppy",
-      "count": 145,
-      "tiers": [
-        {
-          "id": 2,
-          "count": 121
-        },
-        {
-          "id": 3,
-          "count": 15
-        },
-        {
-          "id": 1,
-          "count": 9
-        }
-      ],
-      "items": [
-        {
-          "id": "no-item",
-          "count": 71
-        },
-        {
-          "id": "TFT_Item_WarmogsArmor",
-          "count": 11
-        },
-        {
-          "id": "TFT_Item_ThiefsGloves",
-          "count": 8
-        },
-        {
-          "id": "TFT8_Item_Shroud_GenAE",
-          "count": 8
-        },
-        {
-          "id": "TFT_Item_TitanicHydra",
-          "count": 7
-        },
-        {
-          "id": "TFT_Item_RedBuff",
-          "count": 7
-        },
-        {
-          "id": "TFT_Item_BrambleVest",
-          "count": 7
-        },
-        {
-          "id": "TFT_Item_DragonsClaw",
-          "count": 7
-        },
-        {
-          "id": "TFT_Item_Redemption",
-          "count": 6
-        },
-        {
-          "id": "TFT8_Item_ADMINEmblemItem",
-          "count": 6
-        }
-      ],
-      "neighbors": [
-        {
-          "id": "TFT8_Shen",
-          "count": 138,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 116
-            },
-            {
-              "id": 3,
-              "count": 18
-            },
-            {
-              "id": 1,
-              "count": 4
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 60
-            },
-            {
-              "id": "TFT8_Item_GenAEEmblemItem",
-              "count": 15
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 12
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 12
-            },
-            {
-              "id": "TFT8_Item_ADMINEmblemItem",
-              "count": 10
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
-              "count": 9
-            },
-            {
-              "id": "TFT_Item_BrambleVest",
-              "count": 7
-            },
-            {
-              "id": "TFT_Item_Redemption",
-              "count": 6
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 6
-            },
-            {
-              "id": "TFT8_Item_Sunfire_GenAE",
-              "count": 5
-            }
-          ]
-        },
-        {
-          "id": "TFT8_GnarBig",
-          "count": 133,
-          "tiers": [
-            {
-              "id": 3,
-              "count": 99
-            },
-            {
-              "id": 2,
-              "count": 34
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_Bloodthirster",
-              "count": 106
-            },
-            {
-              "id": "TFT_Item_LastWhisper",
-              "count": 97
-            },
-            {
-              "id": "TFT_Item_TitansResolve",
-              "count": 78
-            },
-            {
-              "id": "TFT_Item_InfinityEdge",
-              "count": 34
-            },
-            {
-              "id": "TFT_Item_Deathblade",
-              "count": 11
-            },
-            {
-              "id": "TFT_Item_UnstableConcoction",
-              "count": 10
-            },
-            {
-              "id": "TFT_Item_GuardianAngel",
-              "count": 9
-            },
-            {
-              "id": "TFT_Item_MadredsBloodrazor",
-              "count": 8
-            },
-            {
-              "id": "TFT8_Item_HackerEmblemItem",
-              "count": 5
-            },
-            {
-              "id": "TFT4_Item_OrnnInfinityForce",
-              "count": 4
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Annie",
-          "count": 131,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 94
-            },
-            {
-              "id": 3,
-              "count": 34
-            },
-            {
-              "id": 1,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 45
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
-              "count": 29
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 27
-            },
-            {
-              "id": "TFT_Item_Redemption",
-              "count": 24
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 22
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 19
-            },
-            {
-              "id": "no-item",
-              "count": 15
-            },
-            {
-              "id": "TFT_Item_BrambleVest",
-              "count": 13
-            },
-            {
-              "id": "TFT_Item_FrozenHeart",
-              "count": 12
-            },
-            {
-              "id": "TFT_Item_TitanicHydra",
-              "count": 9
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Pyke",
-          "count": 126,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 94
-            },
-            {
-              "id": 3,
-              "count": 25
-            },
-            {
-              "id": 1,
-              "count": 7
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 42
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 13
-            },
-            {
-              "id": "TFT_Item_Morellonomicon",
-              "count": 11
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 10
-            },
-            {
-              "id": "TFT8_Item_Shojin_GenAE",
-              "count": 10
-            },
-            {
-              "id": "TFT8_Item_GenAEEmblemItem",
-              "count": 9
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 9
-            },
-            {
-              "id": "TFT_Item_FrozenHeart",
-              "count": 7
-            },
-            {
-              "id": "TFT_Item_ZekesHerald",
-              "count": 7
-            },
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 5
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Leblanc",
-          "count": 126,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 100
-            },
-            {
-              "id": 3,
-              "count": 24
-            },
-            {
-              "id": 1,
               "count": 2
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 46
-            },
-            {
-              "id": "TFT8_Item_GenAEEmblemItem",
-              "count": 45
-            },
-            {
-              "id": "TFT_Item_JeweledGauntlet",
-              "count": 32
-            },
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 25
-            },
-            {
-              "id": "TFT_Item_SeraphsEmbrace",
-              "count": 23
-            },
-            {
-              "id": "no-item",
-              "count": 15
-            },
-            {
-              "id": "TFT_Item_MadredsBloodrazor",
-              "count": 13
-            },
-            {
-              "id": "TFT8_Item_Shojin_GenAE",
-              "count": 13
-            },
-            {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 12
-            },
-            {
-              "id": "TFT_Item_RabadonsDeathcap",
-              "count": 11
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Nunu",
-          "count": 97,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 67
-            },
-            {
-              "id": 2,
-              "count": 30
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 21
-            },
-            {
-              "id": "TFT8_Item_Bloodthirster_GenAE",
-              "count": 14
-            },
-            {
-              "id": "TFT8_Item_HandOfJustice_GenAE",
-              "count": 12
-            },
-            {
-              "id": "TFT_Item_HextechGunblade",
-              "count": 12
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 12
-            },
-            {
-              "id": "TFT8_Item_IonicSpark_GenAE",
-              "count": 11
-            },
-            {
-              "id": "TFT8_Item_Warmogs_GenAE",
-              "count": 11
-            },
-            {
-              "id": "TFT_Item_Bloodthirster",
-              "count": 10
-            },
-            {
-              "id": "TFT_Item_JeweledGauntlet",
-              "count": 9
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 8
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Lulu",
-          "count": 65,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 55
-            },
-            {
-              "id": 1,
-              "count": 7
-            },
-            {
-              "id": 3,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 44
-            },
-            {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_ZekesHerald",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_BFSword",
-              "count": 3
-            },
-            {
-              "id": "TFT8_Item_HackerEmblemItem",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_JeweledGauntlet",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_RunaansHurricane",
-              "count": 2
-            },
-            {
-              "id": "TFT8_Item_Shroud_GenAE",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 2
-            },
-            {
-              "id": "TFT8_Item_HandOfJustice_GenAE",
-              "count": 2
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Alistar",
-          "count": 40,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 33
-            },
-            {
-              "id": 1,
-              "count": 6
-            },
-            {
-              "id": 3,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 25
-            },
-            {
-              "id": "TFT_Item_Chalice",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_Zephyr",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_Shroud",
-              "count": 2
-            },
-            {
-              "id": "TFT4_Item_OrnnRocketPropelledFist",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_TitanicHydra",
-              "count": 2
-            },
-            {
-              "id": "TFT8_Item_PranksterEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT8_Item_DefenderEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Ekko",
-          "count": 30,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 16
-            },
-            {
-              "id": 1,
-              "count": 14
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 13
-            },
-            {
-              "id": "TFT_Item_Zephyr",
-              "count": 3
-            },
-            {
-              "id": "TFT8_Item_DefenderEmblemItem",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_Redemption",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
-              "count": 2
-            },
-            {
-              "id": "TFT8_Item_Warmogs_GenAE",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_EmptyBag",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 2
-            },
-            {
-              "id": "TFT8_Item_OxForceEmblemItem",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Fiddlesticks",
-          "count": 16,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 13
-            },
-            {
-              "id": 2,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 6
-            },
-            {
-              "id": "TFT_Item_PowerGauntlet",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 3
-            },
-            {
-              "id": "TFT8_Item_HandOfJustice_GenAE",
-              "count": 2
-            },
-            {
-              "id": "TFT8_Item_IonicSpark_GenAE",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_Morellonomicon",
-              "count": 2
-            },
-            {
-              "id": "TFT8_Item_HackerEmblemItem",
-              "count": 2
-            },
-            {
-              "id": "TFT8_Item_Bloodthirster_GenAE",
-              "count": 1
-            },
-            {
-              "id": "TFT4_Item_OrnnRocketPropelledFist",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_LocketOfTheIronSolari",
-              "count": 1
             }
           ]
         }
@@ -23720,11 +23720,11 @@
               "count": 3
             },
             {
-              "id": "TFT_Item_FrozenHeart",
+              "id": "TFT8_Item_BrawlerEmblemItem",
               "count": 2
             },
             {
-              "id": "TFT_Item_PowerGauntlet",
+              "id": "TFT_Item_FrozenHeart",
               "count": 2
             }
           ]
@@ -23752,11 +23752,11 @@
               "count": 17
             },
             {
-              "id": "TFT_Item_RabadonsDeathcap",
+              "id": "TFT_Item_UnstableConcoction",
               "count": 15
             },
             {
-              "id": "TFT_Item_UnstableConcoction",
+              "id": "TFT_Item_RabadonsDeathcap",
               "count": 15
             },
             {
@@ -24267,66 +24267,6 @@
       ],
       "neighbors": [
         {
-          "id": "TFT8_Renekton",
-          "count": 103,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 72
-            },
-            {
-              "id": 3,
-              "count": 22
-            },
-            {
-              "id": 1,
-              "count": 9
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 56
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 16
-            },
-            {
-              "id": "TFT_Item_Redemption",
-              "count": 12
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
-              "count": 9
-            },
-            {
-              "id": "TFT_Item_BrambleVest",
-              "count": 8
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 8
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 7
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 5
-            },
-            {
-              "id": "TFT8_Item_ADMINEmblemItem",
-              "count": 4
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 4
-            }
-          ]
-        },
-        {
           "id": "TFT8_Warwick",
           "count": 103,
           "tiers": [
@@ -24383,6 +24323,66 @@
             {
               "id": "TFT_Item_UnstableConcoction",
               "count": 6
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Renekton",
+          "count": 103,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 72
+            },
+            {
+              "id": 3,
+              "count": 22
+            },
+            {
+              "id": 1,
+              "count": 9
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 56
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 16
+            },
+            {
+              "id": "TFT_Item_Redemption",
+              "count": 12
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 9
+            },
+            {
+              "id": "TFT_Item_BrambleVest",
+              "count": 8
+            },
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 8
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 7
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 5
+            },
+            {
+              "id": "TFT8_Item_ADMINEmblemItem",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 4
             }
           ]
         },
@@ -24469,11 +24469,11 @@
               "count": 15
             },
             {
-              "id": "TFT_Item_RabadonsDeathcap",
+              "id": "TFT_Item_UnstableConcoction",
               "count": 14
             },
             {
-              "id": "TFT_Item_UnstableConcoction",
+              "id": "TFT_Item_RabadonsDeathcap",
               "count": 14
             },
             {
@@ -24541,11 +24541,11 @@
               "count": 7
             },
             {
-              "id": "TFT_Item_GargoyleStoneplate",
+              "id": "TFT_Item_BrambleVest",
               "count": 5
             },
             {
-              "id": "TFT_Item_BrambleVest",
+              "id": "TFT_Item_GargoyleStoneplate",
               "count": 5
             },
             {
@@ -25731,11 +25731,11 @@
               "count": 3
             },
             {
-              "id": "TFT_Item_FrozenHeart",
+              "id": "TFT8_Item_BrawlerEmblemItem",
               "count": 2
             },
             {
-              "id": "TFT_Item_PowerGauntlet",
+              "id": "TFT_Item_FrozenHeart",
               "count": 2
             }
           ]
@@ -26300,11 +26300,11 @@
               "count": 8
             },
             {
-              "id": "TFT_Item_DragonsClaw",
+              "id": "TFT_Item_BrambleVest",
               "count": 6
             },
             {
-              "id": "TFT_Item_BrambleVest",
+              "id": "TFT_Item_DragonsClaw",
               "count": 6
             },
             {
@@ -26937,11 +26937,11 @@
               "count": 4
             },
             {
-              "id": "TFT_Item_RedBuff",
+              "id": "TFT_Item_Redemption",
               "count": 3
             },
             {
-              "id": "TFT_Item_Redemption",
+              "id": "TFT_Item_RedBuff",
               "count": 3
             },
             {
@@ -27229,11 +27229,11 @@
               "count": 4
             },
             {
-              "id": "TFT8_Item_InfiniteamEmblemItem",
+              "id": "TFT_Item_Bloodthirster",
               "count": 3
             },
             {
-              "id": "TFT_Item_Bloodthirster",
+              "id": "TFT8_Item_InfiniteamEmblemItem",
               "count": 3
             },
             {
@@ -27241,15 +27241,15 @@
               "count": 3
             },
             {
+              "id": "TFT_Item_SeraphsEmbrace",
+              "count": 2
+            },
+            {
               "id": "TFT_Item_StatikkShiv",
               "count": 2
             },
             {
               "id": "TFT_Item_JeweledGauntlet",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_SeraphsEmbrace",
               "count": 2
             }
           ]
@@ -29965,10 +29965,6 @@
               "count": 4
             },
             {
-              "id": "no-item",
-              "count": 3
-            },
-            {
               "id": "TFT_Item_WarmogsArmor",
               "count": 3
             },
@@ -29977,11 +29973,15 @@
               "count": 3
             },
             {
-              "id": "TFT_Item_Quicksilver",
-              "count": 2
+              "id": "no-item",
+              "count": 3
             },
             {
               "id": "TFT_Item_GargoyleStoneplate",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Quicksilver",
               "count": 2
             },
             {
@@ -31284,11 +31284,11 @@
           "count": 32
         },
         {
-          "id": "TFT_Item_RedBuff",
+          "id": "TFT_Item_WarmogsArmor",
           "count": 12
         },
         {
-          "id": "TFT_Item_WarmogsArmor",
+          "id": "TFT_Item_RedBuff",
           "count": 12
         },
         {
@@ -31957,15 +31957,15 @@
           "count": 8
         },
         {
+          "id": "TFT_Item_GuardianAngel",
+          "count": 7
+        },
+        {
           "id": "TFT_Item_RapidFireCannon",
           "count": 7
         },
         {
           "id": "TFT_Item_TitansResolve",
-          "count": 7
-        },
-        {
-          "id": "TFT_Item_GuardianAngel",
           "count": 7
         }
       ],
@@ -38514,5 +38514,5 @@
       "compTotalCount": 1416
     }
   ],
-  "lastUpdatedTS": 1682657463335
+  "lastUpdatedTS": 1682914774124
 }
