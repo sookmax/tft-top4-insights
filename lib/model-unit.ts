@@ -108,22 +108,36 @@ export default class TFTUnit extends ModelBase {
         const traits = stage.traits
           .filter((trait) => searched.traits.includes(trait.name))
           .map((trait) => {
-            const units = trait.units.map((unit) => ({
-              ...unit,
-              color: TFTUnit.getColor(unit.cost),
-              imageUrl: TFTUnit.getImageUrl(
+            const units = trait.units.map((unit) => {
+              const imageUrl = TFTUnit.getImageUrl(
                 unit.apiName,
                 !this.stage1Units.includes(unit.apiName) &&
                   this.stage2Units.includes(unit.apiName),
                 this.version
-              ),
-            }));
+              );
+
+              return {
+                ...unit,
+                color: TFTUnit.getColor(unit.cost),
+                imageUrl,
+              };
+            });
+
+            const imageUrl = this.getTraitImageUrl(trait.icon);
+
             return {
               ...trait,
               units,
-              imageUrl: this.getTraitImageUrl(trait.icon),
+              imageUrl,
             };
           });
+
+        const imageUrl = TFTUnit.getImageUrl(
+          searched.apiName,
+          !this.stage1Units.includes(searched.apiName) &&
+            this.stage2Units.includes(searched.apiName),
+          this.version
+        );
 
         return {
           id: searched.apiName,
@@ -132,12 +146,7 @@ export default class TFTUnit extends ModelBase {
           cost: searched.cost,
           color: TFTUnit.getColor(searched.cost),
           traits,
-          imageUrl: TFTUnit.getImageUrl(
-            searched.apiName,
-            !this.stage1Units.includes(searched.apiName) &&
-              this.stage2Units.includes(searched.apiName),
-            this.version
-          ),
+          imageUrl,
           stars: this.getStars(tierMostCount.id),
           items: stats.items.map((item) => this.getItemData(item)),
         };
@@ -156,7 +165,14 @@ export default class TFTUnit extends ModelBase {
       postfix2 = "tft_set8_stage2";
     }
 
-    return `https://raw.communitydragon.org/${version}/game/assets/ux/tft/championsplashes/${id.toLowerCase()}_${postfix1}.${postfix2}.png`;
+    const [versionMajor, versionMinor] = version.split(".");
+    let prevVersionMinor = parseInt(versionMinor) - 1;
+
+    if (prevVersionMinor === 8) prevVersionMinor--;
+
+    return ["9", "8"].includes(versionMinor)
+      ? `https://raw.communitydragon.org/${`${versionMajor}.${prevVersionMinor}`}/game/assets/ux/tft/championsplashes/${id.toLowerCase()}_${postfix1}.${postfix2}.png`
+      : `https://raw.communitydragon.org/${version}/game/assets/ux/tft/championsplashes/${id.toLowerCase()}_${postfix1}.${postfix2}.png`;
   }
 
   private getStars(id: number) {
@@ -193,16 +209,21 @@ export default class TFTUnit extends ModelBase {
     const baseItems = searched.composition.map((id) => {
       const searched = this.cdragon.items.find((item) => item.apiName === id);
       if (!searched) throw `Item data for id: ${id} not found.`;
+
+      const imageUrl = this.getItemImageUrl(searched.icon);
+
       return {
         apiName: searched.apiName,
         name: searched.name,
-        imageUrl: this.getItemImageUrl(searched.icon),
+        imageUrl,
       };
     });
 
+    const imageUrl = this.getItemImageUrl(searched.icon);
+
     return {
       ...searched,
-      imageUrl: this.getItemImageUrl(searched.icon),
+      imageUrl,
       baseItems,
       count: item.count,
     };
@@ -212,14 +233,27 @@ export default class TFTUnit extends ModelBase {
     let path = rawPath.toLowerCase().replace(".dds", ".png");
     path = path.replace(".tex", ".png");
 
-    const version = this.version === "13.8" ? "13.7" : this.version;
+    const [versionMajor, versionMinor] = this.version.split(".");
+    let prevVersionMinor = parseInt(versionMinor) - 1;
 
-    return `https://raw.communitydragon.org/${version}/game/${path}`;
+    if (prevVersionMinor === 8) prevVersionMinor--;
+
+    return ["9", "8"].includes(versionMinor)
+      ? `https://raw.communitydragon.org/${`${versionMajor}.${prevVersionMinor}`}/game/${path}`
+      : `https://raw.communitydragon.org/${this.version}/game/${path}`;
   }
 
   private getTraitImageUrl(rawPath: string) {
     const path = rawPath.toLowerCase().replace(".tex", ".png");
-    return `https://raw.communitydragon.org/${this.version}/game/${path}`;
+
+    const [versionMajor, versionMinor] = this.version.split(".");
+    let prevVersionMinor = parseInt(versionMinor) - 1;
+
+    if (prevVersionMinor === 8) prevVersionMinor--;
+
+    return ["9", "8"].includes(versionMinor)
+      ? `https://raw.communitydragon.org/${`${versionMajor}.${prevVersionMinor}`}/game/${path}`
+      : `https://raw.communitydragon.org/${this.version}/game/${path}`;
   }
 
   public static getColor(cost: number) {

@@ -103,8 +103,13 @@ export default class TFTAugment extends ModelBase {
     rawPath = rawPath.replace(".dds", ".png");
     rawPath = rawPath.replace(".tex", ".png");
 
-    const version = this.version === "13.8" ? "13.7" : this.version;
+    const [versionMajor, versionMinor] = this.version.split(".");
+    let prevVersionMinor = parseInt(versionMinor) - 1;
 
-    return `https://raw.communitydragon.org/${version}/game/${rawPath}`;
+    if (prevVersionMinor === 8) prevVersionMinor--;
+
+    return ["9", "8"].includes(versionMinor)
+      ? `https://raw.communitydragon.org/${`${versionMajor}.${prevVersionMinor}`}/game/${rawPath}`
+      : `https://raw.communitydragon.org/${this.version}/game/${rawPath}`;
   }
 }

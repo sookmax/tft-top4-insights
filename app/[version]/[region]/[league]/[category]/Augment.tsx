@@ -14,9 +14,9 @@ export default function Augment(props: TFTAugmentParams) {
       <div className="flex flex-shrink-0">
         <div className="h-14 aspect-square flex-shrink-0 border border-gray-500">
           <img
+            className="w-full h-full"
             src={augment.imageUrl}
             alt={augment.id}
-            className="w-full h-full"
           />
         </div>
         <div className="flex-grow px-2 py-1">

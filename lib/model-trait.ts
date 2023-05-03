@@ -80,24 +80,29 @@ export default class TFTTrait extends ModelBase {
         }
 
         const [color, borderColor] = this.getColor(stats.style);
+        const imageUrl = this.getImageUrl(staticData.icon);
         return {
           id: stats.id,
           name: staticData.name,
           count: stats.count,
           color,
           borderColor,
-          imageUrl: this.getImageUrl(staticData.icon),
+          imageUrl,
           unitCount: staticData.effects[stats.tierCurrent - 1].minUnits,
-          units: staticData.units.map((unit) => ({
-            ...unit,
-            imageUrl: TFTUnit.getImageUrl(
+          units: staticData.units.map((unit) => {
+            const imageUrl = TFTUnit.getImageUrl(
               unit.apiName,
               !this.stage1Units.includes(unit.apiName) &&
                 this.stage2Units.includes(unit.apiName),
               this.version
-            ),
-            color: TFTUnit.getColor(unit.cost),
-          })),
+            );
+
+            return {
+              ...unit,
+              imageUrl,
+              color: TFTUnit.getColor(unit.cost),
+            };
+          }),
         };
       }
     }
@@ -108,7 +113,15 @@ export default class TFTTrait extends ModelBase {
   private getImageUrl(rawPath: string) {
     rawPath = rawPath.toLowerCase();
     rawPath = rawPath.replace(".tex", ".png");
-    return `https://raw.communitydragon.org/${this.version}/game/${rawPath}`;
+
+    const [versionMajor, versionMinor] = this.version.split(".");
+    let prevVersionMinor = parseInt(versionMinor) - 1;
+
+    if (prevVersionMinor === 8) prevVersionMinor--;
+
+    return ["9", "8"].includes(versionMinor)
+      ? `https://raw.communitydragon.org/${`${versionMajor}.${prevVersionMinor}`}/game/${rawPath}`
+      : `https://raw.communitydragon.org/${this.version}/game/${rawPath}`;
   }
 
   private getColor(style: number) {

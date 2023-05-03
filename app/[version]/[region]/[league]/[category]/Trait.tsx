@@ -140,9 +140,9 @@ export default function Trait({ allTraitStats, ...rest }: Props) {
                           }}
                         >
                           <img
+                            className="w-full h-full"
                             src={neighbor.imageUrl}
                             alt={neighbor.id}
-                            className="w-full h-full"
                           />
                         </button>
                       }
@@ -172,9 +172,9 @@ export default function Trait({ allTraitStats, ...rest }: Props) {
                                     style={{ borderColor: unit.color }}
                                   >
                                     <img
+                                      className="w-full h-full"
                                       src={unit.imageUrl}
                                       alt={unit.apiName}
-                                      className="w-full h-full"
                                     />
                                   </button>
                                 }

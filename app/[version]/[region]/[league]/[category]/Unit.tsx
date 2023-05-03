@@ -29,9 +29,9 @@ export default function Unit({ allUnitStats, ...rest }: Props) {
           }}
         >
           <img
+            className="w-full h-full object-cover"
             src={unit.imageUrl}
             alt={unit.id}
-            className="w-full h-full object-cover"
           />
         </div>
         <div className="flex-grow p-1 pb-2 overflow-x-auto space-y-1">
@@ -54,9 +54,9 @@ export default function Unit({ allUnitStats, ...rest }: Props) {
                   trigger={
                     <button className="w-6 aspect-square border border-gray-500">
                       <img
+                        className="w-full h-full"
                         src={trait.imageUrl}
                         alt={trait.apiName}
-                        className="w-full h-full"
                       />
                     </button>
                   }
@@ -67,10 +67,9 @@ export default function Unit({ allUnitStats, ...rest }: Props) {
                       </div>
                       <div className="grid grid-cols-3 gap-1">
                         {trait.units.map((traitUnit) => {
-                          const traitUnitRank =
-                            allUnitStats.findIndex(
-                              (unit) => unit.id === traitUnit.apiName
-                            ) + 1;
+                          const traitUnitRank = allUnitStats.find(
+                            (unit) => unit.id === traitUnit.apiName
+                          )?.rank;
                           return (
                             <Popover
                               key={traitUnit.apiName}
@@ -81,6 +80,7 @@ export default function Unit({ allUnitStats, ...rest }: Props) {
                                   style={{ borderColor: traitUnit.color }}
                                 >
                                   <img
+                                    className="w-full h-full"
                                     src={traitUnit.imageUrl}
                                     alt={traitUnit.apiName}
                                   />
@@ -145,9 +145,9 @@ export default function Unit({ allUnitStats, ...rest }: Props) {
                         trigger={
                           <button className="w-9 aspect-square border border-gray-500 flex-shrink-0">
                             <img
+                              className="w-full h-full"
                               src={item.imageUrl}
                               alt={item.apiName}
-                              className="w-full h-full"
                             />
                           </button>
                         }
@@ -165,6 +165,7 @@ export default function Unit({ allUnitStats, ...rest }: Props) {
                                         <img
                                           src={baseItem.imageUrl}
                                           alt={baseItem.apiName}
+                                          className="w-full h-full"
                                         />
                                       </div>
                                       <div className="text-xs w-16 flex justify-center text-center">
@@ -199,8 +200,9 @@ export default function Unit({ allUnitStats, ...rest }: Props) {
         <div className="relative">
           <div className="flex space-x-[6px] overflow-x-auto">
             {unit.neighbors.map((neighbor) => {
-              const neighborRank =
-                allUnitStats.findIndex((unit) => unit.id === neighbor.id) + 1;
+              const neighborRank = allUnitStats.find(
+                (unit) => unit.id === neighbor.id
+              )?.rank;
               const top3Items = neighbor.items.slice(0, 3);
               const top3ItemsInitialLength = top3Items.length;
 
@@ -278,9 +280,9 @@ export default function Unit({ allUnitStats, ...rest }: Props) {
                               className="flex-1 w-1/3 aspect-square"
                             >
                               <img
+                                className="h-full w-full"
                                 src={item.imageUrl}
                                 alt={item.apiName}
-                                className="h-full w-full"
                               />
                             </button>
                           }
@@ -299,6 +301,7 @@ export default function Unit({ allUnitStats, ...rest }: Props) {
                                             <img
                                               src={baseItem.imageUrl}
                                               alt={baseItem.apiName}
+                                              className="w-full h-full"
                                             />
                                           </div>
                                           <div className="text-xs w-16 flex justify-center text-center">
