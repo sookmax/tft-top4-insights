@@ -66,36 +66,44 @@ export default class CDragon {
     );
 
     for (const version of versions) {
-      const json = (await fetch(
-        `https://raw.communitydragon.org/${version}/cdragon/tft/en_us.json`
-      )
-        .then((res) => res.json())
-        .then((rawJson) => {
-          delete rawJson.sets;
+      let rawJson;
 
-          (rawJson.items as any[]).forEach((item) => {
-            // delete item.desc;
-            // delete item.effects;
-            delete item.associatedTraits;
-            delete item.from;
-            delete item.id;
-            delete item.incompatibleTraits;
-            delete item.unique;
-          });
+      try {
+        rawJson = await fetch(
+          `https://raw.communitydragon.org/${version}/cdragon/tft/en_us.json`
+        ).then((res) => res.json());
+      } catch (e) {
+        if (e instanceof SyntaxError) {
+          rawJson = await fetch(
+            `https://raw.communitydragon.org/latest/cdragon/tft/en_us.json`
+          ).then((res) => res.json());
+        }
+      }
 
-          (rawJson.setData as any[]).forEach((setData) => {
-            (setData.champions as any[]).forEach((champion) => {
-              delete champion.ability;
-              delete champion.stats;
-            });
-            (setData.traits as any[]).forEach((trait) => {
-              delete trait.desc;
-              // delete trait.effects;
-            });
-          });
+      delete rawJson.sets;
 
-          return rawJson;
-        })) as CDragonJSON;
+      (rawJson.items as any[]).forEach((item) => {
+        // delete item.desc;
+        // delete item.effects;
+        delete item.associatedTraits;
+        delete item.from;
+        delete item.id;
+        delete item.incompatibleTraits;
+        delete item.unique;
+      });
+
+      (rawJson.setData as any[]).forEach((setData) => {
+        (setData.champions as any[]).forEach((champion) => {
+          delete champion.ability;
+          delete champion.stats;
+        });
+        (setData.traits as any[]).forEach((trait) => {
+          delete trait.desc;
+          // delete trait.effects;
+        });
+      });
+
+      const json = rawJson as CDragonJSON;
 
       json.setData = json.setData
         .filter(
