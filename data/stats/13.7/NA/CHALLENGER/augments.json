@@ -3,11 +3,11 @@
   "region": "NA",
   "version": "13.7",
   "league": "CHALLENGER",
-  "count": 216,
+  "count": 221,
   "value": [
     {
       "id": "TFT6_Augment_JeweledLotus",
-      "count": 113,
+      "count": 118,
       "neighbors": [
         {
           "id": "TFT6_Augment_PortableForge",
@@ -15,6 +15,18 @@
         },
         {
           "id": "TFT6_Augment_SecondWind2",
+          "count": 6
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt2",
+          "count": 6
+        },
+        {
+          "id": "TFT8_Augment_KaisaCarry",
+          "count": 5
+        },
+        {
+          "id": "TFT8_Augment_OxForceEmblem",
           "count": 5
         },
         {
@@ -34,41 +46,29 @@
           "count": 5
         },
         {
-          "id": "TFT6_Augment_ThrillOfTheHunt2",
-          "count": 5
-        },
-        {
-          "id": "TFT8_Augment_QuickdrawTrait",
-          "count": 4
-        },
-        {
-          "id": "TFT7_Augment_AxiomArc2",
-          "count": 4
-        },
-        {
-          "id": "TFT8_Augment_CamilleSupport",
+          "id": "TFT6_Augment_Ascension",
           "count": 4
         }
       ],
       "rank": 1,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_PortableForge",
-      "count": 95,
+      "count": 98,
       "neighbors": [
         {
           "id": "TFT6_Augment_JeweledLotus",
           "count": 14
         },
         {
-          "id": "TFT8_Augment_KaisaCarry",
+          "id": "TFT6_Augment_SecondWind2",
           "count": 7
         },
         {
-          "id": "TFT6_Augment_SecondWind2",
-          "count": 6
+          "id": "TFT8_Augment_KaisaCarry",
+          "count": 7
         },
         {
           "id": "TFT6_Augment_ComponentGrabBag",
@@ -95,32 +95,32 @@
           "count": 4
         },
         {
-          "id": "TFT6_Augment_ThrillOfTheHunt2",
+          "id": "TFT8_Augment_InfiniteamEmblem",
           "count": 3
         }
       ],
       "rank": 2,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_SecondWind2",
-      "count": 69,
+      "count": 71,
       "neighbors": [
         {
           "id": "TFT6_Augment_PortableForge",
-          "count": 6
+          "count": 7
         },
         {
           "id": "TFT6_Augment_JeweledLotus",
-          "count": 5
-        },
-        {
-          "id": "TFT8_Augment_InfiniteamEmblem",
-          "count": 5
+          "count": 6
         },
         {
           "id": "TFT8_Augment_KaisaCarry",
+          "count": 6
+        },
+        {
+          "id": "TFT8_Augment_InfiniteamEmblem",
           "count": 5
         },
         {
@@ -144,28 +144,28 @@
           "count": 3
         },
         {
-          "id": "TFT6_Augment_Distancing2",
+          "id": "TFT8_Augment_InterPolarisTrait",
           "count": 2
         }
       ],
       "rank": 3,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_TomeOfTraits1",
-      "count": 62,
+      "count": 63,
       "neighbors": [
+        {
+          "id": "TFT8_Augment_LeBlancGlitch",
+          "count": 5
+        },
         {
           "id": "TFT8_5_Augment_GnarSupport",
           "count": 5
         },
         {
           "id": "TFT6_Augment_JeweledLotus",
-          "count": 4
-        },
-        {
-          "id": "TFT8_Augment_LeBlancGlitch",
           "count": 4
         },
         {
@@ -199,15 +199,15 @@
       ],
       "rank": 4,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_ThrillOfTheHunt2",
-      "count": 53,
+      "count": 54,
       "neighbors": [
         {
           "id": "TFT6_Augment_JeweledLotus",
-          "count": 5
+          "count": 6
         },
         {
           "id": "TFT8_Augment_LeBlancGlitch",
@@ -216,6 +216,10 @@
         {
           "id": "TFT6_Augment_Ascension",
           "count": 4
+        },
+        {
+          "id": "TFT6_Augment_Twins2",
+          "count": 3
         },
         {
           "id": "TFT6_Augment_PortableForge",
@@ -240,23 +244,19 @@
         {
           "id": "TFT8_Augment_BlitzcrankCarry",
           "count": 3
-        },
-        {
-          "id": "TFT8_5_Augment_SivirSupport",
-          "count": 3
         }
       ],
       "rank": 5,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_AxiomArc2",
-      "count": 49,
+      "count": 50,
       "neighbors": [
         {
           "id": "TFT8_Augment_LeBlancGlitch",
-          "count": 11
+          "count": 12
         },
         {
           "id": "TFT8_Augment_BlitzcrankCarry",
@@ -297,11 +297,11 @@
       ],
       "rank": 6,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_ComponentGrabBag",
-      "count": 48,
+      "count": 49,
       "neighbors": [
         {
           "id": "TFT6_Augment_PortableForge",
@@ -336,33 +336,37 @@
           "count": 3
         },
         {
-          "id": "TFT6_Augment_Distancing2",
+          "id": "TFT6_Augment_CelestialBlessing2",
           "count": 2
         },
         {
-          "id": "TFT6_Augment_SecondWind2",
+          "id": "TFT6_Augment_Distancing2",
           "count": 2
         }
       ],
       "rank": 7,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Ascension",
-      "count": 42,
+      "count": 43,
       "neighbors": [
         {
           "id": "TFT6_Augment_SecondWind1",
           "count": 5
         },
         {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 4
+        },
+        {
           "id": "TFT6_Augment_ThrillOfTheHunt2",
           "count": 4
         },
         {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 3
+          "id": "TFT8_5_Augment_PantheonSupport",
+          "count": 2
         },
         {
           "id": "TFT8_5_Augment_PykeCarry",
@@ -387,15 +391,207 @@
         {
           "id": "TFT8_Augment_FiddlesticksSupport",
           "count": 2
-        },
-        {
-          "id": "TFT6_Augment_ItemGrabBag1",
-          "count": 2
         }
       ],
       "rank": 8,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT6_Augment_Distancing2",
+      "count": 36,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_KaisaCarry",
+          "count": 5
+        },
+        {
+          "id": "TFT6_Augment_CelestialBlessing2",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TradeSector",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_ComponentGrabBag",
+          "count": 2
+        },
+        {
+          "id": "TFT8_5_Augment_WarwickSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_StarGuardianEmblem",
+          "count": 2
+        },
+        {
+          "id": "TFT8_5_Augment_GnarSupport",
+          "count": 2
+        }
+      ],
+      "rank": 9,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_LeBlancGlitch",
+      "count": 35,
+      "neighbors": [
+        {
+          "id": "TFT7_Augment_AxiomArc2",
+          "count": 12
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 5
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 5
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 5
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt2",
+          "count": 5
+        },
+        {
+          "id": "TFT8_Augment_ADMINEmblem",
+          "count": 4
+        },
+        {
+          "id": "TFT6_Augment_ThreesCompany",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_SunfireBoard",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TrueTwos",
+          "count": 2
+        },
+        {
+          "id": "TFT7_Augment_UrfsGrabBag2",
+          "count": 2
+        }
+      ],
+      "rank": 10,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_InfiniteamEmblem",
+      "count": 35,
+      "neighbors": [
+        {
+          "id": "TFT8_5_Augment_ShenSupport",
+          "count": 8
+        },
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 5
+        },
+        {
+          "id": "TFT8_5_Augment_PantheonSupport",
+          "count": 4
+        },
+        {
+          "id": "TFT8_5_Augment_EzrealFutureSupport",
+          "count": 4
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 3
+        },
+        {
+          "id": "TFT8_5_Augment_SivirCarry",
+          "count": 3
+        },
+        {
+          "id": "TFT8_Augment_DeadeyeTrait",
+          "count": 2
+        },
+        {
+          "id": "TFT8_5_Augment_EzrealFutureCarry",
+          "count": 2
+        }
+      ],
+      "rank": 10,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_KaisaCarry",
+      "count": 35,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 7
+        },
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 6
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 5
+        },
+        {
+          "id": "TFT6_Augment_Distancing2",
+          "count": 5
+        },
+        {
+          "id": "TFT8_Augment_StarGuardianEmblem",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_CyberneticUplink2",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_WoodlandCharm",
+          "count": 3
+        },
+        {
+          "id": "TFT7_Augment_TomeOfTraits2",
+          "count": 3
+        },
+        {
+          "id": "TFT8_Augment_QuickdrawTrait",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_CyberneticUplink1",
+          "count": 2
+        }
+      ],
+      "rank": 10,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_SecondWind1",
@@ -442,36 +638,69 @@
           "count": 2
         }
       ],
-      "rank": 9,
+      "rank": 10,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
-      "id": "TFT8_Augment_KaisaCarry",
+      "id": "TFT6_Augment_TradeSectorPlus",
       "count": 34,
       "neighbors": [
         {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 7
-        },
-        {
-          "id": "TFT6_Augment_Distancing2",
-          "count": 5
-        },
-        {
-          "id": "TFT6_Augment_SecondWind2",
-          "count": 5
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 4
-        },
-        {
-          "id": "TFT8_Augment_StarGuardianEmblem",
+          "id": "TFT6_Augment_CyberneticUplink2",
           "count": 3
         },
         {
-          "id": "TFT6_Augment_CyberneticUplink2",
+          "id": "TFT6_Augment_PortableForge",
+          "count": 3
+        },
+        {
+          "id": "TFT8_Augment_DefenderEmblem",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_RenegadePartners",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_SyndraSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_RellCarry",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 2
+        },
+        {
+          "id": "TFT7_Augment_ClutteredMind",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_BlitzcrankSupport",
+          "count": 2
+        }
+      ],
+      "rank": 11,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT6_Augment_CelestialBlessing2",
+      "count": 33,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 4
+        },
+        {
+          "id": "TFT6_Augment_Distancing2",
           "count": 3
         },
         {
@@ -479,36 +708,15 @@
           "count": 3
         },
         {
-          "id": "TFT7_Augment_TomeOfTraits2",
+          "id": "TFT6_Augment_JeweledLotus",
           "count": 3
         },
         {
-          "id": "TFT8_Augment_QuickdrawTrait",
+          "id": "TFT8_Augment_RellCarry",
           "count": 2
         },
         {
-          "id": "TFT6_Augment_CyberneticUplink1",
-          "count": 2
-        }
-      ],
-      "rank": 10,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT6_Augment_Distancing2",
-      "count": 33,
-      "neighbors": [
-        {
-          "id": "TFT8_Augment_KaisaCarry",
-          "count": 5
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_TradeSector",
+          "id": "TFT8_5_Augment_LucianSupport",
           "count": 2
         },
         {
@@ -516,131 +724,70 @@
           "count": 2
         },
         {
-          "id": "TFT8_5_Augment_WarwickSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_SecondWind2",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_StarGuardianEmblem",
-          "count": 2
-        },
-        {
-          "id": "TFT8_5_Augment_GnarSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT8_5_Augment_TwistedFateSupport",
-          "count": 2
-        },
-        {
           "id": "TFT8_Augment_AnnieSupport",
           "count": 2
-        }
-      ],
-      "rank": 11,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_InfiniteamEmblem",
-      "count": 33,
-      "neighbors": [
-        {
-          "id": "TFT8_5_Augment_ShenSupport",
-          "count": 7
         },
         {
-          "id": "TFT6_Augment_SecondWind2",
-          "count": 5
+          "id": "TFT8_5_Augment_NeekoSupport",
+          "count": 2
         },
         {
           "id": "TFT8_5_Augment_PantheonSupport",
-          "count": 4
-        },
+          "count": 2
+        }
+      ],
+      "rank": 12,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT6_Augment_TargetDummies",
+      "count": 32,
+      "neighbors": [
         {
-          "id": "TFT8_5_Augment_EzrealFutureSupport",
-          "count": 4
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
+          "id": "TFT6_Augment_ThrillOfTheHunt2",
           "count": 3
         },
         {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 3
-        },
-        {
-          "id": "TFT8_5_Augment_SivirCarry",
-          "count": 3
-        },
-        {
-          "id": "TFT8_Augment_DeadeyeTrait",
+          "id": "TFT8_5_Augment_MorganaSupport",
           "count": 2
         },
         {
-          "id": "TFT8_5_Augment_EzrealFutureCarry",
+          "id": "TFT8_Augment_QuickdrawTrait",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_EzrealCarry",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_SyndraSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT8_5_Augment_ShenSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_RellSupport",
           "count": 2
         },
         {
           "id": "TFT8_5_Augment_GarenSupport",
           "count": 2
+        },
+        {
+          "id": "TFT8_Augment_InterPolarisTrait2",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_MordekaiserSupport",
+          "count": 1
         }
       ],
-      "rank": 11,
+      "rank": 13,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_LeBlancGlitch",
-      "count": 33,
-      "neighbors": [
-        {
-          "id": "TFT7_Augment_AxiomArc2",
-          "count": 11
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 5
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 5
-        },
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt2",
-          "count": 5
-        },
-        {
-          "id": "TFT8_Augment_ADMINEmblem",
-          "count": 4
-        },
-        {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 4
-        },
-        {
-          "id": "TFT6_Augment_ThreesCompany",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_SunfireBoard",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_TrueTwos",
-          "count": 2
-        },
-        {
-          "id": "TFT7_Augment_UrfsGrabBag2",
-          "count": 2
-        }
-      ],
-      "rank": 11,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_SunfireBoard",
@@ -687,156 +834,9 @@
           "count": 2
         }
       ],
-      "rank": 12,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT6_Augment_TargetDummies",
-      "count": 31,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt2",
-          "count": 3
-        },
-        {
-          "id": "TFT8_5_Augment_MorganaSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_QuickdrawTrait",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_EzrealCarry",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_SyndraSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT8_5_Augment_ShenSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_RellSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT8_5_Augment_GarenSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_CalculatedLoss",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 1
-        }
-      ],
       "rank": 13,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT6_Augment_CelestialBlessing2",
-      "count": 31,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 4
-        },
-        {
-          "id": "TFT6_Augment_WoodlandCharm",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_Distancing2",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_AnnieSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT8_5_Augment_NeekoSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT8_5_Augment_PantheonSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_ThreesCompany",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_ViCarry",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_KaisaCarry",
-          "count": 2
-        }
-      ],
-      "rank": 13,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT6_Augment_TradeSectorPlus",
-      "count": 31,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_CyberneticUplink2",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 3
-        },
-        {
-          "id": "TFT8_Augment_RellCarry",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 2
-        },
-        {
-          "id": "TFT7_Augment_ClutteredMind",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_BlitzcrankSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_InterPolarisTrait",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_RadiantRelics",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_EkkoSupport",
-          "count": 1
-        }
-      ],
-      "rank": 13,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_WarwickSupport",
@@ -885,7 +885,7 @@
       ],
       "rank": 14,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_CamilleSupport",
@@ -934,7 +934,7 @@
       ],
       "rank": 15,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_ThrillOfTheHunt1",
@@ -983,7 +983,105 @@
       ],
       "rank": 16,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_GenAEEmblem",
+      "count": 27,
+      "neighbors": [
+        {
+          "id": "TFT8_5_Augment_GnarSupport",
+          "count": 9
+        },
+        {
+          "id": "TFT8_5_Augment_PykeSupport",
+          "count": 4
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 4
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 3
+        },
+        {
+          "id": "TFT8_Augment_NunuCarry",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_GachaAddict",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_PoppyCarry",
+          "count": 2
+        },
+        {
+          "id": "TFT7_Augment_AxiomArc2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_CyberneticImplants2",
+          "count": 2
+        }
+      ],
+      "rank": 17,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_SyndraSupport",
+      "count": 27,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_ComponentGrabBag",
+          "count": 5
+        },
+        {
+          "id": "TFT8_Augment_StarGuardianEmblem",
+          "count": 4
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 4
+        },
+        {
+          "id": "TFT6_Augment_CyberneticUplink2",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_ThreesCompany",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_TradeSectorPlus",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TargetDummies",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 2
+        }
+      ],
+      "rank": 17,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_BlitzcrankCarry",
@@ -1032,109 +1130,11 @@
       ],
       "rank": 17,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_GenAEEmblem",
-      "count": 26,
-      "neighbors": [
-        {
-          "id": "TFT8_5_Augment_GnarSupport",
-          "count": 9
-        },
-        {
-          "id": "TFT8_5_Augment_PykeSupport",
-          "count": 4
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 4
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 3
-        },
-        {
-          "id": "TFT8_Augment_NunuCarry",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_GachaAddict",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_PoppyCarry",
-          "count": 2
-        },
-        {
-          "id": "TFT7_Augment_AxiomArc2",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_CyberneticImplants2",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_SecondWind2",
-          "count": 2
-        }
-      ],
-      "rank": 18,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_SyndraSupport",
-      "count": 26,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_ComponentGrabBag",
-          "count": 5
-        },
-        {
-          "id": "TFT8_Augment_StarGuardianEmblem",
-          "count": 4
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 4
-        },
-        {
-          "id": "TFT6_Augment_CyberneticUplink2",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_ThreesCompany",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_SecondWind2",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_TargetDummies",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_DefenderTrait",
-          "count": 2
-        }
-      ],
-      "rank": 18,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_QuickdrawTrait",
-      "count": 25,
+      "count": 26,
       "neighbors": [
         {
           "id": "TFT6_Augment_PortableForge",
@@ -1143,6 +1143,10 @@
         {
           "id": "TFT6_Augment_JeweledLotus",
           "count": 4
+        },
+        {
+          "id": "TFT8_Augment_RellCarry",
+          "count": 3
         },
         {
           "id": "TFT7_Augment_AxiomArc2",
@@ -1165,10 +1169,6 @@
           "count": 2
         },
         {
-          "id": "TFT8_Augment_RellCarry",
-          "count": 2
-        },
-        {
           "id": "TFT6_Augment_ComponentGrabBag",
           "count": 2
         },
@@ -1177,9 +1177,9 @@
           "count": 2
         }
       ],
-      "rank": 19,
+      "rank": 18,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_GnarSupport",
@@ -1228,7 +1228,7 @@
       ],
       "rank": 19,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_TomeOfTraits2",
@@ -1277,7 +1277,56 @@
       ],
       "rank": 19,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_InterPolarisTrait",
+      "count": 24,
+      "neighbors": [
+        {
+          "id": "TFT8_5_Augment_WarwickSupport",
+          "count": 6
+        },
+        {
+          "id": "TFT8_Augment_YasuoSupport",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_Distancing",
+          "count": 3
+        },
+        {
+          "id": "TFT8_Augment_MordekaiserCarry",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 2
+        },
+        {
+          "id": "TFT8_5_Augment_WarwickCarry",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_BrawlerEmblem",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_HighEndShopping",
+          "count": 2
+        }
+      ],
+      "rank": 20,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_RadiantRelics",
@@ -1326,7 +1375,105 @@
       ],
       "rank": 20,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_RellCarry",
+      "count": 23,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_StarGuardianEmblem",
+          "count": 5
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 5
+        },
+        {
+          "id": "TFT8_Augment_QuickdrawTrait",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_SunfireBoard",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_CelestialBlessing2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TradeSectorPlus",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_Ascension",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_Distancing2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TriForce1",
+          "count": 1
+        }
+      ],
+      "rank": 21,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_5_Augment_ShenSupport",
+      "count": 23,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_InfiniteamEmblem",
+          "count": 8
+        },
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 4
+        },
+        {
+          "id": "TFT8_Augment_InfiniteamTrait",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_CyberneticUplink2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TargetDummies",
+          "count": 2
+        },
+        {
+          "id": "TFT7_Augment_UrfsGrabBag2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TinyTitans",
+          "count": 1
+        }
+      ],
+      "rank": 21,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_BandOfThieves1",
@@ -1375,7 +1522,7 @@
       ],
       "rank": 21,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_CyberneticUplink2",
@@ -1424,7 +1571,7 @@
       ],
       "rank": 21,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_ThreesCompany",
@@ -1473,56 +1620,7 @@
       ],
       "rank": 21,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_InterPolarisTrait",
-      "count": 22,
-      "neighbors": [
-        {
-          "id": "TFT8_5_Augment_WarwickSupport",
-          "count": 6
-        },
-        {
-          "id": "TFT6_Augment_Distancing",
-          "count": 3
-        },
-        {
-          "id": "TFT8_Augment_MordekaiserCarry",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 2
-        },
-        {
-          "id": "TFT8_5_Augment_WarwickCarry",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_BrawlerEmblem",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_YasuoSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_HighEndShopping",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_TradeSectorPlus",
-          "count": 2
-        }
-      ],
-      "rank": 22,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_FiddlesticksSupport",
@@ -1571,7 +1669,7 @@
       ],
       "rank": 22,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_NeekoSupport",
@@ -1620,56 +1718,7 @@
       ],
       "rank": 22,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_5_Augment_ShenSupport",
-      "count": 22,
-      "neighbors": [
-        {
-          "id": "TFT8_Augment_InfiniteamEmblem",
-          "count": 7
-        },
-        {
-          "id": "TFT6_Augment_SecondWind2",
-          "count": 4
-        },
-        {
-          "id": "TFT8_Augment_InfiniteamTrait",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_CyberneticUplink2",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt2",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_TargetDummies",
-          "count": 2
-        },
-        {
-          "id": "TFT7_Augment_UrfsGrabBag2",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_TinyTitans",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_HackerEmblem",
-          "count": 1
-        }
-      ],
-      "rank": 22,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_GachaAddict",
@@ -1718,7 +1767,56 @@
       ],
       "rank": 22,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_StarGuardianEmblem",
+      "count": 21,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_RellCarry",
+          "count": 5
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 5
+        },
+        {
+          "id": "TFT8_Augment_SyndraSupport",
+          "count": 4
+        },
+        {
+          "id": "TFT8_Augment_KaisaCarry",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_Distancing2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_CyberneticUplink2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 2
+        },
+        {
+          "id": "TFT8_5_Augment_NeekoSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt2",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_QuickdrawTrait",
+          "count": 1
+        }
+      ],
+      "rank": 23,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_CelestialBlessing1",
@@ -1767,105 +1865,7 @@
       ],
       "rank": 23,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_RellCarry",
-      "count": 21,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 5
-        },
-        {
-          "id": "TFT8_Augment_StarGuardianEmblem",
-          "count": 4
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_SunfireBoard",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_TradeSectorPlus",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_QuickdrawTrait",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_Ascension",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_TriForce1",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_CyberneticUplink1",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TinyTitans",
-          "count": 1
-        }
-      ],
-      "rank": 23,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_StarGuardianEmblem",
-      "count": 20,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 5
-        },
-        {
-          "id": "TFT8_Augment_SyndraSupport",
-          "count": 4
-        },
-        {
-          "id": "TFT8_Augment_RellCarry",
-          "count": 4
-        },
-        {
-          "id": "TFT8_Augment_KaisaCarry",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_Distancing2",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_CyberneticUplink2",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 2
-        },
-        {
-          "id": "TFT8_5_Augment_NeekoSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt2",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_RichGetRicherPlus",
-          "count": 1
-        }
-      ],
-      "rank": 24,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_GarenSupport",
@@ -1914,7 +1914,56 @@
       ],
       "rank": 24,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_5_Augment_EzrealFutureSupport",
+      "count": 19,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 4
+        },
+        {
+          "id": "TFT8_Augment_InfiniteamEmblem",
+          "count": 4
+        },
+        {
+          "id": "TFT7_Augment_UrfsGrabBag2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_InfiniteamTrait",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_ItemGrabBag1",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TinyTitans",
+          "count": 1
+        },
+        {
+          "id": "TFT7_Augment_ClutteredMind",
+          "count": 1
+        }
+      ],
+      "rank": 25,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_AnnieSupport",
@@ -1963,7 +2012,7 @@
       ],
       "rank": 25,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_TradeSector",
@@ -2012,7 +2061,7 @@
       ],
       "rank": 25,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_WoodlandCharm",
@@ -2061,7 +2110,7 @@
       ],
       "rank": 25,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_RichGetRicher",
@@ -2110,7 +2159,105 @@
       ],
       "rank": 25,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT7_Augment_Preparation2",
+      "count": 18,
+      "neighbors": [
+        {
+          "id": "TFT7_Augment_AxiomArc2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_ThreesCompany",
+          "count": 2
+        },
+        {
+          "id": "TFT8_5_Augment_GarenSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_LeBlancGlitch",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_QuickdrawTrait",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_RichGetRicher",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_LeonaSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SyndraSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt1",
+          "count": 1
+        }
+      ],
+      "rank": 26,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_OxForceEmblem",
+      "count": 18,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 5
+        },
+        {
+          "id": "TFT8_Augment_AnnieSupport",
+          "count": 5
+        },
+        {
+          "id": "TFT8_5_Augment_NeekoSupport",
+          "count": 4
+        },
+        {
+          "id": "TFT6_Augment_RadiantRelics",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_OxForceEmblem2",
+          "count": 2
+        },
+        {
+          "id": "TFT7_Augment_TomeOfTraits2",
+          "count": 2
+        },
+        {
+          "id": "TFT8_5_Augment_TwistedFateSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_Distancing2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_CyberneticUplink2",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SyndraSupport",
+          "count": 1
+        }
+      ],
+      "rank": 26,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_TinyTitans",
@@ -2159,56 +2306,7 @@
       ],
       "rank": 26,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_5_Augment_EzrealFutureSupport",
-      "count": 18,
-      "neighbors": [
-        {
-          "id": "TFT8_Augment_InfiniteamEmblem",
-          "count": 4
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 3
-        },
-        {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_InfiniteamTrait",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_ItemGrabBag1",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt2",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt1",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TinyTitans",
-          "count": 1
-        },
-        {
-          "id": "TFT7_Augment_ClutteredMind",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_DeadeyeEmblem",
-          "count": 1
-        }
-      ],
-      "rank": 26,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_TwistedFateSupport",
@@ -2257,7 +2355,7 @@
       ],
       "rank": 26,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Distancing",
@@ -2306,56 +2404,7 @@
       ],
       "rank": 26,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_OxForceEmblem",
-      "count": 17,
-      "neighbors": [
-        {
-          "id": "TFT8_Augment_AnnieSupport",
-          "count": 5
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 4
-        },
-        {
-          "id": "TFT8_5_Augment_NeekoSupport",
-          "count": 4
-        },
-        {
-          "id": "TFT6_Augment_RadiantRelics",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_OxForceEmblem2",
-          "count": 2
-        },
-        {
-          "id": "TFT7_Augment_TomeOfTraits2",
-          "count": 2
-        },
-        {
-          "id": "TFT8_5_Augment_TwistedFateSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_CyberneticUplink2",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_SyndraSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_ChannelerEmblem",
-          "count": 1
-        }
-      ],
-      "rank": 27,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_ItemGrabBag1",
@@ -2404,56 +2453,7 @@
       ],
       "rank": 27,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT7_Augment_Preparation2",
-      "count": 17,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_ThreesCompany",
-          "count": 2
-        },
-        {
-          "id": "TFT8_5_Augment_GarenSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 2
-        },
-        {
-          "id": "TFT7_Augment_AxiomArc2",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_QuickdrawTrait",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_RichGetRicher",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_LeonaSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_SyndraSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt1",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_CelestialBlessing2",
-          "count": 1
-        }
-      ],
-      "rank": 27,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_ADMINEmblem",
@@ -2502,7 +2502,7 @@
       ],
       "rank": 28,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_PykeSupport",
@@ -2551,7 +2551,7 @@
       ],
       "rank": 28,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_Preparation",
@@ -2600,7 +2600,105 @@
       ],
       "rank": 28,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_5_Augment_PantheonSupport",
+      "count": 15,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_InfiniteamEmblem",
+          "count": 4
+        },
+        {
+          "id": "TFT6_Augment_Ascension",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_DeadeyeTrait",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TinyTitans",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_CelestialBlessing2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_Traitless2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_MakeshiftArmor2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_CyberneticUplink2",
+          "count": 1
+        }
+      ],
+      "rank": 29,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT7_Augment_UrfsGrabBag2",
+      "count": 15,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 4
+        },
+        {
+          "id": "TFT8_5_Augment_EzrealFutureSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_LeBlancGlitch",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_FiddlesticksSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT8_5_Augment_ShenSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_AnnieSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_RichGetRicherPlus",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Ascension",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_SunfireBoard",
+          "count": 1
+        }
+      ],
+      "rank": 29,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_MissFortuneCarry",
@@ -2649,7 +2747,7 @@
       ],
       "rank": 29,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_BrawlerEmblem",
@@ -2698,105 +2796,56 @@
       ],
       "rank": 29,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
-      "id": "TFT7_Augment_UrfsGrabBag2",
+      "id": "TFT8_Augment_SalvageBinPlus",
       "count": 14,
       "neighbors": [
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 3
-        },
         {
           "id": "TFT6_Augment_TomeOfTraits1",
           "count": 2
         },
         {
-          "id": "TFT8_Augment_LeBlancGlitch",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_FiddlesticksSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT8_5_Augment_ShenSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_AnnieSupport",
+          "id": "TFT8_Augment_YasuoSupport",
           "count": 1
         },
         {
-          "id": "TFT6_Augment_RichGetRicherPlus",
+          "id": "TFT8_Augment_InterPolarisTrait",
           "count": 1
         },
         {
-          "id": "TFT6_Augment_Ascension",
+          "id": "TFT8_Augment_AsheCarry",
           "count": 1
         },
         {
-          "id": "TFT6_Augment_SunfireBoard",
+          "id": "TFT7_Augment_LastStand",
           "count": 1
         },
         {
-          "id": "TFT6_Augment_HighEndShopping",
-          "count": 1
-        }
-      ],
-      "rank": 30,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_5_Augment_PantheonSupport",
-      "count": 14,
-      "neighbors": [
-        {
-          "id": "TFT8_Augment_InfiniteamEmblem",
-          "count": 4
-        },
-        {
-          "id": "TFT8_Augment_DeadeyeTrait",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_TinyTitans",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_CelestialBlessing2",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_Traitless2",
+          "id": "TFT8_Augment_StarGuardianEmblem2",
           "count": 1
         },
         {
-          "id": "TFT6_Augment_SecondWind2",
+          "id": "TFT8_Augment_KaisaCarry",
           "count": 1
         },
         {
-          "id": "TFT6_Augment_Ascension",
+          "id": "TFT8_5_Augment_PykeCarry",
           "count": 1
         },
         {
-          "id": "TFT6_Augment_MakeshiftArmor2",
+          "id": "TFT6_Augment_TargetDummies",
           "count": 1
         },
         {
-          "id": "TFT6_Augment_CyberneticUplink2",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_WoodlandCharm",
+          "id": "TFT6_Augment_ThrillOfTheHunt2",
           "count": 1
         }
       ],
       "rank": 30,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_TrueTwos",
@@ -2845,7 +2894,56 @@
       ],
       "rank": 30,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT7_Augment_LastStand",
+      "count": 13,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_AsheCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SalvageBinPlus",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_ViSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_GangplankSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_MascotEmblem2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_RichGetRicher",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_NeekoCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT7_Augment_TomeOfTraits2",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_GarenCarry",
+          "count": 1
+        }
+      ],
+      "rank": 31,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_NunuCarry",
@@ -2894,7 +2992,56 @@
       ],
       "rank": 31,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_5_Augment_LucianSupport",
+      "count": 12,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_CelestialBlessing2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_ComponentGrabBag",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Featherweights2",
+          "count": 1
+        },
+        {
+          "id": "TFT7_Augment_FirstAidKit2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_GachaAddict",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Ascension",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Featherweights3",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_QuickdrawTrait",
+          "count": 1
+        },
+        {
+          "id": "TFT7_Augment_LuckyGloves",
+          "count": 1
+        }
+      ],
+      "rank": 32,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_SamiraSupport",
@@ -2943,105 +3090,7 @@
       ],
       "rank": 32,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_SalvageBinPlus",
-      "count": 12,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_StarGuardianEmblem2",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_KaisaCarry",
-          "count": 1
-        },
-        {
-          "id": "TFT8_5_Augment_PykeCarry",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TargetDummies",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt2",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_MakeshiftArmor1",
-          "count": 1
-        },
-        {
-          "id": "TFT8_5_Augment_TwistedFateSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_BrawlerEmblem2",
-          "count": 1
-        },
-        {
-          "id": "TFT8_5_Augment_WarwickSupport",
-          "count": 1
-        }
-      ],
-      "rank": 32,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT7_Augment_LastStand",
-      "count": 12,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_ViSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_GangplankSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_MascotEmblem2",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_RichGetRicher",
-          "count": 1
-        },
-        {
-          "id": "TFT8_5_Augment_NeekoCarry",
-          "count": 1
-        },
-        {
-          "id": "TFT7_Augment_TomeOfTraits2",
-          "count": 1
-        },
-        {
-          "id": "TFT8_5_Augment_GarenCarry",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_InfiniteamTrait",
-          "count": 1
-        },
-        {
-          "id": "TFT8_5_Augment_EzrealFutureCarry",
-          "count": 1
-        }
-      ],
-      "rank": 32,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_MakeshiftArmor2",
@@ -3090,7 +3139,7 @@
       ],
       "rank": 32,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_SivirCarry",
@@ -3139,7 +3188,7 @@
       ],
       "rank": 32,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_BandOfThieves2",
@@ -3188,7 +3237,7 @@
       ],
       "rank": 32,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Diversify2",
@@ -3237,30 +3286,34 @@
       ],
       "rank": 32,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
-      "id": "TFT8_5_Augment_LucianSupport",
+      "id": "TFT8_Augment_PoppyCarry",
       "count": 11,
       "neighbors": [
         {
-          "id": "TFT6_Augment_Featherweights2",
+          "id": "TFT8_Augment_DefenderEmblem",
+          "count": 3
+        },
+        {
+          "id": "TFT8_Augment_GenAEEmblem",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TradeSectorPlus",
           "count": 1
         },
         {
-          "id": "TFT7_Augment_FirstAidKit2",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_GachaAddict",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_Ascension",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_Featherweights3",
+          "id": "TFT6_Augment_ComponentGrabBag",
           "count": 1
         },
         {
@@ -3268,25 +3321,21 @@
           "count": 1
         },
         {
-          "id": "TFT8_Augment_QuickdrawTrait",
+          "id": "TFT6_Augment_CelestialBlessing3",
           "count": 1
         },
         {
-          "id": "TFT7_Augment_LuckyGloves",
+          "id": "TFT6_Augment_SunfireBoard",
           "count": 1
         },
         {
-          "id": "TFT6_Augment_Featherweights1",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_VerdantVeil",
+          "id": "TFT6_Augment_ThriftShop",
           "count": 1
         }
       ],
       "rank": 33,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_SamiraCarry",
@@ -3335,7 +3384,7 @@
       ],
       "rank": 33,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_HackerEmblem",
@@ -3384,7 +3433,7 @@
       ],
       "rank": 33,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_FuturePeepers",
@@ -3433,7 +3482,7 @@
       ],
       "rank": 33,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_SivirSupport",
@@ -3482,7 +3531,7 @@
       ],
       "rank": 33,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_CelestialBlessing3",
@@ -3531,7 +3580,56 @@
       ],
       "rank": 33,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_DefenderEmblem",
+      "count": 10,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_PoppyCarry",
+          "count": 3
+        },
+        {
+          "id": "TFT6_Augment_TradeSectorPlus",
+          "count": 2
+        },
+        {
+          "id": "TFT8_5_Augment_GarenSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_CalculatedLoss",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TinyTitans",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TheGoldenEgg",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_WoodlandCharm",
+          "count": 1
+        }
+      ],
+      "rank": 34,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_GenAETrait",
@@ -3580,7 +3678,7 @@
       ],
       "rank": 34,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_MissFortuneSupport",
@@ -3629,7 +3727,7 @@
       ],
       "rank": 34,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_PandorasItems",
@@ -3678,7 +3776,7 @@
       ],
       "rank": 34,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_PykeCarry",
@@ -3727,56 +3825,7 @@
       ],
       "rank": 34,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_PoppyCarry",
-      "count": 10,
-      "neighbors": [
-        {
-          "id": "TFT8_Augment_GenAEEmblem",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_DefenderEmblem",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_ComponentGrabBag",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_CelestialBlessing3",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_SunfireBoard",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_ThriftShop",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TheGoldenEgg",
-          "count": 1
-        }
-      ],
-      "rank": 34,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_ScopedWeapons1",
@@ -3825,7 +3874,7 @@
       ],
       "rank": 34,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_CyberneticUplink1",
@@ -3874,7 +3923,7 @@
       ],
       "rank": 34,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_HighEndShopping",
@@ -3923,7 +3972,7 @@
       ],
       "rank": 34,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_CyberneticImplants2",
@@ -3972,7 +4021,7 @@
       ],
       "rank": 35,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_InfiniteamTrait",
@@ -4021,7 +4070,7 @@
       ],
       "rank": 35,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_HyperRoll",
@@ -4070,56 +4119,7 @@
       ],
       "rank": 35,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_DefenderEmblem",
-      "count": 9,
-      "neighbors": [
-        {
-          "id": "TFT8_5_Augment_GarenSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_PoppyCarry",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_SecondWind2",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_CalculatedLoss",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TinyTitans",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TheGoldenEgg",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_WoodlandCharm",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TriForce1",
-          "count": 1
-        }
-      ],
-      "rank": 35,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_VerdantVeil",
@@ -4168,7 +4168,7 @@
       ],
       "rank": 35,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_UrgotCarry",
@@ -4217,7 +4217,56 @@
       ],
       "rank": 35,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT6_Augment_MetabolicAccelerator",
+      "count": 8,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_InfiniteamEmblem",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Distancing2",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_BrawlerEmblem",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_WarwickSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT7_Augment_Preparation",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_RenegadePartners",
+          "count": 1
+        },
+        {
+          "id": "TFT7_Augment_AxiomArc2",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_SivirCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ComponentGrabBag",
+          "count": 1
+        }
+      ],
+      "rank": 36,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_FirstAidKit2",
@@ -4266,7 +4315,7 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_LudensEcho2",
@@ -4315,7 +4364,7 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Electrocharge1",
@@ -4364,7 +4413,7 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_RichGetRicherPlus",
@@ -4413,7 +4462,7 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_ChannelerEmblem",
@@ -4462,7 +4511,7 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_ViSupport",
@@ -4511,7 +4560,7 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_ViCarry",
@@ -4560,7 +4609,7 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_EzrealFutureCarry",
@@ -4609,7 +4658,7 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_RellSupport",
@@ -4658,7 +4707,7 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_AurelionSolImpact",
@@ -4707,7 +4756,7 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_EzrealSupport",
@@ -4756,7 +4805,7 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_KaisaStarCrossed",
@@ -4805,7 +4854,105 @@
       ],
       "rank": 36,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_YasuoSupport",
+      "count": 7,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_InterPolarisTrait",
+          "count": 3
+        },
+        {
+          "id": "TFT8_Augment_InterPolarisTrait2",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_SalvageBinPlus",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_HyperRoll",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_VerdantVeil",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_SunfireBoard",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ForceOfNature",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 1
+        },
+        {
+          "id": "TFT7_Augment_UrfsGrabBag2",
+          "count": 1
+        }
+      ],
+      "rank": 37,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_AsheCarry",
+      "count": 7,
+      "neighbors": [
+        {
+          "id": "TFT7_Augment_LastStand",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SalvageBinPlus",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Featherweights2",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_BrawlerEmblem",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Featherweights1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_InterPolarisTrait",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Distancing",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_CelestialBlessing3",
+          "count": 1
+        }
+      ],
+      "rank": 37,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_CalculatedLoss",
@@ -4854,7 +5001,7 @@
       ],
       "rank": 37,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_MakeshiftArmor1",
@@ -4903,7 +5050,7 @@
       ],
       "rank": 37,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Featherweights2",
@@ -4952,7 +5099,7 @@
       ],
       "rank": 37,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_TwistedFateCarry",
@@ -5001,7 +5148,7 @@
       ],
       "rank": 37,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_LeonaSupport",
@@ -5050,7 +5197,7 @@
       ],
       "rank": 37,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Battlemage2",
@@ -5099,7 +5246,7 @@
       ],
       "rank": 37,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_ADMINTrait",
@@ -5148,56 +5295,7 @@
       ],
       "rank": 37,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT6_Augment_MetabolicAccelerator",
-      "count": 7,
-      "neighbors": [
-        {
-          "id": "TFT8_Augment_BrawlerEmblem",
-          "count": 1
-        },
-        {
-          "id": "TFT8_5_Augment_WarwickSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT7_Augment_Preparation",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_RenegadePartners",
-          "count": 1
-        },
-        {
-          "id": "TFT7_Augment_AxiomArc2",
-          "count": 1
-        },
-        {
-          "id": "TFT8_5_Augment_SivirCarry",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_ComponentGrabBag",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_KaisaCarry",
-          "count": 1
-        },
-        {
-          "id": "TFT7_Augment_TomeOfTraits2",
-          "count": 1
-        }
-      ],
-      "rank": 37,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_TheGoldenEgg",
@@ -5246,7 +5344,7 @@
       ],
       "rank": 37,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_RenegadeEmblem",
@@ -5295,7 +5393,7 @@
       ],
       "rank": 37,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_HackerTrait",
@@ -5344,7 +5442,7 @@
       ],
       "rank": 37,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_Consistency",
@@ -5393,7 +5491,56 @@
       ],
       "rank": 37,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_RenegadePartners",
+      "count": 6,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_TradeSectorPlus",
+          "count": 2
+        },
+        {
+          "id": "TFT7_Augment_AxiomArc2",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_Battlemage3",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_ADMINTrait",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Distancing2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_MetabolicAccelerator",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Battlemage2",
+          "count": 1
+        },
+        {
+          "id": "TFT7_Augment_ClutteredMind",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TrueTwos",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 1
+        }
+      ],
+      "rank": 38,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_BigFriend2",
@@ -5442,7 +5589,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_StarGuardianEmblem2",
@@ -5491,7 +5638,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Traitless2",
@@ -5536,7 +5683,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_BlitzcrankSupport",
@@ -5585,56 +5732,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_AsheCarry",
-      "count": 6,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_Featherweights2",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_BrawlerEmblem",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_Featherweights1",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt1",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_InterPolarisTrait",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_Distancing",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_CelestialBlessing3",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TargetDummies",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_SecondWind2",
-          "count": 1
-        }
-      ],
-      "rank": 38,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_ThreatMaxHealth",
@@ -5683,7 +5781,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_DeadeyeEmblem",
@@ -5732,7 +5830,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_ClutteredMind",
@@ -5781,7 +5879,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_DeadeyeTrait",
@@ -5830,7 +5928,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_GenAEEmblem2",
@@ -5879,7 +5977,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_LudensEcho1",
@@ -5928,7 +6026,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_Preparation3",
@@ -5977,7 +6075,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_InfiniteamEmblem2",
@@ -6026,7 +6124,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_WindfallPlus",
@@ -6071,56 +6169,7 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_YasuoSupport",
-      "count": 6,
-      "neighbors": [
-        {
-          "id": "TFT8_Augment_InterPolarisTrait2",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_InterPolarisTrait",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt1",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_HyperRoll",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_VerdantVeil",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_SunfireBoard",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_ForceOfNature",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_JeweledLotus",
-          "count": 1
-        },
-        {
-          "id": "TFT7_Augment_UrfsGrabBag2",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_HighEndShopping",
-          "count": 1
-        }
-      ],
-      "rank": 38,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_PantheonCarry",
@@ -6169,7 +6218,85 @@
       ],
       "rank": 38,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_InterPolarisTrait2",
+      "count": 5,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_YasuoSupport",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_TargetDummies",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_MordekaiserSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT7_Augment_Preparation",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_InterPolarisTrait",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_ViSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 1
+        }
+      ],
+      "rank": 39,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT6_Augment_Twins2",
+      "count": 5,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt2",
+          "count": 3
+        },
+        {
+          "id": "TFT8_Augment_EkkoCarry",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_SecondWind1",
+          "count": 2
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_FiddlesticksSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SyndraSupport",
+          "count": 1
+        }
+      ],
+      "rank": 39,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Electrocharge3",
@@ -6214,7 +6341,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_MorganaSupport",
@@ -6255,7 +6382,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Electrocharge2",
@@ -6304,7 +6431,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_GnarCarry",
@@ -6353,7 +6480,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_UndergroundTheTrait",
@@ -6402,7 +6529,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_ThinkFast",
@@ -6447,7 +6574,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_ForceOfNature",
@@ -6496,7 +6623,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_DravenSupport",
@@ -6541,7 +6668,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_AurelionSolCarry",
@@ -6590,7 +6717,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_WarwickCarry",
@@ -6631,7 +6758,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_AatroxSupport",
@@ -6680,7 +6807,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Featherweights1",
@@ -6725,52 +6852,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_RenegadePartners",
-      "count": 5,
-      "neighbors": [
-        {
-          "id": "TFT7_Augment_AxiomArc2",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_ADMINTrait",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_Distancing2",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_MetabolicAccelerator",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_Battlemage2",
-          "count": 1
-        },
-        {
-          "id": "TFT7_Augment_ClutteredMind",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TradeSectorPlus",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TrueTwos",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 1
-        }
-      ],
-      "rank": 39,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_VayneCarry",
@@ -6815,7 +6897,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_JannaCarry",
@@ -6860,7 +6942,7 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_OxForceTrait",
@@ -6901,7 +6983,44 @@
       ],
       "rank": 39,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_MordekaiserSupport",
+      "count": 4,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Augment_InterPolarisTrait2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TargetDummies",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Electrocharge1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_MakeshiftArmor1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_InterPolarisTrait",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TradeSectorPlus",
+          "count": 1
+        }
+      ],
+      "rank": 40,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_LivingForge",
@@ -6942,7 +7061,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_QuickdrawTrait2",
@@ -6979,7 +7098,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_SonaSupport",
@@ -7020,7 +7139,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_NunuSupport",
@@ -7057,7 +7176,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_EzrealCarry",
@@ -7094,7 +7213,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_HackerEmblem2",
@@ -7135,7 +7254,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_SalvageBin",
@@ -7176,36 +7295,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT6_Augment_Twins2",
-      "count": 4,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt2",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_EkkoCarry",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_SecondWind1",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Augment_FiddlesticksSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_SyndraSupport",
-          "count": 1
-        }
-      ],
-      "rank": 40,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_CyberneticUplink3",
@@ -7246,7 +7336,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_MeleeStarBlade2",
@@ -7287,7 +7377,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_LuckyGloves",
@@ -7328,7 +7418,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_JaxSupport",
@@ -7369,7 +7459,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_GarenCarry",
@@ -7410,7 +7500,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_AFK",
@@ -7451,7 +7541,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_DefenderTrait",
@@ -7488,7 +7578,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_ChannelerEmblem2",
@@ -7529,44 +7619,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_InterPolarisTrait2",
-      "count": 4,
-      "neighbors": [
-        {
-          "id": "TFT8_Augment_YasuoSupport",
-          "count": 2
-        },
-        {
-          "id": "TFT7_Augment_Preparation",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_SecondWind2",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt1",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_InterPolarisTrait",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_ViSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TomeOfTraits1",
-          "count": 1
-        }
-      ],
-      "rank": 40,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_BrawlerEmblem2",
@@ -7603,7 +7656,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_ItemGrabBag2",
@@ -7644,7 +7697,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_ThriftShop",
@@ -7685,7 +7738,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_LucianCarry",
@@ -7722,7 +7775,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_BrawlerTrait",
@@ -7759,7 +7812,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_DravenCarry",
@@ -7796,7 +7849,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_PandorasBench",
@@ -7833,7 +7886,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_WindfallPlusPlus",
@@ -7874,7 +7927,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_KayleCarry",
@@ -7915,7 +7968,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_JhinCarry",
@@ -7956,7 +8009,7 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_ChannelerTrait",
@@ -7997,36 +8050,139 @@
       ],
       "rank": 40,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
-      "id": "TFT8_Augment_MordekaiserSupport",
+      "id": "TFT6_Augment_Battlemage3",
       "count": 3,
       "neighbors": [
         {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 2
-        },
-        {
-          "id": "TFT6_Augment_Electrocharge1",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_MakeshiftArmor1",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_InterPolarisTrait",
-          "count": 1
-        },
-        {
           "id": "TFT6_Augment_TradeSectorPlus",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_RenegadePartners",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_AnnieSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt2",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_PantheonCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
           "count": 1
         }
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT7_Augment_BirthdayPresents",
+      "count": 3,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_TradeSectorPlus",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SyndraSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SamiraSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_MaxLevel10",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_BandOfThieves2",
+          "count": 1
+        }
+      ],
+      "rank": 41,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_SonaExile",
+      "count": 3,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_HeartEmblem",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_ChannelerEmblem2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TargetDummies",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ThreesCompany",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_WoodlandCharm",
+          "count": 1
+        }
+      ],
+      "rank": 41,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
+    },
+    {
+      "id": "TFT8_Augment_HeartEmblem",
+      "count": 3,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SonaExile",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_MaxLevel10",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_TwistedFateSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_PantheonSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_HeartEmblem2",
+          "count": 1
+        }
+      ],
+      "rank": 41,
+      "rankTotalCount": 43,
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_ClearMind",
@@ -8055,7 +8211,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Featherweights3",
@@ -8088,7 +8244,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_GangplankSupport",
@@ -8121,7 +8277,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_MaxLevel10",
@@ -8154,7 +8310,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_WarwickCarry2",
@@ -8187,7 +8343,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_TriForce2",
@@ -8220,7 +8376,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Diversify1",
@@ -8253,7 +8409,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_LuxSupport",
@@ -8282,7 +8438,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_DuelistTrait",
@@ -8315,7 +8471,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_MordekaiserCarry",
@@ -8340,7 +8496,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_StarGuardianTrait",
@@ -8373,7 +8529,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_AegisEmblem",
@@ -8406,7 +8562,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_EkkoCarry",
@@ -8435,7 +8591,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_CyberneticShell2",
@@ -8468,7 +8624,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_JaxASCarry",
@@ -8501,7 +8657,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_SacrificialPact",
@@ -8534,7 +8690,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_LeonaCarry",
@@ -8567,7 +8723,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_MeleeStarBlade1",
@@ -8600,7 +8756,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_FioraCarry",
@@ -8633,7 +8789,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_CursedCrown",
@@ -8666,32 +8822,7 @@
       ],
       "rank": 41,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT7_Augment_BirthdayPresents",
-      "count": 2,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_SecondWind2",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_SamiraSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_MaxLevel10",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_BandOfThieves2",
-          "count": 1
-        }
-      ],
-      "rank": 42,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_EkkoSupport",
@@ -8716,7 +8847,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_UndergroundTheTrait2",
@@ -8741,7 +8872,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_JhinSupport",
@@ -8766,7 +8897,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_Bloodlust1",
@@ -8791,7 +8922,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_RenektonSupport",
@@ -8816,7 +8947,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_NasusSupport",
@@ -8841,7 +8972,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_TriForce1",
@@ -8866,7 +8997,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_ShenCarry",
@@ -8891,32 +9022,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_SonaExile",
-      "count": 2,
-      "neighbors": [
-        {
-          "id": "TFT8_Augment_ChannelerEmblem2",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_TargetDummies",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_ThreesCompany",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_WoodlandCharm",
-          "count": 1
-        }
-      ],
-      "rank": 42,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_JinxSupport",
@@ -8941,32 +9047,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT8_Augment_HeartEmblem",
-      "count": 2,
-      "neighbors": [
-        {
-          "id": "TFT6_Augment_MaxLevel10",
-          "count": 1
-        },
-        {
-          "id": "TFT8_5_Augment_TwistedFateSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT8_5_Augment_PantheonSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Augment_HeartEmblem2",
-          "count": 1
-        }
-      ],
-      "rank": 42,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_FirstAidKit",
@@ -8991,7 +9072,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Recombobulator",
@@ -9016,7 +9097,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_LeeSinSupport",
@@ -9037,7 +9118,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_CyberneticImplants1",
@@ -9062,7 +9143,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_OxForceEmblem2",
@@ -9083,7 +9164,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_DuelistEmblem2",
@@ -9108,7 +9189,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_MalphiteCarry",
@@ -9133,7 +9214,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_FuturePeepers2",
@@ -9158,7 +9239,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_CamilleCarry",
@@ -9183,32 +9264,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
-    },
-    {
-      "id": "TFT6_Augment_Battlemage3",
-      "count": 2,
-      "neighbors": [
-        {
-          "id": "TFT8_Augment_AnnieSupport",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_ThrillOfTheHunt2",
-          "count": 1
-        },
-        {
-          "id": "TFT8_5_Augment_PantheonCarry",
-          "count": 1
-        },
-        {
-          "id": "TFT6_Augment_PortableForge",
-          "count": 1
-        }
-      ],
-      "rank": 42,
-      "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_MorganaCarry",
@@ -9233,7 +9289,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_PranksterEmblem",
@@ -9258,7 +9314,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_RivenReverberation",
@@ -9283,7 +9339,7 @@
       ],
       "rank": 42,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_RenegadeEmblem2",
@@ -9300,7 +9356,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_MascotEmblem2",
@@ -9317,7 +9373,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_ADMINEmblem2",
@@ -9334,7 +9390,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_BelVethCarry",
@@ -9351,7 +9407,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_NeekoCarry",
@@ -9368,7 +9424,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_AnimaSquadEmblem2",
@@ -9385,7 +9441,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_DefenderEmblem2",
@@ -9402,7 +9458,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_LeBlancSupport",
@@ -9419,7 +9475,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_FioraSupport",
@@ -9436,7 +9492,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_BinaryAirdrop",
@@ -9453,7 +9509,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_AlistarCarry",
@@ -9470,7 +9526,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_SylasSupport",
@@ -9487,7 +9543,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_AnimaSquadTrait",
@@ -9504,7 +9560,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_AsheSupport",
@@ -9521,7 +9577,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_PranksterEmblem2",
@@ -9538,7 +9594,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_ExoPrimeEmblem2",
@@ -9555,7 +9611,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_MeleeStarBlade3",
@@ -9572,7 +9628,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_UrgotSupport",
@@ -9589,7 +9645,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_BelVethVoidmother",
@@ -9606,7 +9662,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_ExoPrimeEmblem",
@@ -9623,7 +9679,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_AatroxCarry",
@@ -9640,7 +9696,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_5_Augment_AlistarSupport",
@@ -9657,7 +9713,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_PoppySupport",
@@ -9674,7 +9730,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_MalphiteSupport",
@@ -9691,7 +9747,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Battlemage1",
@@ -9708,7 +9764,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_LuluCarry",
@@ -9725,7 +9781,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_JannaSupport",
@@ -9742,7 +9798,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_VayneSupport",
@@ -9759,7 +9815,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_HeartEmblem2",
@@ -9776,7 +9832,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_CyberneticShell3",
@@ -9793,7 +9849,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_SylasCarry",
@@ -9810,7 +9866,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT7_Augment_BigFriend",
@@ -9827,7 +9883,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_WukongSupport",
@@ -9844,7 +9900,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_DuelistEmblem",
@@ -9861,7 +9917,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_WukongCarry",
@@ -9878,7 +9934,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_AceEmblem",
@@ -9895,7 +9951,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Traitless3",
@@ -9912,7 +9968,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_MascotEmblem",
@@ -9929,7 +9985,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Diversify3",
@@ -9946,7 +10002,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_FiddlesticksCarry",
@@ -9963,7 +10019,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_RivenSupport",
@@ -9980,7 +10036,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_Windfall",
@@ -9997,7 +10053,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_AnimaSquadEmblem",
@@ -10014,7 +10070,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT6_Augment_CyberneticShell1",
@@ -10031,7 +10087,7 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     },
     {
       "id": "TFT8_Augment_RammusArmor",
@@ -10048,8 +10104,8 @@
       ],
       "rank": 43,
       "rankTotalCount": 43,
-      "compTotalCount": 864
+      "compTotalCount": 884
     }
   ],
-  "lastUpdatedTS": 1683263882015
+  "lastUpdatedTS": 1683517744246
 }
