@@ -782,19 +782,19 @@
           "tierTotal": 3
         },
         {
-          "id": "Set8_GunMage#3",
-          "count": 94,
-          "style": 3,
-          "name": "Set8_GunMage",
-          "tierCurrent": 3,
-          "tierTotal": 3
-        },
-        {
           "id": "Set8_Defender#1",
           "count": 94,
           "style": 1,
           "name": "Set8_Defender",
           "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_GunMage#3",
+          "count": 94,
+          "style": 3,
+          "name": "Set8_GunMage",
+          "tierCurrent": 3,
           "tierTotal": 3
         },
         {
@@ -839,99 +839,6 @@
         }
       ],
       "rank": 9,
-      "rankTotalCount": 59,
-      "compTotalCount": 1972
-    },
-    {
-      "id": "Set8_StarGuardian#1",
-      "count": 314,
-      "style": 1,
-      "name": "Set8_StarGuardian",
-      "tierCurrent": 1,
-      "tierTotal": 4,
-      "neighbors": [
-        {
-          "id": "Set8_Aegis#1",
-          "count": 146,
-          "style": 1,
-          "name": "Set8_Aegis",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Ace#1",
-          "count": 130,
-          "style": 1,
-          "name": "Set8_Ace",
-          "tierCurrent": 1,
-          "tierTotal": 2
-        },
-        {
-          "id": "Set8_Heart#1",
-          "count": 120,
-          "style": 1,
-          "name": "Set8_Heart",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Duelist#1",
-          "count": 112,
-          "style": 1,
-          "name": "Set8_Duelist",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_OxForce#3",
-          "count": 100,
-          "style": 3,
-          "name": "Set8_OxForce",
-          "tierCurrent": 2,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Channeler#2",
-          "count": 98,
-          "style": 2,
-          "name": "Set8_Channeler",
-          "tierCurrent": 2,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Forecaster#3",
-          "count": 83,
-          "style": 3,
-          "name": "Set8_Forecaster",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
-          "id": "Set8_OxForce#1",
-          "count": 65,
-          "style": 1,
-          "name": "Set8_OxForce",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_GunMage#3",
-          "count": 58,
-          "style": 3,
-          "name": "Set8_GunMage",
-          "tierCurrent": 3,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Corrupted#3",
-          "count": 54,
-          "style": 3,
-          "name": "Set8_Corrupted",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        }
-      ],
-      "rank": 10,
       "rankTotalCount": 59,
       "compTotalCount": 1972
     },
@@ -1022,6 +929,99 @@
           "name": "Set8_Ace",
           "tierCurrent": 1,
           "tierTotal": 2
+        }
+      ],
+      "rank": 10,
+      "rankTotalCount": 59,
+      "compTotalCount": 1972
+    },
+    {
+      "id": "Set8_StarGuardian#1",
+      "count": 314,
+      "style": 1,
+      "name": "Set8_StarGuardian",
+      "tierCurrent": 1,
+      "tierTotal": 4,
+      "neighbors": [
+        {
+          "id": "Set8_Aegis#1",
+          "count": 146,
+          "style": 1,
+          "name": "Set8_Aegis",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Ace#1",
+          "count": 130,
+          "style": 1,
+          "name": "Set8_Ace",
+          "tierCurrent": 1,
+          "tierTotal": 2
+        },
+        {
+          "id": "Set8_Heart#1",
+          "count": 120,
+          "style": 1,
+          "name": "Set8_Heart",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Duelist#1",
+          "count": 112,
+          "style": 1,
+          "name": "Set8_Duelist",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_OxForce#3",
+          "count": 100,
+          "style": 3,
+          "name": "Set8_OxForce",
+          "tierCurrent": 2,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Channeler#2",
+          "count": 98,
+          "style": 2,
+          "name": "Set8_Channeler",
+          "tierCurrent": 2,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Forecaster#3",
+          "count": 83,
+          "style": 3,
+          "name": "Set8_Forecaster",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
+          "id": "Set8_OxForce#1",
+          "count": 65,
+          "style": 1,
+          "name": "Set8_OxForce",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_GunMage#3",
+          "count": 58,
+          "style": 3,
+          "name": "Set8_GunMage",
+          "tierCurrent": 3,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Corrupted#3",
+          "count": 54,
+          "style": 3,
+          "name": "Set8_Corrupted",
+          "tierCurrent": 1,
+          "tierTotal": 1
         }
       ],
       "rank": 10,
@@ -1154,20 +1154,20 @@
           "tierTotal": 4
         },
         {
-          "id": "Set8_Channeler#2",
-          "count": 111,
-          "style": 2,
-          "name": "Set8_Channeler",
-          "tierCurrent": 2,
-          "tierTotal": 4
-        },
-        {
           "id": "Set8_Heart#1",
           "count": 111,
           "style": 1,
           "name": "Set8_Heart",
           "tierCurrent": 1,
           "tierTotal": 3
+        },
+        {
+          "id": "Set8_Channeler#2",
+          "count": 111,
+          "style": 2,
+          "name": "Set8_Channeler",
+          "tierCurrent": 2,
+          "tierTotal": 4
         },
         {
           "id": "Set8_Ace#1",
@@ -1255,20 +1255,20 @@
           "tierTotal": 4
         },
         {
-          "id": "Set8_StarGuardian#1",
-          "count": 58,
-          "style": 1,
-          "name": "Set8_StarGuardian",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
           "id": "Set8_Defender#1",
           "count": 58,
           "style": 1,
           "name": "Set8_Defender",
           "tierCurrent": 1,
           "tierTotal": 3
+        },
+        {
+          "id": "Set8_StarGuardian#1",
+          "count": 58,
+          "style": 1,
+          "name": "Set8_StarGuardian",
+          "tierCurrent": 1,
+          "tierTotal": 4
         },
         {
           "id": "Set8_AnimaSquad#1",
@@ -2472,20 +2472,20 @@
           "tierTotal": 4
         },
         {
-          "id": "Set8_Parallel#3",
-          "count": 30,
-          "style": 3,
-          "name": "Set8_Parallel",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
           "id": "Set8_Channeler#1",
           "count": 30,
           "style": 1,
           "name": "Set8_Channeler",
           "tierCurrent": 1,
           "tierTotal": 4
+        },
+        {
+          "id": "Set8_Parallel#3",
+          "count": 30,
+          "style": 3,
+          "name": "Set8_Parallel",
+          "tierCurrent": 1,
+          "tierTotal": 1
         },
         {
           "id": "Set8_Forecaster#3",
@@ -2703,99 +2703,6 @@
       "compTotalCount": 1972
     },
     {
-      "id": "Set8_Parallel#3",
-      "count": 113,
-      "style": 3,
-      "name": "Set8_Parallel",
-      "tierCurrent": 1,
-      "tierTotal": 1,
-      "neighbors": [
-        {
-          "id": "Set8_Ace#1",
-          "count": 76,
-          "style": 1,
-          "name": "Set8_Ace",
-          "tierCurrent": 1,
-          "tierTotal": 2
-        },
-        {
-          "id": "Set8_Defender#1",
-          "count": 66,
-          "style": 1,
-          "name": "Set8_Defender",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Corrupted#3",
-          "count": 49,
-          "style": 3,
-          "name": "Set8_Corrupted",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
-          "id": "Set8_Deadeye#1",
-          "count": 44,
-          "style": 1,
-          "name": "Set8_Deadeye",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_GunMage#1",
-          "count": 41,
-          "style": 1,
-          "name": "Set8_GunMage",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Pulsefire#4",
-          "count": 39,
-          "style": 4,
-          "name": "Set8_Pulsefire",
-          "tierCurrent": 3,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Pulsefire#3",
-          "count": 30,
-          "style": 3,
-          "name": "Set8_Pulsefire",
-          "tierCurrent": 2,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Deadeye#2",
-          "count": 28,
-          "style": 2,
-          "name": "Set8_Deadeye",
-          "tierCurrent": 2,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Pulsefire#1",
-          "count": 20,
-          "style": 1,
-          "name": "Set8_Pulsefire",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Renegade#1",
-          "count": 18,
-          "style": 1,
-          "name": "Set8_Renegade",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        }
-      ],
-      "rank": 29,
-      "rankTotalCount": 59,
-      "compTotalCount": 1972
-    },
-    {
       "id": "Set8_GunMage#2",
       "count": 113,
       "style": 2,
@@ -2882,6 +2789,99 @@
           "name": "Set8_Parallel",
           "tierCurrent": 1,
           "tierTotal": 1
+        }
+      ],
+      "rank": 29,
+      "rankTotalCount": 59,
+      "compTotalCount": 1972
+    },
+    {
+      "id": "Set8_Parallel#3",
+      "count": 113,
+      "style": 3,
+      "name": "Set8_Parallel",
+      "tierCurrent": 1,
+      "tierTotal": 1,
+      "neighbors": [
+        {
+          "id": "Set8_Ace#1",
+          "count": 76,
+          "style": 1,
+          "name": "Set8_Ace",
+          "tierCurrent": 1,
+          "tierTotal": 2
+        },
+        {
+          "id": "Set8_Defender#1",
+          "count": 66,
+          "style": 1,
+          "name": "Set8_Defender",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Corrupted#3",
+          "count": 49,
+          "style": 3,
+          "name": "Set8_Corrupted",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
+          "id": "Set8_Deadeye#1",
+          "count": 44,
+          "style": 1,
+          "name": "Set8_Deadeye",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_GunMage#1",
+          "count": 41,
+          "style": 1,
+          "name": "Set8_GunMage",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Pulsefire#4",
+          "count": 39,
+          "style": 4,
+          "name": "Set8_Pulsefire",
+          "tierCurrent": 3,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Pulsefire#3",
+          "count": 30,
+          "style": 3,
+          "name": "Set8_Pulsefire",
+          "tierCurrent": 2,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Deadeye#2",
+          "count": 28,
+          "style": 2,
+          "name": "Set8_Deadeye",
+          "tierCurrent": 2,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Pulsefire#1",
+          "count": 20,
+          "style": 1,
+          "name": "Set8_Pulsefire",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_GunMage#3",
+          "count": 18,
+          "style": 3,
+          "name": "Set8_GunMage",
+          "tierCurrent": 3,
+          "tierTotal": 3
         }
       ],
       "rank": 29,
@@ -3487,20 +3487,20 @@
           "tierTotal": 4
         },
         {
-          "id": "Set8_Hacker#1",
-          "count": 15,
-          "style": 1,
-          "name": "Set8_Hacker",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
           "id": "Set8_Duelist#1",
           "count": 15,
           "style": 1,
           "name": "Set8_Duelist",
           "tierCurrent": 1,
           "tierTotal": 4
+        },
+        {
+          "id": "Set8_Hacker#1",
+          "count": 15,
+          "style": 1,
+          "name": "Set8_Hacker",
+          "tierCurrent": 1,
+          "tierTotal": 3
         },
         {
           "id": "Set8_Corrupted#3",
@@ -3952,20 +3952,20 @@
           "tierTotal": 4
         },
         {
-          "id": "Set8_Defender#1",
-          "count": 18,
-          "style": 1,
-          "name": "Set8_Defender",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
           "id": "Set8_Brawler#1",
           "count": 18,
           "style": 1,
           "name": "Set8_Brawler",
           "tierCurrent": 1,
           "tierTotal": 4
+        },
+        {
+          "id": "Set8_Defender#1",
+          "count": 18,
+          "style": 1,
+          "name": "Set8_Defender",
+          "tierCurrent": 1,
+          "tierTotal": 3
         },
         {
           "id": "Set8_StarGuardian#1",
@@ -4069,20 +4069,20 @@
           "tierTotal": 3
         },
         {
-          "id": "Set8_Mascot#2",
-          "count": 7,
-          "style": 2,
-          "name": "Set8_Mascot",
-          "tierCurrent": 2,
-          "tierTotal": 3
-        },
-        {
           "id": "Set8_Aegis#1",
           "count": 7,
           "style": 1,
           "name": "Set8_Aegis",
           "tierCurrent": 1,
           "tierTotal": 4
+        },
+        {
+          "id": "Set8_Mascot#2",
+          "count": 7,
+          "style": 2,
+          "name": "Set8_Mascot",
+          "tierCurrent": 2,
+          "tierTotal": 3
         },
         {
           "id": "Set8_Defender#1",
@@ -4215,18 +4215,18 @@
           "tierTotal": 3
         },
         {
-          "id": "Set8_Hacker#1",
-          "count": 21,
-          "style": 1,
-          "name": "Set8_Hacker",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
           "id": "Set8_OxForce#1",
           "count": 21,
           "style": 1,
           "name": "Set8_OxForce",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Hacker#1",
+          "count": 21,
+          "style": 1,
+          "name": "Set8_Hacker",
           "tierCurrent": 1,
           "tierTotal": 3
         },
@@ -4284,92 +4284,92 @@
       "compTotalCount": 1972
     },
     {
-      "id": "Set8_Brawler#3",
+      "id": "Set8_ExoPrime#3",
       "count": 38,
       "style": 3,
-      "name": "Set8_Brawler",
-      "tierCurrent": 3,
-      "tierTotal": 4,
+      "name": "Set8_ExoPrime",
+      "tierCurrent": 2,
+      "tierTotal": 2,
       "neighbors": [
         {
-          "id": "Set8_Admin#1",
-          "count": 31,
-          "style": 1,
-          "name": "Set8_Admin",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
           "id": "Set8_Ace#1",
-          "count": 19,
+          "count": 32,
           "style": 1,
           "name": "Set8_Ace",
           "tierCurrent": 1,
           "tierTotal": 2
         },
         {
-          "id": "Set8_Aegis#1",
-          "count": 14,
-          "style": 1,
-          "name": "Set8_Aegis",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
           "id": "Set8_Defender#1",
-          "count": 14,
+          "count": 27,
           "style": 1,
           "name": "Set8_Defender",
           "tierCurrent": 1,
           "tierTotal": 3
         },
         {
-          "id": "Set8_ExoPrime#1",
-          "count": 10,
+          "id": "Set8_Brawler#1",
+          "count": 18,
           "style": 1,
-          "name": "Set8_ExoPrime",
+          "name": "Set8_Brawler",
           "tierCurrent": 1,
-          "tierTotal": 2
-        },
-        {
-          "id": "Set8_SpaceCorps#4",
-          "count": 7,
-          "style": 4,
-          "name": "Set8_SpaceCorps",
-          "tierCurrent": 4,
           "tierTotal": 4
         },
         {
-          "id": "Set8_Admin#3",
-          "count": 5,
-          "style": 3,
-          "name": "Set8_Admin",
+          "id": "Set8_Hacker#1",
+          "count": 15,
+          "style": 1,
+          "name": "Set8_Hacker",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Defender#2",
+          "count": 10,
+          "style": 2,
+          "name": "Set8_Defender",
           "tierCurrent": 2,
           "tierTotal": 3
         },
         {
-          "id": "Set8_SpaceCorps#1",
-          "count": 5,
-          "style": 1,
-          "name": "Set8_SpaceCorps",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_SpaceCorps#3",
-          "count": 5,
-          "style": 3,
-          "name": "Set8_SpaceCorps",
-          "tierCurrent": 3,
-          "tierTotal": 4
-        },
-        {
           "id": "Set8_Corrupted#3",
-          "count": 4,
+          "count": 7,
           "style": 3,
           "name": "Set8_Corrupted",
           "tierCurrent": 1,
           "tierTotal": 1
+        },
+        {
+          "id": "Set8_Supers#3",
+          "count": 7,
+          "style": 3,
+          "name": "Set8_Supers",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
+          "id": "Set8_Forecaster#3",
+          "count": 6,
+          "style": 3,
+          "name": "Set8_Forecaster",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
+          "id": "Set8_Ace#3",
+          "count": 5,
+          "style": 3,
+          "name": "Set8_Ace",
+          "tierCurrent": 2,
+          "tierTotal": 2
+        },
+        {
+          "id": "Set8_Admin#1",
+          "count": 5,
+          "style": 1,
+          "name": "Set8_Admin",
+          "tierCurrent": 1,
+          "tierTotal": 3
         }
       ],
       "rank": 44,
@@ -4470,92 +4470,92 @@
       "compTotalCount": 1972
     },
     {
-      "id": "Set8_ExoPrime#3",
+      "id": "Set8_Brawler#3",
       "count": 38,
       "style": 3,
-      "name": "Set8_ExoPrime",
-      "tierCurrent": 2,
-      "tierTotal": 2,
+      "name": "Set8_Brawler",
+      "tierCurrent": 3,
+      "tierTotal": 4,
       "neighbors": [
         {
-          "id": "Set8_Ace#1",
-          "count": 32,
-          "style": 1,
-          "name": "Set8_Ace",
-          "tierCurrent": 1,
-          "tierTotal": 2
-        },
-        {
-          "id": "Set8_Defender#1",
-          "count": 27,
-          "style": 1,
-          "name": "Set8_Defender",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Brawler#1",
-          "count": 18,
-          "style": 1,
-          "name": "Set8_Brawler",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Hacker#1",
-          "count": 15,
-          "style": 1,
-          "name": "Set8_Hacker",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Defender#2",
-          "count": 10,
-          "style": 2,
-          "name": "Set8_Defender",
-          "tierCurrent": 2,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Corrupted#3",
-          "count": 7,
-          "style": 3,
-          "name": "Set8_Corrupted",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
-          "id": "Set8_Supers#3",
-          "count": 7,
-          "style": 3,
-          "name": "Set8_Supers",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
-          "id": "Set8_Forecaster#3",
-          "count": 6,
-          "style": 3,
-          "name": "Set8_Forecaster",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
           "id": "Set8_Admin#1",
-          "count": 5,
+          "count": 31,
           "style": 1,
           "name": "Set8_Admin",
           "tierCurrent": 1,
           "tierTotal": 3
         },
         {
-          "id": "Set8_Ace#3",
+          "id": "Set8_Ace#1",
+          "count": 19,
+          "style": 1,
+          "name": "Set8_Ace",
+          "tierCurrent": 1,
+          "tierTotal": 2
+        },
+        {
+          "id": "Set8_Aegis#1",
+          "count": 14,
+          "style": 1,
+          "name": "Set8_Aegis",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Defender#1",
+          "count": 14,
+          "style": 1,
+          "name": "Set8_Defender",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_ExoPrime#1",
+          "count": 10,
+          "style": 1,
+          "name": "Set8_ExoPrime",
+          "tierCurrent": 1,
+          "tierTotal": 2
+        },
+        {
+          "id": "Set8_SpaceCorps#4",
+          "count": 7,
+          "style": 4,
+          "name": "Set8_SpaceCorps",
+          "tierCurrent": 4,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Admin#3",
           "count": 5,
           "style": 3,
-          "name": "Set8_Ace",
+          "name": "Set8_Admin",
           "tierCurrent": 2,
-          "tierTotal": 2
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_SpaceCorps#1",
+          "count": 5,
+          "style": 1,
+          "name": "Set8_SpaceCorps",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_SpaceCorps#3",
+          "count": 5,
+          "style": 3,
+          "name": "Set8_SpaceCorps",
+          "tierCurrent": 3,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Corrupted#3",
+          "count": 4,
+          "style": 3,
+          "name": "Set8_Corrupted",
+          "tierCurrent": 1,
+          "tierTotal": 1
         }
       ],
       "rank": 44,
@@ -4704,14 +4704,6 @@
           "tierTotal": 4
         },
         {
-          "id": "Set8_StarGuardian#1",
-          "count": 5,
-          "style": 1,
-          "name": "Set8_StarGuardian",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
           "id": "Set8_ExoPrime#3",
           "count": 5,
           "style": 3,
@@ -4726,6 +4718,14 @@
           "name": "Set8_Forecaster",
           "tierCurrent": 1,
           "tierTotal": 1
+        },
+        {
+          "id": "Set8_StarGuardian#1",
+          "count": 5,
+          "style": 1,
+          "name": "Set8_StarGuardian",
+          "tierCurrent": 1,
+          "tierTotal": 4
         },
         {
           "id": "Set8_OxForce#1",
@@ -4842,6 +4842,99 @@
       "compTotalCount": 1972
     },
     {
+      "id": "Set8_Admin#4",
+      "count": 25,
+      "style": 4,
+      "name": "Set8_Admin",
+      "tierCurrent": 3,
+      "tierTotal": 3,
+      "neighbors": [
+        {
+          "id": "Set8_Brawler#1",
+          "count": 20,
+          "style": 1,
+          "name": "Set8_Brawler",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Hacker#1",
+          "count": 18,
+          "style": 1,
+          "name": "Set8_Hacker",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Channeler#1",
+          "count": 17,
+          "style": 1,
+          "name": "Set8_Channeler",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Defender#1",
+          "count": 8,
+          "style": 1,
+          "name": "Set8_Defender",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Forecaster#3",
+          "count": 8,
+          "style": 3,
+          "name": "Set8_Forecaster",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
+          "id": "Set8_Heart#1",
+          "count": 6,
+          "style": 1,
+          "name": "Set8_Heart",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Ace#1",
+          "count": 6,
+          "style": 1,
+          "name": "Set8_Ace",
+          "tierCurrent": 1,
+          "tierTotal": 2
+        },
+        {
+          "id": "Set8_Brawler#2",
+          "count": 5,
+          "style": 2,
+          "name": "Set8_Brawler",
+          "tierCurrent": 2,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Corrupted#3",
+          "count": 3,
+          "style": 3,
+          "name": "Set8_Corrupted",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
+          "id": "Set8_SpaceCorps#1",
+          "count": 2,
+          "style": 1,
+          "name": "Set8_SpaceCorps",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        }
+      ],
+      "rank": 48,
+      "rankTotalCount": 59,
+      "compTotalCount": 1972
+    },
+    {
       "id": "Set8_Duelist#3",
       "count": 25,
       "style": 3,
@@ -4935,99 +5028,6 @@
       "compTotalCount": 1972
     },
     {
-      "id": "Set8_Admin#4",
-      "count": 25,
-      "style": 4,
-      "name": "Set8_Admin",
-      "tierCurrent": 3,
-      "tierTotal": 3,
-      "neighbors": [
-        {
-          "id": "Set8_Brawler#1",
-          "count": 20,
-          "style": 1,
-          "name": "Set8_Brawler",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Hacker#1",
-          "count": 18,
-          "style": 1,
-          "name": "Set8_Hacker",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Channeler#1",
-          "count": 17,
-          "style": 1,
-          "name": "Set8_Channeler",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Forecaster#3",
-          "count": 8,
-          "style": 3,
-          "name": "Set8_Forecaster",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
-          "id": "Set8_Defender#1",
-          "count": 8,
-          "style": 1,
-          "name": "Set8_Defender",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Heart#1",
-          "count": 6,
-          "style": 1,
-          "name": "Set8_Heart",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Ace#1",
-          "count": 6,
-          "style": 1,
-          "name": "Set8_Ace",
-          "tierCurrent": 1,
-          "tierTotal": 2
-        },
-        {
-          "id": "Set8_Brawler#2",
-          "count": 5,
-          "style": 2,
-          "name": "Set8_Brawler",
-          "tierCurrent": 2,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Corrupted#3",
-          "count": 3,
-          "style": 3,
-          "name": "Set8_Corrupted",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
-          "id": "Set8_SpaceCorps#1",
-          "count": 2,
-          "style": 1,
-          "name": "Set8_SpaceCorps",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        }
-      ],
-      "rank": 48,
-      "rankTotalCount": 59,
-      "compTotalCount": 1972
-    },
-    {
       "id": "Set8_Duelist#4",
       "count": 23,
       "style": 4,
@@ -5084,6 +5084,14 @@
           "tierTotal": 1
         },
         {
+          "id": "Set8_Pulsefire#1",
+          "count": 1,
+          "style": 1,
+          "name": "Set8_Pulsefire",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
           "id": "Set8_Channeler#2",
           "count": 1,
           "style": 2,
@@ -5100,20 +5108,105 @@
           "tierTotal": 4
         },
         {
-          "id": "Set8_Pulsefire#1",
-          "count": 1,
-          "style": 1,
-          "name": "Set8_Pulsefire",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
           "id": "Set8_Ace#1",
           "count": 1,
           "style": 1,
           "name": "Set8_Ace",
           "tierCurrent": 1,
           "tierTotal": 2
+        }
+      ],
+      "rank": 49,
+      "rankTotalCount": 59,
+      "compTotalCount": 1972
+    },
+    {
+      "id": "Set8_Aegis#3",
+      "count": 23,
+      "style": 3,
+      "name": "Set8_Aegis",
+      "tierCurrent": 3,
+      "tierTotal": 4,
+      "neighbors": [
+        {
+          "id": "Set8_Ace#1",
+          "count": 14,
+          "style": 1,
+          "name": "Set8_Ace",
+          "tierCurrent": 1,
+          "tierTotal": 2
+        },
+        {
+          "id": "Set8_OxForce#1",
+          "count": 9,
+          "style": 1,
+          "name": "Set8_OxForce",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Mascot#1",
+          "count": 7,
+          "style": 1,
+          "name": "Set8_Mascot",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Corrupted#3",
+          "count": 6,
+          "style": 3,
+          "name": "Set8_Corrupted",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
+          "id": "Set8_StarGuardian#1",
+          "count": 6,
+          "style": 1,
+          "name": "Set8_StarGuardian",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Forecaster#3",
+          "count": 5,
+          "style": 3,
+          "name": "Set8_Forecaster",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
+          "id": "Set8_Renegade#2",
+          "count": 4,
+          "style": 2,
+          "name": "Set8_Renegade",
+          "tierCurrent": 2,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Riftwalker#3",
+          "count": 4,
+          "style": 3,
+          "name": "Set8_Riftwalker",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
+          "id": "Set8_Brawler#1",
+          "count": 4,
+          "style": 1,
+          "name": "Set8_Brawler",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Deadeye#1",
+          "count": 4,
+          "style": 1,
+          "name": "Set8_Deadeye",
+          "tierCurrent": 1,
+          "tierTotal": 4
         }
       ],
       "rank": 49,
@@ -5307,34 +5400,42 @@
       "compTotalCount": 1972
     },
     {
-      "id": "Set8_Aegis#3",
-      "count": 23,
-      "style": 3,
-      "name": "Set8_Aegis",
-      "tierCurrent": 3,
+      "id": "Set8_UndergroundThe#1",
+      "count": 19,
+      "style": 1,
+      "name": "Set8_UndergroundThe",
+      "tierCurrent": 1,
       "tierTotal": 4,
       "neighbors": [
         {
           "id": "Set8_Ace#1",
-          "count": 14,
+          "count": 13,
           "style": 1,
           "name": "Set8_Ace",
           "tierCurrent": 1,
           "tierTotal": 2
         },
         {
-          "id": "Set8_OxForce#1",
-          "count": 9,
+          "id": "Set8_Brawler#1",
+          "count": 8,
           "style": 1,
-          "name": "Set8_OxForce",
+          "name": "Set8_Brawler",
           "tierCurrent": 1,
-          "tierTotal": 3
+          "tierTotal": 4
         },
         {
-          "id": "Set8_Mascot#1",
-          "count": 7,
+          "id": "Set8_Parallel#3",
+          "count": 8,
+          "style": 3,
+          "name": "Set8_Parallel",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
+          "id": "Set8_Heart#1",
+          "count": 6,
           "style": 1,
-          "name": "Set8_Mascot",
+          "name": "Set8_Heart",
           "tierCurrent": 1,
           "tierTotal": 3
         },
@@ -5347,55 +5448,47 @@
           "tierTotal": 1
         },
         {
-          "id": "Set8_StarGuardian#1",
+          "id": "Set8_Aegis#2",
           "count": 6,
-          "style": 1,
-          "name": "Set8_StarGuardian",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Forecaster#3",
-          "count": 5,
-          "style": 3,
-          "name": "Set8_Forecaster",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
-          "id": "Set8_Renegade#2",
-          "count": 4,
           "style": 2,
-          "name": "Set8_Renegade",
+          "name": "Set8_Aegis",
           "tierCurrent": 2,
-          "tierTotal": 3
+          "tierTotal": 4
         },
         {
-          "id": "Set8_Riftwalker#3",
+          "id": "Set8_Aegis#1",
+          "count": 4,
+          "style": 1,
+          "name": "Set8_Aegis",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Supers#3",
           "count": 4,
           "style": 3,
-          "name": "Set8_Riftwalker",
+          "name": "Set8_Supers",
           "tierCurrent": 1,
           "tierTotal": 1
         },
         {
-          "id": "Set8_Brawler#1",
+          "id": "Set8_Deadeye#3",
           "count": 4,
-          "style": 1,
-          "name": "Set8_Brawler",
-          "tierCurrent": 1,
+          "style": 3,
+          "name": "Set8_Deadeye",
+          "tierCurrent": 3,
           "tierTotal": 4
         },
         {
-          "id": "Set8_Deadeye#1",
+          "id": "Set8_Defender#1",
           "count": 4,
           "style": 1,
-          "name": "Set8_Deadeye",
+          "name": "Set8_Defender",
           "tierCurrent": 1,
-          "tierTotal": 4
+          "tierTotal": 3
         }
       ],
-      "rank": 49,
+      "rank": 50,
       "rankTotalCount": 59,
       "compTotalCount": 1972
     },
@@ -5493,99 +5586,6 @@
       "compTotalCount": 1972
     },
     {
-      "id": "Set8_UndergroundThe#1",
-      "count": 19,
-      "style": 1,
-      "name": "Set8_UndergroundThe",
-      "tierCurrent": 1,
-      "tierTotal": 4,
-      "neighbors": [
-        {
-          "id": "Set8_Ace#1",
-          "count": 13,
-          "style": 1,
-          "name": "Set8_Ace",
-          "tierCurrent": 1,
-          "tierTotal": 2
-        },
-        {
-          "id": "Set8_Brawler#1",
-          "count": 8,
-          "style": 1,
-          "name": "Set8_Brawler",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Parallel#3",
-          "count": 8,
-          "style": 3,
-          "name": "Set8_Parallel",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
-          "id": "Set8_Heart#1",
-          "count": 6,
-          "style": 1,
-          "name": "Set8_Heart",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Corrupted#3",
-          "count": 6,
-          "style": 3,
-          "name": "Set8_Corrupted",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
-          "id": "Set8_Aegis#2",
-          "count": 6,
-          "style": 2,
-          "name": "Set8_Aegis",
-          "tierCurrent": 2,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Supers#3",
-          "count": 4,
-          "style": 3,
-          "name": "Set8_Supers",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
-          "id": "Set8_Aegis#1",
-          "count": 4,
-          "style": 1,
-          "name": "Set8_Aegis",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Deadeye#3",
-          "count": 4,
-          "style": 3,
-          "name": "Set8_Deadeye",
-          "tierCurrent": 3,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Defender#1",
-          "count": 4,
-          "style": 1,
-          "name": "Set8_Defender",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        }
-      ],
-      "rank": 50,
-      "rankTotalCount": 59,
-      "compTotalCount": 1972
-    },
-    {
       "id": "Set8_StarGuardian#4",
       "count": 18,
       "style": 4,
@@ -5594,20 +5594,20 @@
       "tierTotal": 4,
       "neighbors": [
         {
-          "id": "Set8_Ace#1",
-          "count": 16,
-          "style": 1,
-          "name": "Set8_Ace",
-          "tierCurrent": 1,
-          "tierTotal": 2
-        },
-        {
           "id": "Set8_Channeler#1",
           "count": 16,
           "style": 1,
           "name": "Set8_Channeler",
           "tierCurrent": 1,
           "tierTotal": 4
+        },
+        {
+          "id": "Set8_Ace#1",
+          "count": 16,
+          "style": 1,
+          "name": "Set8_Ace",
+          "tierCurrent": 1,
+          "tierTotal": 2
         },
         {
           "id": "Set8_GunMage#1",
@@ -5650,20 +5650,20 @@
           "tierTotal": 1
         },
         {
-          "id": "Set8_Duelist#1",
-          "count": 1,
-          "style": 1,
-          "name": "Set8_Duelist",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
           "id": "Set8_GunMage#2",
           "count": 1,
           "style": 2,
           "name": "Set8_GunMage",
           "tierCurrent": 2,
           "tierTotal": 3
+        },
+        {
+          "id": "Set8_Duelist#1",
+          "count": 1,
+          "style": 1,
+          "name": "Set8_Duelist",
+          "tierCurrent": 1,
+          "tierTotal": 4
         },
         {
           "id": "Set8_Heart#1",
@@ -5711,14 +5711,6 @@
           "tierTotal": 4
         },
         {
-          "id": "Set8_StarGuardian#1",
-          "count": 4,
-          "style": 1,
-          "name": "Set8_StarGuardian",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
           "id": "Set8_Corrupted#3",
           "count": 4,
           "style": 3,
@@ -5727,20 +5719,12 @@
           "tierTotal": 1
         },
         {
-          "id": "Set8_Aegis#1",
-          "count": 3,
+          "id": "Set8_StarGuardian#1",
+          "count": 4,
           "style": 1,
-          "name": "Set8_Aegis",
+          "name": "Set8_StarGuardian",
           "tierCurrent": 1,
           "tierTotal": 4
-        },
-        {
-          "id": "Set8_Admin#1",
-          "count": 3,
-          "style": 1,
-          "name": "Set8_Admin",
-          "tierCurrent": 1,
-          "tierTotal": 3
         },
         {
           "id": "Set8_OxForce#3",
@@ -5757,6 +5741,22 @@
           "name": "Set8_GenAE",
           "tierCurrent": 1,
           "tierTotal": 2
+        },
+        {
+          "id": "Set8_Admin#1",
+          "count": 3,
+          "style": 1,
+          "name": "Set8_Admin",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Aegis#1",
+          "count": 3,
+          "style": 1,
+          "name": "Set8_Aegis",
+          "tierCurrent": 1,
+          "tierTotal": 4
         },
         {
           "id": "Set8_Forecaster#3",
@@ -6006,18 +6006,18 @@
           "tierTotal": 4
         },
         {
-          "id": "Set8_Prankster#1",
-          "count": 2,
-          "style": 1,
-          "name": "Set8_Prankster",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
           "id": "Set8_Renegade#1",
           "count": 2,
           "style": 1,
           "name": "Set8_Renegade",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Prankster#1",
+          "count": 2,
+          "style": 1,
+          "name": "Set8_Prankster",
           "tierCurrent": 1,
           "tierTotal": 3
         },
@@ -6038,12 +6038,12 @@
           "tierTotal": 4
         },
         {
-          "id": "Set8_Aegis#1",
+          "id": "Set8_Hacker#3",
           "count": 1,
-          "style": 1,
-          "name": "Set8_Aegis",
-          "tierCurrent": 1,
-          "tierTotal": 4
+          "style": 3,
+          "name": "Set8_Hacker",
+          "tierCurrent": 2,
+          "tierTotal": 3
         }
       ],
       "rank": 53,
@@ -6463,6 +6463,14 @@
           "tierTotal": 4
         },
         {
+          "id": "Set8_Aegis#1",
+          "count": 2,
+          "style": 1,
+          "name": "Set8_Aegis",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
           "id": "Set8_GunMage#2",
           "count": 2,
           "style": 2,
@@ -6479,26 +6487,18 @@
           "tierTotal": 1
         },
         {
-          "id": "Set8_Aegis#1",
-          "count": 2,
+          "id": "Set8_Mascot#1",
+          "count": 1,
           "style": 1,
-          "name": "Set8_Aegis",
+          "name": "Set8_Mascot",
           "tierCurrent": 1,
-          "tierTotal": 4
+          "tierTotal": 3
         },
         {
           "id": "Set8_Renegade#1",
           "count": 1,
           "style": 1,
           "name": "Set8_Renegade",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Mascot#1",
-          "count": 1,
-          "style": 1,
-          "name": "Set8_Mascot",
           "tierCurrent": 1,
           "tierTotal": 3
         },
@@ -6588,20 +6588,20 @@
           "tierTotal": 3
         },
         {
+          "id": "Set8_Supers#3",
+          "count": 1,
+          "style": 3,
+          "name": "Set8_Supers",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
           "id": "Set8_Brawler#1",
           "count": 1,
           "style": 1,
           "name": "Set8_Brawler",
           "tierCurrent": 1,
           "tierTotal": 4
-        },
-        {
-          "id": "Set8_Heart#1",
-          "count": 1,
-          "style": 1,
-          "name": "Set8_Heart",
-          "tierCurrent": 1,
-          "tierTotal": 3
         }
       ],
       "rank": 56,
@@ -6702,99 +6702,6 @@
       "compTotalCount": 1972
     },
     {
-      "id": "Set8_Aegis#4",
-      "count": 3,
-      "style": 4,
-      "name": "Set8_Aegis",
-      "tierCurrent": 4,
-      "tierTotal": 4,
-      "neighbors": [
-        {
-          "id": "Set8_Ace#1",
-          "count": 2,
-          "style": 1,
-          "name": "Set8_Ace",
-          "tierCurrent": 1,
-          "tierTotal": 2
-        },
-        {
-          "id": "Set8_Prankster#1",
-          "count": 2,
-          "style": 1,
-          "name": "Set8_Prankster",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_OxForce#1",
-          "count": 2,
-          "style": 1,
-          "name": "Set8_OxForce",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_AnimaSquad#1",
-          "count": 1,
-          "style": 1,
-          "name": "Set8_AnimaSquad",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Brawler#1",
-          "count": 1,
-          "style": 1,
-          "name": "Set8_Brawler",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
-          "id": "Set8_Forecaster#3",
-          "count": 1,
-          "style": 3,
-          "name": "Set8_Forecaster",
-          "tierCurrent": 1,
-          "tierTotal": 1
-        },
-        {
-          "id": "Set8_Mascot#2",
-          "count": 1,
-          "style": 2,
-          "name": "Set8_Mascot",
-          "tierCurrent": 2,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_GunMage#3",
-          "count": 1,
-          "style": 3,
-          "name": "Set8_GunMage",
-          "tierCurrent": 3,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_Renegade#1",
-          "count": 1,
-          "style": 1,
-          "name": "Set8_Renegade",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
-          "id": "Set8_StarGuardian#1",
-          "count": 1,
-          "style": 1,
-          "name": "Set8_StarGuardian",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        }
-      ],
-      "rank": 58,
-      "rankTotalCount": 59,
-      "compTotalCount": 1972
-    },
-    {
       "id": "Set8_UndergroundThe#3",
       "count": 3,
       "style": 3,
@@ -6888,6 +6795,99 @@
       "compTotalCount": 1972
     },
     {
+      "id": "Set8_Aegis#4",
+      "count": 3,
+      "style": 4,
+      "name": "Set8_Aegis",
+      "tierCurrent": 4,
+      "tierTotal": 4,
+      "neighbors": [
+        {
+          "id": "Set8_Ace#1",
+          "count": 2,
+          "style": 1,
+          "name": "Set8_Ace",
+          "tierCurrent": 1,
+          "tierTotal": 2
+        },
+        {
+          "id": "Set8_Prankster#1",
+          "count": 2,
+          "style": 1,
+          "name": "Set8_Prankster",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_OxForce#1",
+          "count": 2,
+          "style": 1,
+          "name": "Set8_OxForce",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_AnimaSquad#1",
+          "count": 1,
+          "style": 1,
+          "name": "Set8_AnimaSquad",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Brawler#1",
+          "count": 1,
+          "style": 1,
+          "name": "Set8_Brawler",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        },
+        {
+          "id": "Set8_Forecaster#3",
+          "count": 1,
+          "style": 3,
+          "name": "Set8_Forecaster",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
+          "id": "Set8_Mascot#2",
+          "count": 1,
+          "style": 2,
+          "name": "Set8_Mascot",
+          "tierCurrent": 2,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_GunMage#3",
+          "count": 1,
+          "style": 3,
+          "name": "Set8_GunMage",
+          "tierCurrent": 3,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_Renegade#1",
+          "count": 1,
+          "style": 1,
+          "name": "Set8_Renegade",
+          "tierCurrent": 1,
+          "tierTotal": 3
+        },
+        {
+          "id": "Set8_StarGuardian#1",
+          "count": 1,
+          "style": 1,
+          "name": "Set8_StarGuardian",
+          "tierCurrent": 1,
+          "tierTotal": 4
+        }
+      ],
+      "rank": 58,
+      "rankTotalCount": 59,
+      "compTotalCount": 1972
+    },
+    {
       "id": "Set8_UndergroundThe#2",
       "count": 1,
       "style": 2,
@@ -6949,5 +6949,5 @@
       "compTotalCount": 1972
     }
   ],
-  "lastUpdatedTS": 1684125807666
+  "lastUpdatedTS": 1684222477360
 }
