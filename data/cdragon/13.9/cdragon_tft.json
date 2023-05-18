@@ -3775,7 +3775,7 @@
       "desc": "Gain a Lux. Every @CastInterval@nd cast, your strongest Lux's Ability deals @DamageIncreasePercent*100@% more damage.",
       "effects": {
         "{aa04fb6b}": 2,
-        "{d50b4559}": 1.2000000476837158
+        "{d50b4559}": 1.5
       },
       "icon": "ASSETS/Characters/TFT8_Lux/HUD/TFT8_Lux.TFT_Set8.tex",
       "name": "Illuminating Singularity"
@@ -3901,7 +3901,7 @@
       "desc": "Gain a Jinx. Your strongest Jinx gains @BonusSpeed*100@% Attack Speed and Move speed. When she scores a takedown this amount is tripled for @Duration@ seconds.",
       "effects": {
         "Duration": 6,
-        "{4eebf7ef}": 0.3499999940395355
+        "{4eebf7ef}": 0.30000001192092896
       },
       "icon": "ASSETS/Characters/TFT8_Jinx/HUD/TFT8_Jinx.TFT_Set8.tex",
       "name": "Get Excited!"
@@ -4060,7 +4060,7 @@
       "desc": "Gain a Warwick. When you field him your team gains @StartingHealth@ Maximum Health. This is increased by @BonusHealth@ every @AutoAttackCycle@ times your strongest Warwick attacks. (Current Health: @TFTUnitProperty.trait:TFT8_5_WarwickCarryAugment_Health@)",
       "effects": {
         "BonusHealth": 1,
-        "StartingHealth": 140,
+        "StartingHealth": 150,
         "{6fc21adc}": 3
       },
       "icon": "ASSETS/Characters/TFT8_Warwick/HUD/TFT8_Warwick_Square.TFT_Set8_Stage2.tex",
@@ -4093,7 +4093,7 @@
       "desc": "Gain a Garen. Your strongest Garen's ability costs @ManaReduction@ less Mana to cast and deals additional damage equal to @ADScaling*100@% of his Attack Damage, but no longer stuns.",
       "effects": {
         "ADScaling": 1.7999999523162842,
-        "{7ccd3647}": 30
+        "{7ccd3647}": 50
       },
       "icon": "ASSETS/Characters/TFT8_Garen/HUD/TFT8_Garen_Square.TFT_Set8_Stage2.tex",
       "name": "Full Power to Sword"
@@ -4175,7 +4175,7 @@
       "composition": [],
       "desc": "Gain a Nasus. When you field him, your team heals @Heal@ Health on takedowns.",
       "effects": {
-        "Heal": 300
+        "Heal": 275
       },
       "icon": "ASSETS/Characters/TFT8_Nasus/HUD/TFT8_Nasus.TFT_Set8.tex",
       "name": "Soul Eater"
@@ -4326,8 +4326,8 @@
       "composition": [],
       "desc": "Gain a Garen. Combat Start and when your strongest Garen casts his ability: Garen shields allies for @HealthPercentToShield*100@% of their maximum health for @ShieldDuration@ seconds.",
       "effects": {
-        "ShieldDuration": 6,
-        "{6c9ae388}": 0.15000000596046448
+        "ShieldDuration": 4,
+        "{6c9ae388}": 0.11999999731779099
       },
       "icon": "ASSETS/Characters/TFT8_Garen/HUD/TFT8_Garen_Square.TFT_Set8_Stage2.tex",
       "name": "My Sword is Your Shield"
@@ -4639,7 +4639,7 @@
       "composition": [],
       "desc": "Gain a Rell. Your strongest Rell gains @AP@ Ability Power and takes @DamageReduction@% less damage.",
       "effects": {
-        "AP": 80,
+        "AP": 60,
         "DamageReduction": 35
       },
       "icon": "ASSETS/Characters/TFT8_Rell/HUD/TFT8_Rell.TFT_Set8.tex",
@@ -4744,7 +4744,7 @@
       "composition": [],
       "desc": "Gain an Ashe. Your strongest Ashe gains @AS@% Attack Speed, doubled while her Ability is active.",
       "effects": {
-        "AS": 50
+        "AS": 45
       },
       "icon": "ASSETS/Characters/TFT8_Ashe/HUD/TFT8_Ashe.TFT_Set8.tex",
       "name": "Laser Focus"
@@ -4890,7 +4890,7 @@
       "effects": {
         "{6dd5404f}": 1,
         "{b1ee9bb7}": 1,
-        "{e5c8ad60}": 3
+        "{e5c8ad60}": 2
       },
       "icon": "ASSETS/Characters/TFT8_Pyke/HUD/TFT8_Pyke_Square.TFT_Set8_Stage2.tex",
       "name": "Your Cut"
@@ -5257,7 +5257,7 @@
       "composition": [],
       "desc": "Gain a Yasuo. Your strongest Yasuo's spell is larger and does @bonusdamage@% increased damage.",
       "effects": {
-        "BonusDamage": 20
+        "BonusDamage": 8
       },
       "icon": "ASSETS/Characters/TFT8_Yasuo/HUD/TFT8_Yasuo.TFT_Set8.tex",
       "name": "Winds of the Wanderer"
@@ -5462,7 +5462,7 @@
       "composition": [],
       "desc": "Gain a Warwick. When you field him, your units deal @DamagePerHPValue@% increased damage for every @HPValue@ Health they have.",
       "effects": {
-        "{be50e58c}": 0.75,
+        "{be50e58c}": 0.6499999761581421,
         "{f85976ea}": 100
       },
       "icon": "ASSETS/Characters/TFT8_Warwick/HUD/TFT8_Warwick_Square.TFT_Set8_Stage2.tex",
@@ -5593,7 +5593,7 @@
       "desc": "Gain a Lee Sin. Your strongest Lee Sin's Ability costs @ManaReduction@ less Mana to cast. When he casts, he sheds all negative effects and heals @HealPercent*100@% of his missing Health.",
       "effects": {
         "HealPercent": 0.15000000596046448,
-        "{7ccd3647}": 10
+        "{7ccd3647}": 15
       },
       "icon": "ASSETS/Characters/TFT8_LeeSin/HUD/TFT8_LeeSin.TFT_Set8.tex",
       "name": "Cleansing Safeguard"
@@ -5612,7 +5612,7 @@
       "desc": "Gain a Riven. Combat start: Your strongest Riven grants herself and adjacent allies a shield for @ShieldDuration@ seconds equal to @MaxHealthPercent@% of their maximum Health.",
       "effects": {
         "ShieldDuration": 15,
-        "{f12d8928}": 40
+        "{f12d8928}": 45
       },
       "icon": "ASSETS/Characters/TFT8_Riven/HUD/TFT8_Riven.TFT_Set8.tex",
       "name": "Triumphant Return"
@@ -5775,7 +5775,7 @@
       "desc": "Gain a Warwick. When you field him your team gains @StartingHealth@ Maximum Health. This is increased by @BonusHealth@ every @AutoAttackCycle@ times your strongest Warwick attacks. (Current Health: @TFTUnitProperty.trait:TFT8_5_WarwickCarryAugment_Health@)",
       "effects": {
         "BonusHealth": 1,
-        "StartingHealth": 40,
+        "StartingHealth": 60,
         "{6fc21adc}": 3
       },
       "icon": "ASSETS/Characters/TFT8_Warwick/HUD/TFT8_Warwick_Square.TFT_Set8_Stage2.tex",
@@ -5794,7 +5794,7 @@
       "composition": [],
       "desc": "Gain a Jax. After every 3rd attack, your strongest Jax gains @BonusAS*100@% Attack Speed for the rest of combat (this can stack).",
       "effects": {
-        "BonusAS": 0.15000000596046448
+        "BonusAS": 0.18000000715255737
       },
       "icon": "ASSETS/Characters/TFT8_Jax/HUD/TFT8_Jax.TFT_Set8.tex",
       "name": "Relentless Assault"
@@ -8555,8 +8555,8 @@
       "desc": "Combat start: Grant immunity to crowd control for <TFTRadiantItemBonus>@SpellShieldDuration@</TFTRadiantItemBonus> seconds.<br><br><tftitemrules>[Unique - only 1 per champion]</tftitemrules>",
       "effects": {
         "AS": 70,
-        "CritChance": 20,
-        "MagicResist": 20,
+        "CritChance": 40,
+        "MagicResist": 40,
         "{a2b76524}": 30
       },
       "icon": "ASSETS/Maps/Particles/TFT/Item_Icons/Radiant/Quicksilver_Radiant.tex",
@@ -8581,7 +8581,7 @@
       "effects": {
         "AP": 40,
         "AS": 10,
-        "Damage": 75,
+        "Damage": 65,
         "Mana": 15,
         "{12a15e9e}": 8,
         "{15144cec}": 8,
@@ -8600,7 +8600,7 @@
       "effects": {
         "Armor": 20,
         "HealthThreshold": 40,
-        "Mana": 45,
+        "Mana": 60,
         "ShieldDuration": 10,
         "{0034a6ef}": 50,
         "{6a311cec}": 70
@@ -8805,12 +8805,12 @@
         "AP": 10,
         "Armor": 20,
         "ShieldDuration": 60,
-        "{0d46330d}": 500,
-        "{6fb9af6a}": 400,
-        "{829e6cec}": 600,
+        "{0d46330d}": 400,
+        "{6fb9af6a}": 350,
+        "{829e6cec}": 450,
         "{940ca598}": 200,
         "{9b1e8f37}": 3,
-        "{c78af25f}": 900
+        "{c78af25f}": 550
       },
       "icon": "ASSETS/Maps/Particles/TFT/Item_Icons/Radiant/Locket_of_the_Iron_Solari_Radiant.tex",
       "name": "Locket of Targon Prime"
@@ -8858,8 +8858,8 @@
       "composition": [],
       "desc": "Once per combat: At @HealthThreshold@% Health <TFTRadiantItemBonus>and again at @HealthThreshold2@% Health,</TFTRadiantItemBonus> briefly become untargetable and shed negative effects. Then, gain %i:scaleAS% @AttackSpeed@% bonus Attack Speed. <TFTRadiantItemBonus>This effect stacks.</TFTRadiantItemBonus><br><br><tftitemrules>[Unique - only 1 per champion]</tftitemrules>",
       "effects": {
-        "AD": 0.10000000149011612,
-        "Armor": 20,
+        "AD": 0.30000001192092896,
+        "Armor": 30,
         "AttackSpeed": 40,
         "DamageReduction": 100,
         "HealthThreshold": 60,
@@ -8874,7 +8874,7 @@
       "composition": [],
       "desc": "Grant %i:scaleRange% <TFTRadiantItemBonus>@HexRangeIncrease@</TFTRadiantItemBonus> bonus Attack Range and your attacks cannot miss.",
       "effects": {
-        "AS": 99,
+        "AS": 125,
         "{16394c87}": 2
       },
       "icon": "ASSETS/Maps/Particles/TFT/Item_Icons/Radiant/Rapid_Fire_Cannon_Radiant.tex",
@@ -11178,9 +11178,9 @@
       "composition": [],
       "desc": "Attacks and Abilities @Shred@% <TFTKeyword>Shred</TFTKeyword> and @Shred@% <TFTKeyword>Sunder</TFTKeyword> enemies for @Duration@ seconds.<br><br><tftitemrules>[Unique - only 1 per champion]<br><tftbold>Shred</tftbold>: reduce Magic Resist<br><tftbold>Sunder</tftbold>: reduce Armor</tftitemrules>",
       "effects": {
-        "AD": 0.20000000298023224,
+        "AD": 0.25,
         "Duration": 5,
-        "Health": 150,
+        "Health": 250,
         "{a8d6e8b5}": 50
       },
       "icon": "ASSETS/Maps/Particles/TFT/Item_Icons/Ornn_Items/TFT4_OrnnItem_Fighter_T3_BlackCleaver.tex",
@@ -11358,9 +11358,9 @@
       "composition": [],
       "desc": "Once per combat: At @PercentHealthThreshold@% Health, become invulnerable and untargetable for @InvulnDuration@ seconds.<br><br><tftitemrules>[Unique - only 1 per champion]</tftitemrules>",
       "effects": {
-        "AP": 40,
-        "Armor": 40,
-        "MagicResist": 40,
+        "AP": 30,
+        "Armor": 30,
+        "MagicResist": 30,
         "{046e3023}": 40,
         "{69247755}": 3
       },
@@ -11698,8 +11698,8 @@
       "desc": "Grant @BaseHeal@% <TFTKeyword>Omnivamp</TFTKeyword>. @IgnorePainPercent@% of the damage the holder receives is instead dealt over @BleedDuration@ seconds as non-lethal damage.<br><br><tftitemrules>[Unique - only 1 per champion]<br><tftbold>Omnivamp</tftbold>: heal for some of damage dealt</tftitemrules>",
       "effects": {
         "AD": 0.10000000149011612,
-        "AS": 20,
-        "Armor": 20,
+        "AS": 30,
+        "Armor": 30,
         "BaseHeal": 25,
         "{0bc5955f}": 4,
         "{ee37daec}": 50
@@ -15146,9 +15146,9 @@
               "minUnits": 4,
               "style": 3,
               "variables": {
-                "BonusArmor": 75,
+                "BonusArmor": 70,
                 "{5cc52ba8}": 1,
-                "{830398ac}": 150
+                "{830398ac}": 140
               }
             },
             {
@@ -15156,9 +15156,9 @@
               "minUnits": 6,
               "style": 4,
               "variables": {
-                "BonusArmor": 200,
+                "BonusArmor": 180,
                 "{5cc52ba8}": 1,
-                "{830398ac}": 400
+                "{830398ac}": 360
               }
             }
           ],
@@ -15237,7 +15237,7 @@
               "minUnits": 3,
               "style": 1,
               "variables": {
-                "{7d4d3a93}": 3,
+                "{7d4d3a93}": 4,
                 "{e3f67a80}": 1
               }
             },
@@ -15246,7 +15246,7 @@
               "minUnits": 5,
               "style": 4,
               "variables": {
-                "{7d4d3a93}": 10,
+                "{7d4d3a93}": 9,
                 "{e3f67a80}": 2
               }
             }
@@ -18138,9 +18138,9 @@
               "minUnits": 4,
               "style": 3,
               "variables": {
-                "BonusArmor": 75,
+                "BonusArmor": 70,
                 "{5cc52ba8}": 1,
-                "{830398ac}": 150
+                "{830398ac}": 140
               }
             },
             {
@@ -18148,9 +18148,9 @@
               "minUnits": 6,
               "style": 4,
               "variables": {
-                "BonusArmor": 200,
+                "BonusArmor": 180,
                 "{5cc52ba8}": 1,
-                "{830398ac}": 400
+                "{830398ac}": 360
               }
             }
           ],
@@ -18218,7 +18218,7 @@
               "minUnits": 3,
               "style": 1,
               "variables": {
-                "{7d4d3a93}": 3,
+                "{7d4d3a93}": 4,
                 "{e3f67a80}": 1
               }
             },
@@ -18227,7 +18227,7 @@
               "minUnits": 5,
               "style": 4,
               "variables": {
-                "{7d4d3a93}": 10,
+                "{7d4d3a93}": 9,
                 "{e3f67a80}": 2
               }
             }

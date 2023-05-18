@@ -20,7 +20,24 @@ export default function Filters({ allParams }: { allParams: StatsParams[] }) {
   const [showLoading, setShowLoading] = useState(false);
 
   const versions = useMemo(() => {
-    return [...new Set(allParams.map((f) => f.version))];
+    const uniqueVersions = [...new Set(allParams.map((f) => f.version))];
+    uniqueVersions.sort((a, b) => {
+      const [, minorVersionA] = a.split(".");
+      const minorVersionA_num = parseInt(minorVersionA);
+
+      const [, minorVersionB] = b.split(".");
+      const minorVersionB_num = parseInt(minorVersionB);
+
+      if (minorVersionA_num > minorVersionB_num) {
+        return -1;
+      } else if (minorVersionA_num < minorVersionB_num) {
+        return 1;
+      } else {
+        return 0;
+      }
+    });
+
+    return uniqueVersions;
   }, [allParams]);
 
   const regions = useMemo(() => {

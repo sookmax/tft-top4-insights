@@ -68,6 +68,7 @@ export type Match = {
 export default class DataCollector {
   public static DATA_DIR = path.join(DATA_DIR_ROOT, "matches");
   public static VERSIONS_TO_NOT_COLLECT: string[] = [
+    "13.6",
     "13.5",
     "13.4",
     "13.3",

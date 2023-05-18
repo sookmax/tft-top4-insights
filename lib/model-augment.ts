@@ -106,9 +106,11 @@ export default class TFTAugment extends ModelBase {
     const [versionMajor, versionMinor] = this.version.split(".");
     let prevVersionMinor = parseInt(versionMinor) - 1;
 
-    if (prevVersionMinor === 8) prevVersionMinor--;
+    if (prevVersionMinor === 8 || prevVersionMinor === 9) {
+      prevVersionMinor = 7;
+    }
 
-    return ["9", "8"].includes(versionMinor)
+    return ["10", "9", "8"].includes(versionMinor)
       ? `https://raw.communitydragon.org/${`${versionMajor}.${prevVersionMinor}`}/game/${rawPath}`
       : `https://raw.communitydragon.org/${this.version}/game/${rawPath}`;
   }

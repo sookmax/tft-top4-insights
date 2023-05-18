@@ -1,0 +1,205 @@
+{
+  "type": "augments",
+  "region": "EUNE",
+  "version": "13.10",
+  "league": "CHALLENGER",
+  "count": 1,
+  "value": [
+    {
+      "id": "TFT6_Augment_HighEndShopping",
+      "count": 2,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_Distancing2",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_WarwickSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_JannaCarry",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 2,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_PortableForge",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_GachaAddict",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_UrgotSupport",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_GachaAddict",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_UrgotSupport",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_UrgotSupport",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_GachaAddict",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_RichGetRicher",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_UndergroundTheTrait2",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_AurelionSolCarry",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_UndergroundTheTrait2",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_RichGetRicher",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_AurelionSolCarry",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_AurelionSolCarry",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_RichGetRicher",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_UndergroundTheTrait2",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_Distancing2",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_HighEndShopping",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_WarwickSupport",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_5_Augment_WarwickSupport",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_Distancing2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_HighEndShopping",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_SecondWind2",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_HighEndShopping",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_JannaCarry",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_JannaCarry",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_SecondWind2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_HighEndShopping",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 4
+    }
+  ],
+  "lastUpdatedTS": 1684396197311
+}

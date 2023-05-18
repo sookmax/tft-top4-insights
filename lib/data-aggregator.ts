@@ -62,9 +62,15 @@ export default class DataAggregator {
     // so that we can have a descending order of versions.
     // latest to oldest
     versions.sort((a, b) => {
-      if (a > b) {
+      const [, minorVersionA] = a.split(".");
+      const minorVersionA_num = parseInt(minorVersionA);
+
+      const [, minorVersionB] = b.split(".");
+      const minorVersionB_num = parseInt(minorVersionB);
+
+      if (minorVersionA_num > minorVersionB_num) {
         return -1;
-      } else if (a < b) {
+      } else if (minorVersionA_num < minorVersionB_num) {
         return 1;
       } else {
         return 0;
