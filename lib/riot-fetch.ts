@@ -23,6 +23,8 @@ export async function riotFetch(
   ...args: Parameters<typeof fetch>
 ): Promise<any> {
   try {
+    console.log(`[SEND REQUEST]: ${args[0]}`);
+
     args[1] = { ...args[1], ...FETCH_OPTIONS };
 
     const result = await fetch(...args).then(async (res) => {
@@ -58,7 +60,7 @@ export async function riotFetch(
         : args[0].url;
 
     console.log(
-      `cooling down (${(REQUEST_COOLDOWN_MS / 1000).toFixed(
+      `[COOL DOWN] (${(REQUEST_COOLDOWN_MS / 1000).toFixed(
         1
       )}s) after a request to: ${msg}.`
     );

@@ -161,7 +161,7 @@ export default class DataCollector {
 
             // Check if file exists in directory
             if (!fs.existsSync(filePath)) {
-              console.log(`writing a file to: ${filePath.toString()}`);
+              console.log(`[WRITE FILE]: ${filePath.toString()}`);
               // Write file if it doesn't exist
               // Convert object to JSON string
               const jsonString = JSON.stringify(match, null, 2);
