@@ -1,0 +1,214 @@
+{
+  "type": "augments",
+  "region": "EUNE",
+  "version": "13.11",
+  "league": "GRANDMASTER",
+  "count": 1,
+  "value": [
+    {
+      "id": "TFT8_Augment_FioraCarry",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_DuelistTrait",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_OxForceEmblem",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_DuelistTrait",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_FioraCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_OxForceEmblem",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_OxForceEmblem",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_FioraCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_DuelistTrait",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_5_Augment_PykeCarry",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_SecondWind1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ComponentGrabBag",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_SecondWind1",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_5_Augment_PykeCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ComponentGrabBag",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_ComponentGrabBag",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_5_Augment_PykeCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_SecondWind1",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_JinxCarry",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_AnimaSquadTrait",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_AnimaSquadTrait",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_JinxCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_TomeOfTraits1",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_JinxCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_AnimaSquadTrait",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_5_Augment_PykeSupport",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_ADMINEmblem",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_ThrillOfTheHunt1",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_5_Augment_PykeSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_ADMINEmblem",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_ADMINEmblem",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_5_Augment_PykeSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt1",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    }
+  ],
+  "lastUpdatedTS": 1685604196192
+}

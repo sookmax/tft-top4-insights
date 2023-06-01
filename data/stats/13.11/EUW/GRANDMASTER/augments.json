@@ -1,0 +1,214 @@
+{
+  "type": "augments",
+  "region": "EUW",
+  "version": "13.11",
+  "league": "GRANDMASTER",
+  "count": 1,
+  "value": [
+    {
+      "id": "TFT7_Augment_BandOfThieves1",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_MordekaiserCarry",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_TomeOfTraits1",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT7_Augment_BandOfThieves1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_MordekaiserCarry",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_MordekaiserCarry",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT7_Augment_BandOfThieves1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TomeOfTraits1",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_ThrillOfTheHunt1",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_TradeSectorPlus",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_LeonaCarry",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_TradeSectorPlus",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_LeonaCarry",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_LeonaCarry",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TradeSectorPlus",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_MeleeStarBlade1",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_WarwickSupport",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT6_Augment_JeweledLotus",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_MeleeStarBlade1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_WarwickSupport",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_5_Augment_WarwickSupport",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_MeleeStarBlade1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_JeweledLotus",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT7_Augment_Preparation",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_HeartEmblem",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_RenegadePartners",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_HeartEmblem",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT7_Augment_Preparation",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_RenegadePartners",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    },
+    {
+      "id": "TFT8_Augment_RenegadePartners",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT7_Augment_Preparation",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_HeartEmblem",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 1,
+      "compTotalCount": 4
+    }
+  ],
+  "lastUpdatedTS": 1685604196192
+}
