@@ -1,0 +1,364 @@
+{
+  "type": "augments",
+  "region": "KR",
+  "version": "13.11",
+  "league": "MASTER",
+  "count": 2,
+  "value": [
+    {
+      "id": "TFT6_Augment_ItemGrabBag1",
+      "count": 2,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_SamiraCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ComponentGrabBag",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SonaExile",
+          "count": 1
+        },
+        {
+          "id": "TFT7_Augment_AxiomArc2",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT6_Augment_ComponentGrabBag",
+      "count": 2,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_ItemGrabBag1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SamiraCarry",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TinyTitans",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_NeekoSupport",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT8_Augment_RenegadeEmblem",
+      "count": 2,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_RenegadeTrait",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_RenegadePartners",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_LudensEcho1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_JhinCarry",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT8_Augment_SonaExile",
+      "count": 2,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_ItemGrabBag1",
+          "count": 1
+        },
+        {
+          "id": "TFT7_Augment_AxiomArc2",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_Battlemage1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_RichGetRicherPlus",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT8_5_Augment_NeekoSupport",
+      "count": 2,
+      "neighbors": [
+        {
+          "id": "TFT7_Augment_PandorasBench",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_TinyTitans",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ComponentGrabBag",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT6_Augment_PortableForge",
+      "count": 2,
+      "neighbors": [
+        {
+          "id": "TFT7_Augment_PandorasBench",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_NeekoSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_AurelionSolCarry",
+          "count": 1
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT8_Augment_SamiraCarry",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_ItemGrabBag1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_ComponentGrabBag",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT8_Augment_RenegadeTrait",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_RenegadePartners",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_RenegadeEmblem",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT8_Augment_RenegadePartners",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_RenegadeTrait",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_RenegadeEmblem",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT7_Augment_AxiomArc2",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_ItemGrabBag1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SonaExile",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT7_Augment_PandorasBench",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_5_Augment_NeekoSupport",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT6_Augment_TinyTitans",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_ComponentGrabBag",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_NeekoSupport",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT6_Augment_LudensEcho1",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT8_Augment_RenegadeEmblem",
+          "count": 1
+        },
+        {
+          "id": "TFT8_5_Augment_JhinCarry",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT8_5_Augment_JhinCarry",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_LudensEcho1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_RenegadeEmblem",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT6_Augment_ThrillOfTheHunt1",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_AurelionSolCarry",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT8_Augment_AurelionSolCarry",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_ThrillOfTheHunt1",
+          "count": 1
+        },
+        {
+          "id": "TFT6_Augment_PortableForge",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT6_Augment_Battlemage1",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_RichGetRicherPlus",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SonaExile",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    },
+    {
+      "id": "TFT6_Augment_RichGetRicherPlus",
+      "count": 1,
+      "neighbors": [
+        {
+          "id": "TFT6_Augment_Battlemage1",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Augment_SonaExile",
+          "count": 1
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 2,
+      "compTotalCount": 8
+    }
+  ],
+  "lastUpdatedTS": 1685609448815
+}

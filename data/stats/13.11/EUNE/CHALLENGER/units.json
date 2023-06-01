@@ -3,8 +3,1344 @@
   "region": "EUNE",
   "version": "13.11",
   "league": "CHALLENGER",
-  "count": 2,
+  "count": 3,
   "value": [
+    {
+      "id": "TFT8_Ekko",
+      "count": 8,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 5
+        },
+        {
+          "id": 1,
+          "count": 3
+        }
+      ],
+      "items": [
+        {
+          "id": "no-item",
+          "count": 4
+        },
+        {
+          "id": "TFT_Item_RedBuff",
+          "count": 2
+        },
+        {
+          "id": "TFT_Item_GargoyleStoneplate",
+          "count": 2
+        },
+        {
+          "id": "TFT_Item_ThiefsGloves",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_RapidFireCannon",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_ArchangelsStaff",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Item_OxForceEmblemItem",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_Shroud",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_Zephyr",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Alistar",
+          "count": 7,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 6
+            },
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 2
+            },
+            {
+              "id": "TFT4_Item_OrnnRocketPropelledFist",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Neeko",
+          "count": 5,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 4
+            },
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 4
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Viego",
+          "count": 4,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            },
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 2
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Fiora",
+          "count": 4,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            },
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Annie",
+          "count": 3,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_TwistedFate",
+          "count": 3,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_GuinsoosRageblade",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Quicksilver",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Lux",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Rell",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Nilah",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Kaisa",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_ChannelerEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Alistar",
+      "count": 8,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 6
+        },
+        {
+          "id": 1,
+          "count": 2
+        }
+      ],
+      "items": [
+        {
+          "id": "no-item",
+          "count": 4
+        },
+        {
+          "id": "TFT_Item_WarmogsArmor",
+          "count": 2
+        },
+        {
+          "id": "TFT_Item_Shroud",
+          "count": 2
+        },
+        {
+          "id": "TFT4_Item_OrnnRocketPropelledFist",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_DragonsClaw",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_FrozenHeart",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_GargoyleStoneplate",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Ekko",
+          "count": 7,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 5
+            },
+            {
+              "id": 1,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RapidFireCannon",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_OxForceEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Zephyr",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Viego",
+          "count": 5,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 3
+            },
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 2
+            },
+            {
+              "id": "no-item",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Neeko",
+          "count": 4,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 4
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Fiora",
+          "count": 4,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            },
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Annie",
+          "count": 3,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_TwistedFate",
+          "count": 3,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_GuinsoosRageblade",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Quicksilver",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_MissFortune",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Morellonomicon",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Camille",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_RiftwalkerEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Pyke",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Jhin",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Deathblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 1,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Neeko",
+      "count": 5,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 4
+        },
+        {
+          "id": 1,
+          "count": 1
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_SpearOfShojin",
+          "count": 4
+        },
+        {
+          "id": "TFT_Item_ArchangelsStaff",
+          "count": 3
+        },
+        {
+          "id": "TFT_Item_HextechGunblade",
+          "count": 2
+        },
+        {
+          "id": "TFT_Item_PowerGauntlet",
+          "count": 2
+        },
+        {
+          "id": "TFT_Item_JeweledGauntlet",
+          "count": 2
+        },
+        {
+          "id": "TFT_Item_MadredsBloodrazor",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Ekko",
+          "count": 5,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 3
+            },
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 3
+            },
+            {
+              "id": "TFT8_Item_OxForceEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 4,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 3
+            },
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Fiora",
+          "count": 3,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            },
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Annie",
+          "count": 3,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_TwistedFate",
+          "count": 3,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 3
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_GuinsoosRageblade",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Quicksilver",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Lux",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Rell",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Nilah",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Kaisa",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_ChannelerEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Garen",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT8_Item_StarGuardianEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Viego",
+      "count": 5,
+      "tiers": [
+        {
+          "id": 1,
+          "count": 3
+        },
+        {
+          "id": 2,
+          "count": 2
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_IonicSpark",
+          "count": 2
+        },
+        {
+          "id": "no-item",
+          "count": 2
+        },
+        {
+          "id": "TFT_Item_JeweledGauntlet",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_Bloodthirster",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_MadredsBloodrazor",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Alistar",
+          "count": 5,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 4
+            },
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 3
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT4_Item_OrnnRocketPropelledFist",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 4,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 3
+            },
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 2
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_OxForceEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Zephyr",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Fiora",
+          "count": 3,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Camille",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_RiftwalkerEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Pyke",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Jhin",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Deathblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Leona",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            },
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitansResolve",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_HeartEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Zac",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Annie",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Sona",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_SeraphsEmbrace",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 2,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
     {
       "id": "TFT8_TwistedFate",
       "count": 5,
@@ -310,310 +1646,9 @@
           ]
         }
       ],
-      "rank": 1,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
-    },
-    {
-      "id": "TFT8_Alistar",
-      "count": 5,
-      "tiers": [
-        {
-          "id": 2,
-          "count": 4
-        },
-        {
-          "id": 1,
-          "count": 1
-        }
-      ],
-      "items": [
-        {
-          "id": "no-item",
-          "count": 3
-        },
-        {
-          "id": "TFT_Item_FrozenHeart",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_GargoyleStoneplate",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_Shroud",
-          "count": 1
-        }
-      ],
-      "neighbors": [
-        {
-          "id": "TFT8_Fiora",
-          "count": 4,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 2
-            },
-            {
-              "id": 2,
-              "count": 2
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 4
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Ekko",
-          "count": 4,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 3
-            },
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 2
-            },
-            {
-              "id": "TFT8_Item_OxForceEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Shroud",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Zephyr",
-              "count": 1
-            },
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Viego",
-          "count": 4,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 2
-            },
-            {
-              "id": 2,
-              "count": 2
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_JeweledGauntlet",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Bloodthirster",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_MadredsBloodrazor",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Annie",
-          "count": 3,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_UnstableConcoction",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_TwistedFate",
-          "count": 3,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_GuinsoosRageblade",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_HextechGunblade",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_Quicksilver",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Neeko",
-          "count": 3,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_PowerGauntlet",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_JeweledGauntlet",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Sona",
-          "count": 2,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 2
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_SeraphsEmbrace",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Urgot",
-          "count": 2,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 2
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT8_Item_OxForceEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 1
-            },
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Syndra",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Lulu",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 3,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_SeraphsEmbrace",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_HextechGunblade",
-              "count": 1
-            }
-          ]
-        }
-      ],
-      "rank": 1,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 2,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Fiora",
@@ -908,58 +1943,46 @@
           ]
         }
       ],
-      "rank": 2,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 3,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
-      "id": "TFT8_Ekko",
-      "count": 4,
+      "id": "TFT8_Garen",
+      "count": 3,
       "tiers": [
         {
           "id": 2,
           "count": 3
-        },
-        {
-          "id": 1,
-          "count": 1
         }
       ],
       "items": [
         {
-          "id": "TFT_Item_RedBuff",
-          "count": 2
-        },
-        {
-          "id": "TFT_Item_GargoyleStoneplate",
-          "count": 2
-        },
-        {
-          "id": "TFT8_Item_OxForceEmblemItem",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_Shroud",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_Zephyr",
+          "id": "TFT8_Item_StarGuardianEmblemItem",
           "count": 1
         },
         {
           "id": "no-item",
           "count": 1
+        },
+        {
+          "id": "TFT_Item_GargoyleStoneplate",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_WarmogsArmor",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Item_InfiniteamEmblemItem",
+          "count": 1
         }
       ],
       "neighbors": [
         {
-          "id": "TFT8_Fiora",
-          "count": 4,
+          "id": "TFT8_Lux",
+          "count": 2,
           "tiers": [
-            {
-              "id": 1,
-              "count": 2
-            },
             {
               "id": 2,
               "count": 2
@@ -968,98 +1991,138 @@
           "items": [
             {
               "id": "no-item",
-              "count": 4
+              "count": 2
             }
           ]
         },
         {
-          "id": "TFT8_Alistar",
-          "count": 4,
+          "id": "TFT8_Rell",
+          "count": 2,
           "tiers": [
             {
+              "id": 3,
+              "count": 1
+            },
+            {
               "id": 2,
-              "count": 4
+              "count": 1
             }
           ],
           "items": [
-            {
-              "id": "no-item",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_FrozenHeart",
-              "count": 1
-            },
             {
               "id": "TFT_Item_GargoyleStoneplate",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
               "count": 1
             },
             {
-              "id": "TFT_Item_Shroud",
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
               "count": 1
             }
           ]
         },
         {
-          "id": "TFT8_Annie",
-          "count": 3,
+          "id": "TFT8_Nilah",
+          "count": 2,
           "tiers": [
             {
               "id": 2,
-              "count": 3
+              "count": 2
             }
           ],
           "items": [
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 2
-            },
             {
               "id": "TFT_Item_ThiefsGloves",
               "count": 1
             },
             {
-              "id": "TFT_Item_UnstableConcoction",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_SpearOfShojin",
+              "id": "TFT_Item_Bloodthirster",
               "count": 1
             },
             {
               "id": "TFT_Item_DragonsClaw",
               "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
             }
           ]
         },
         {
-          "id": "TFT8_Viego",
-          "count": 3,
+          "id": "TFT8_Kaisa",
+          "count": 2,
           "tiers": [
             {
               "id": 2,
               "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 2
             },
             {
-              "id": 1,
+              "id": "TFT8_Item_ChannelerEmblemItem",
               "count": 1
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
             }
           ],
           "items": [
             {
               "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Neeko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
               "count": 1
             },
             {
-              "id": "TFT_Item_JeweledGauntlet",
+              "id": 2,
               "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 2
             },
             {
-              "id": "TFT_Item_IonicSpark",
-              "count": 1
+              "id": "TFT_Item_HextechGunblade",
+              "count": 2
             },
             {
-              "id": "TFT_Item_Bloodthirster",
+              "id": "TFT_Item_SpearOfShojin",
               "count": 1
             },
             {
@@ -1069,107 +2132,31 @@
           ]
         },
         {
-          "id": "TFT8_TwistedFate",
-          "count": 3,
+          "id": "TFT8_Syndra",
+          "count": 2,
           "tiers": [
             {
+              "id": 1,
+              "count": 1
+            },
+            {
               "id": 2,
-              "count": 3
+              "count": 1
             }
           ],
           "items": [
             {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 3
+              "id": "no-item",
+              "count": 1
             },
             {
               "id": "TFT_Item_GuinsoosRageblade",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_HextechGunblade",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_Quicksilver",
               "count": 1
             }
           ]
         },
         {
-          "id": "TFT8_Neeko",
-          "count": 3,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_PowerGauntlet",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_JeweledGauntlet",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Sona",
-          "count": 2,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 2
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_SeraphsEmbrace",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Urgot",
-          "count": 2,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 2
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT8_Item_OxForceEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 1
-            },
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Syndra",
+          "id": "TFT8_Alistar",
           "count": 1,
           "tiers": [
             {
@@ -1184,16 +2171,89 @@
             }
           ]
         },
+        {
+          "id": "TFT8_MissFortune",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8b_Sivir",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 4,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Pyke",
+      "count": 3,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 2
+        },
+        {
+          "id": 3,
+          "count": 1
+        }
+      ],
+      "items": [
+        {
+          "id": "no-item",
+          "count": 2
+        },
+        {
+          "id": "TFT_Item_ThiefsGloves",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_WarmogsArmor",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_BrambleVest",
+          "count": 1
+        }
+      ],
+      "neighbors": [
         {
           "id": "TFT8_Camille",
-          "count": 1,
+          "count": 2,
           "tiers": [
             {
               "id": 1,
-              "count": 1
+              "count": 2
             }
           ],
           "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
             {
               "id": "TFT8_Item_RiftwalkerEmblemItem",
               "count": 1
@@ -1203,15 +2263,488 @@
               "count": 1
             }
           ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT4_Item_OrnnRocketPropelledFist",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Zephyr",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Viego",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Jhin",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Deathblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Leona",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            },
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitansResolve",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_HeartEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Zac",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Vex",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_AurelionSol",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Blitzcrank",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
         }
       ],
-      "rank": 2,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 4,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
-      "id": "TFT8_Viego",
-      "count": 4,
+      "id": "TFT8_Leona",
+      "count": 3,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 2
+        },
+        {
+          "id": 1,
+          "count": 1
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_FrozenHeart",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_TitansResolve",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Item_HeartEmblemItem",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_GargoyleStoneplate",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_RedBuff",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_BrambleVest",
+          "count": 1
+        },
+        {
+          "id": "no-item",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Camille",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_RiftwalkerEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Pyke",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT4_Item_OrnnRocketPropelledFist",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Zephyr",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Viego",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Jhin",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Deathblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Zac",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Vex",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_AurelionSol",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Blitzcrank",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 4,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Syndra",
+      "count": 3,
       "tiers": [
         {
           "id": 1,
@@ -1219,7 +2752,7 @@
         },
         {
           "id": 2,
-          "count": 2
+          "count": 1
         }
       ],
       "items": [
@@ -1228,145 +2761,45 @@
           "count": 2
         },
         {
-          "id": "TFT_Item_JeweledGauntlet",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_IonicSpark",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_Bloodthirster",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_MadredsBloodrazor",
+          "id": "TFT_Item_GuinsoosRageblade",
           "count": 1
         }
       ],
       "neighbors": [
         {
-          "id": "TFT8_Alistar",
-          "count": 4,
+          "id": "TFT8_Garen",
+          "count": 2,
           "tiers": [
             {
               "id": 2,
-              "count": 3
-            },
-            {
-              "id": 1,
-              "count": 1
+              "count": 2
             }
           ],
           "items": [
             {
-              "id": "no-item",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_FrozenHeart",
+              "id": "TFT8_Item_StarGuardianEmblemItem",
               "count": 1
             },
             {
               "id": "TFT_Item_GargoyleStoneplate",
               "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Fiora",
-          "count": 3,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 2
             },
             {
-              "id": 2,
+              "id": "TFT_Item_WarmogsArmor",
               "count": 1
-            }
-          ],
-          "items": [
+            },
             {
-              "id": "no-item",
-              "count": 3
+              "id": "TFT8_Item_InfiniteamEmblemItem",
+              "count": 1
             }
           ]
         },
         {
           "id": "TFT8_Ekko",
-          "count": 3,
+          "count": 2,
           "tiers": [
-            {
-              "id": 2,
-              "count": 2
-            },
             {
               "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 2
-            },
-            {
-              "id": "TFT8_Item_OxForceEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Shroud",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Zephyr",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Annie",
-          "count": 2,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 2
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_UnstableConcoction",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Sona",
-          "count": 2,
-          "tiers": [
-            {
-              "id": 2,
               "count": 2
             }
           ],
@@ -1376,7 +2809,39 @@
               "count": 1
             },
             {
-              "id": "TFT_Item_SeraphsEmbrace",
+              "id": "TFT_Item_Shroud",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Neeko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_PowerGauntlet",
               "count": 1
             }
           ]
@@ -1386,59 +2851,39 @@
           "count": 2,
           "tiers": [
             {
+              "id": 1,
+              "count": 1
+            },
+            {
               "id": 2,
-              "count": 2
+              "count": 1
             }
           ],
           "items": [
             {
-              "id": "TFT_Item_HextechGunblade",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 2
+              "id": "no-item",
+              "count": 1
             },
             {
               "id": "TFT_Item_GuinsoosRageblade",
-              "count": 2
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Neeko",
-          "count": 2,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 2
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_PowerGauntlet",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_JeweledGauntlet",
               "count": 1
             },
             {
-              "id": "TFT_Item_ArchangelsStaff",
+              "id": "TFT_Item_HextechGunblade",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_StatikkShiv",
               "count": 1
             }
           ]
         },
         {
-          "id": "TFT8_Syndra",
+          "id": "TFT8_Lux",
           "count": 1,
           "tiers": [
             {
-              "id": 1,
+              "id": 2,
               "count": 1
             }
           ],
@@ -1450,7 +2895,7 @@
           ]
         },
         {
-          "id": "TFT8_Lulu",
+          "id": "TFT8_Rell",
           "count": 1,
           "tiers": [
             {
@@ -1460,43 +2905,95 @@
           ],
           "items": [
             {
-              "id": "TFT_Item_SeraphsEmbrace",
+              "id": "TFT_Item_GargoyleStoneplate",
               "count": 1
             },
             {
-              "id": "TFT_Item_HextechGunblade",
+              "id": "TFT_Item_WarmogsArmor",
               "count": 1
             }
           ]
         },
         {
-          "id": "TFT8_Gangplank",
+          "id": "TFT8_Nilah",
           "count": 1,
           "tiers": [
             {
-              "id": 3,
+              "id": 2,
               "count": 1
             }
           ],
           "items": [
             {
-              "id": "TFT_Item_MadredsBloodrazor",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Morellonomicon",
+              "id": "TFT_Item_ThiefsGloves",
               "count": 1
             },
             {
               "id": "TFT_Item_Bloodthirster",
               "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Kaisa",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_ChannelerEmblemItem",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8b_Sivir",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Shen",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
             }
           ]
         }
       ],
-      "rank": 2,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 4,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Fiddlesticks",
@@ -1755,9 +3252,9 @@
           ]
         }
       ],
-      "rank": 3,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 4,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Annie",
@@ -2024,278 +3521,9 @@
           ]
         }
       ],
-      "rank": 3,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
-    },
-    {
-      "id": "TFT8_Neeko",
-      "count": 3,
-      "tiers": [
-        {
-          "id": 2,
-          "count": 3
-        }
-      ],
-      "items": [
-        {
-          "id": "TFT_Item_SpearOfShojin",
-          "count": 3
-        },
-        {
-          "id": "TFT_Item_PowerGauntlet",
-          "count": 2
-        },
-        {
-          "id": "TFT_Item_JeweledGauntlet",
-          "count": 2
-        },
-        {
-          "id": "TFT_Item_ArchangelsStaff",
-          "count": 1
-        }
-      ],
-      "neighbors": [
-        {
-          "id": "TFT8_Fiora",
-          "count": 3,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 2
-            },
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 3
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Annie",
-          "count": 3,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_UnstableConcoction",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Alistar",
-          "count": 3,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_FrozenHeart",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 1
-            },
-            {
-              "id": "no-item",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Shroud",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Ekko",
-          "count": 3,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 2
-            },
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT8_Item_OxForceEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Shroud",
-              "count": 1
-            },
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_TwistedFate",
-          "count": 3,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 3
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_StatikkShiv",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_GuinsoosRageblade",
-              "count": 3
-            },
-            {
-              "id": "TFT_Item_HextechGunblade",
-              "count": 2
-            },
-            {
-              "id": "TFT_Item_Quicksilver",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Sona",
-          "count": 2,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 2
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_SeraphsEmbrace",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Viego",
-          "count": 2,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            },
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_JeweledGauntlet",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Syndra",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Janna",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_Chalice",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Urgot",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        }
-      ],
-      "rank": 3,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 4,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Urgot",
@@ -2566,36 +3794,940 @@
           ]
         }
       ],
-      "rank": 3,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 4,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
-      "id": "TFT8_Syndra",
+      "id": "TFT8_Lux",
       "count": 2,
       "tiers": [
         {
           "id": 2,
+          "count": 2
+        }
+      ],
+      "items": [
+        {
+          "id": "no-item",
+          "count": 2
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Rell",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Nilah",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Kaisa",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_ChannelerEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Garen",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT8_Item_StarGuardianEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Neeko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Syndra",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_MissFortune",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Rell",
+      "count": 2,
+      "tiers": [
+        {
+          "id": 3,
           "count": 1
         },
         {
-          "id": 1,
+          "id": 2,
           "count": 1
         }
       ],
       "items": [
         {
-          "id": "TFT_Item_GuinsoosRageblade",
+          "id": "TFT_Item_GargoyleStoneplate",
+          "count": 2
+        },
+        {
+          "id": "TFT_Item_WarmogsArmor",
           "count": 1
         },
         {
-          "id": "no-item",
+          "id": "TFT_Item_RedBuff",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_Bloodthirster",
           "count": 1
         }
       ],
       "neighbors": [
         {
-          "id": "TFT8_TwistedFate",
+          "id": "TFT8_Lux",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Nilah",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Kaisa",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_ChannelerEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Garen",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT8_Item_StarGuardianEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Neeko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Syndra",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_MissFortune",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Nilah",
+      "count": 2,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 2
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_ThiefsGloves",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_Bloodthirster",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_DragonsClaw",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_TitanicHydra",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Lux",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Rell",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Kaisa",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 2
+            },
+            {
+              "id": "TFT8_Item_ChannelerEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Garen",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT8_Item_StarGuardianEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Neeko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Syndra",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_MissFortune",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Kaisa",
+      "count": 2,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 2
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_StatikkShiv",
+          "count": 2
+        },
+        {
+          "id": "TFT8_Item_ChannelerEmblemItem",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_HextechGunblade",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_ArchangelsStaff",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Lux",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Rell",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Nilah",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Garen",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT8_Item_StarGuardianEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Neeko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_HextechGunblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Syndra",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_MissFortune",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_MissFortune",
+      "count": 2,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 2
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_ArchangelsStaff",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_ThiefsGloves",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_Morellonomicon",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_TitanicHydra",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Alistar",
           "count": 2,
           "tiers": [
             {
@@ -2613,9 +4745,113 @@
               "count": 1
             },
             {
-              "id": "TFT_Item_GuinsoosRageblade",
+              "id": "TFT_Item_Shroud",
               "count": 1
             },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RapidFireCannon",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Lux",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Rell",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Nilah",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Kaisa",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
             {
               "id": "TFT_Item_HextechGunblade",
               "count": 1
@@ -2623,37 +4859,9 @@
             {
               "id": "TFT_Item_StatikkShiv",
               "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8b_Sivir",
-          "count": 1,
-          "tiers": [
+            },
             {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Shen",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
+              "id": "TFT_Item_ArchangelsStaff",
               "count": 1
             }
           ]
@@ -2669,21 +4877,13 @@
           ],
           "items": [
             {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
-              "count": 1
-            },
-            {
-              "id": "TFT8_Item_InfiniteamEmblemItem",
+              "id": "no-item",
               "count": 1
             }
           ]
         },
         {
-          "id": "TFT8_Samira",
+          "id": "TFT8_Neeko",
           "count": 1,
           "tiers": [
             {
@@ -2693,11 +4893,11 @@
           ],
           "items": [
             {
-              "id": "TFT_Item_Deathblade",
+              "id": "TFT_Item_ArchangelsStaff",
               "count": 1
             },
             {
-              "id": "TFT_Item_LastWhisper",
+              "id": "TFT_Item_MadredsBloodrazor",
               "count": 1
             },
             {
@@ -2707,31 +4907,7 @@
           ]
         },
         {
-          "id": "TFT8_EzrealFuture",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Deathblade",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_PowerGauntlet",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Urgot",
+          "id": "TFT8_Nasus",
           "count": 1,
           "tiers": [
             {
@@ -2747,7 +4923,7 @@
           ]
         },
         {
-          "id": "TFT8_Fiddlesticks",
+          "id": "TFT8_Jinx",
           "count": 1,
           "tiers": [
             {
@@ -2757,7 +4933,72 @@
           ],
           "items": [
             {
-              "id": "TFT_Item_Morellonomicon",
+              "id": "TFT_Item_BFSword",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Camille",
+      "count": 2,
+      "tiers": [
+        {
+          "id": 1,
+          "count": 2
+        }
+      ],
+      "items": [
+        {
+          "id": "no-item",
+          "count": 1
+        },
+        {
+          "id": "TFT8_Item_RiftwalkerEmblemItem",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_TitanicHydra",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Pyke",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT4_Item_OrnnRocketPropelledFist",
               "count": 1
             },
             {
@@ -2765,7 +5006,171 @@
               "count": 1
             },
             {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Zephyr",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Viego",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
               "id": "TFT_Item_IonicSpark",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Jhin",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Deathblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Leona",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            },
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitansResolve",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_HeartEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Zac",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Vex",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_AurelionSol",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
               "count": 1
             }
           ]
@@ -2775,6 +5180,227 @@
           "count": 1,
           "tiers": [
             {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Jhin",
+      "count": 2,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 2
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_LastWhisper",
+          "count": 2
+        },
+        {
+          "id": "TFT_Item_Deathblade",
+          "count": 2
+        },
+        {
+          "id": "TFT_Item_PowerGauntlet",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_UnstableConcoction",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Camille",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_RiftwalkerEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Pyke",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT4_Item_OrnnRocketPropelledFist",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Zephyr",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Viego",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Leona",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            },
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitansResolve",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_HeartEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Zac",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Vex",
+          "count": 1,
+          "tiers": [
+            {
               "id": 2,
               "count": 1
             }
@@ -2787,7 +5413,7 @@
           ]
         },
         {
-          "id": "TFT8_Annie",
+          "id": "TFT8_AurelionSol",
           "count": 1,
           "tiers": [
             {
@@ -2797,19 +5423,284 @@
           ],
           "items": [
             {
-              "id": "TFT_Item_DragonsClaw",
+              "id": "TFT_Item_StatikkShiv",
               "count": 1
-            },
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Fiora",
+          "count": 1,
+          "tiers": [
             {
-              "id": "TFT_Item_RedBuff",
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
               "count": 1
             }
           ]
         }
       ],
-      "rank": 4,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Zac",
+      "count": 2,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 2
+        }
+      ],
+      "items": [
+        {
+          "id": "no-item",
+          "count": 2
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Camille",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_RiftwalkerEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Pyke",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT4_Item_OrnnRocketPropelledFist",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Zephyr",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Viego",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            },
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Bloodthirster",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_MadredsBloodrazor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Jhin",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 2
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_Deathblade",
+              "count": 2
+            },
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_UnstableConcoction",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Leona",
+          "count": 2,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            },
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitansResolve",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_HeartEmblemItem",
+              "count": 1
+            },
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Vex",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_AurelionSol",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Fiora",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Sona",
@@ -3032,9 +5923,9 @@
           ]
         }
       ],
-      "rank": 4,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Blitzcrank",
@@ -3281,9 +6172,9 @@
           ]
         }
       ],
-      "rank": 4,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Ashe",
@@ -3530,9 +6421,9 @@
           ]
         }
       ],
-      "rank": 4,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Renekton",
@@ -3779,9 +6670,9 @@
           ]
         }
       ],
-      "rank": 4,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Yasuo",
@@ -4028,9 +6919,9 @@
           ]
         }
       ],
-      "rank": 4,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Warwick",
@@ -4277,9 +7168,9 @@
           ]
         }
       ],
-      "rank": 4,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Janna",
@@ -4510,210 +7401,26 @@
           ]
         }
       ],
-      "rank": 4,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 5,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
-      "id": "TFT8_Leona",
-      "count": 2,
+      "id": "TFT8_Vex",
+      "count": 1,
       "tiers": [
         {
           "id": 2,
           "count": 1
-        },
-        {
-          "id": 1,
-          "count": 1
         }
       ],
       "items": [
-        {
-          "id": "TFT_Item_GargoyleStoneplate",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_RedBuff",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_BrambleVest",
-          "count": 1
-        },
         {
           "id": "no-item",
           "count": 1
         }
       ],
       "neighbors": [
-        {
-          "id": "TFT8_Blitzcrank",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Ashe",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Renekton",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Yasuo",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_LocketOfTheIronSolari",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Warwick",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_Deathblade",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Bloodthirster",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_PowerGauntlet",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Janna",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Mordekaiser",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_ThiefsGloves",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Quicksilver",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Fiddlesticks",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_MadredsBloodrazor",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_NeedlesslyLargeRod",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Fiora",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
         {
           "id": "TFT8_Camille",
           "count": 1,
@@ -4725,54 +7432,13 @@
           ],
           "items": [
             {
-              "id": "TFT8_Item_RiftwalkerEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_TitanicHydra",
+              "id": "no-item",
               "count": 1
             }
           ]
-        }
-      ],
-      "rank": 4,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
-    },
-    {
-      "id": "TFT8_Pyke",
-      "count": 2,
-      "tiers": [
-        {
-          "id": 3,
-          "count": 1
         },
         {
-          "id": 2,
-          "count": 1
-        }
-      ],
-      "items": [
-        {
-          "id": "TFT_Item_ThiefsGloves",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_WarmogsArmor",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_BrambleVest",
-          "count": 1
-        },
-        {
-          "id": "no-item",
-          "count": 1
-        }
-      ],
-      "neighbors": [
-        {
-          "id": "TFT8_Blitzcrank",
+          "id": "TFT8_Pyke",
           "count": 1,
           "tiers": [
             {
@@ -4783,154 +7449,6 @@
           "items": [
             {
               "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Ashe",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_ZekesHerald",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Renekton",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Vi",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT8_Item_InterPolarisEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_WarmogsArmor",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Yasuo",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Warwick",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_UnstableConcoction",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_LastWhisper",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Deathblade",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_TwistedFate",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_GuinsoosRageblade",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Fiora",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Camille",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT8_Item_RiftwalkerEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_TitanicHydra",
               "count": 1
             }
           ]
@@ -4946,15 +7464,936 @@
           ],
           "items": [
             {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT4_Item_OrnnRocketPropelledFist",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Viego",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Jhin",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Deathblade",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_AurelionSol",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Leona",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitansResolve",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_HeartEmblemItem",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Zac",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
               "id": "no-item",
               "count": 1
             }
           ]
         }
       ],
-      "rank": 4,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_AurelionSol",
+      "count": 1,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 1
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_StatikkShiv",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Camille",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Pyke",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Vex",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            },
+            {
+              "id": "TFT4_Item_OrnnRocketPropelledFist",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_DragonsClaw",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Viego",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 1,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_IonicSpark",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Jhin",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_PowerGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_LastWhisper",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Deathblade",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Leona",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_FrozenHeart",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitansResolve",
+              "count": 1
+            },
+            {
+              "id": "TFT8_Item_HeartEmblemItem",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Zac",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Nasus",
+      "count": 1,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 1
+        }
+      ],
+      "items": [
+        {
+          "id": "no-item",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Jinx",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_BFSword",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Vayne",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Riven",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_BrambleVest",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_MissFortune",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Morellonomicon",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RapidFireCannon",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Jinx",
+      "count": 1,
+      "tiers": [
+        {
+          "id": 2,
+          "count": 1
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_BFSword",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Nasus",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Vayne",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Riven",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_BrambleVest",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_MissFortune",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Morellonomicon",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RapidFireCannon",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Vayne",
+      "count": 1,
+      "tiers": [
+        {
+          "id": 3,
+          "count": 1
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_JeweledGauntlet",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_SpearOfShojin",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_StatikkShiv",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Nasus",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Jinx",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_BFSword",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Riven",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_BrambleVest",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_GargoyleStoneplate",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RedBuff",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_MissFortune",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Morellonomicon",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RapidFireCannon",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
+    },
+    {
+      "id": "TFT8_Riven",
+      "count": 1,
+      "tiers": [
+        {
+          "id": 3,
+          "count": 1
+        }
+      ],
+      "items": [
+        {
+          "id": "TFT_Item_BrambleVest",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_GargoyleStoneplate",
+          "count": 1
+        },
+        {
+          "id": "TFT_Item_RedBuff",
+          "count": 1
+        }
+      ],
+      "neighbors": [
+        {
+          "id": "TFT8_Nasus",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "no-item",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Jinx",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_BFSword",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Vayne",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 3,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_JeweledGauntlet",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_SpearOfShojin",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_StatikkShiv",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Alistar",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_Shroud",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_WarmogsArmor",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_MissFortune",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_Morellonomicon",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_TitanicHydra",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "id": "TFT8_Ekko",
+          "count": 1,
+          "tiers": [
+            {
+              "id": 2,
+              "count": 1
+            }
+          ],
+          "items": [
+            {
+              "id": "TFT_Item_ThiefsGloves",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_RapidFireCannon",
+              "count": 1
+            },
+            {
+              "id": "TFT_Item_ArchangelsStaff",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Mordekaiser",
@@ -5133,9 +8572,9 @@
           ]
         }
       ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8b_Sivir",
@@ -5314,9 +8753,9 @@
           ]
         }
       ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Shen",
@@ -5495,190 +8934,9 @@
           ]
         }
       ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
-    },
-    {
-      "id": "TFT8_Garen",
-      "count": 1,
-      "tiers": [
-        {
-          "id": 2,
-          "count": 1
-        }
-      ],
-      "items": [
-        {
-          "id": "TFT_Item_GargoyleStoneplate",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_WarmogsArmor",
-          "count": 1
-        },
-        {
-          "id": "TFT8_Item_InfiniteamEmblemItem",
-          "count": 1
-        }
-      ],
-      "neighbors": [
-        {
-          "id": "TFT8b_Sivir",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Shen",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Samira",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_Deathblade",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_LastWhisper",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_HextechGunblade",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_TwistedFate",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_EzrealFuture",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_SpearOfShojin",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Deathblade",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_PowerGauntlet",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Urgot",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Syndra",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_GuinsoosRageblade",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Fiddlesticks",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_Morellonomicon",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_DragonsClaw",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 1
-            }
-          ]
-        }
-      ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Samira",
@@ -5857,9 +9115,9 @@
           ]
         }
       ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_EzrealFuture",
@@ -6038,9 +9296,9 @@
           ]
         }
       ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Vi",
@@ -6195,9 +9453,9 @@
           ]
         }
       ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Lulu",
@@ -6340,9 +9598,9 @@
           ]
         }
       ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Gangplank",
@@ -6485,9 +9743,9 @@
           ]
         }
       ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Pantheon",
@@ -6630,9 +9888,9 @@
           ]
         }
       ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_LeeSin",
@@ -6775,9 +10033,9 @@
           ]
         }
       ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     },
     {
       "id": "TFT8_Malphite",
@@ -6920,601 +10178,10 @@
           ]
         }
       ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
-    },
-    {
-      "id": "TFT8_Camille",
-      "count": 1,
-      "tiers": [
-        {
-          "id": 1,
-          "count": 1
-        }
-      ],
-      "items": [
-        {
-          "id": "TFT8_Item_RiftwalkerEmblemItem",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_TitanicHydra",
-          "count": 1
-        }
-      ],
-      "neighbors": [
-        {
-          "id": "TFT8_Fiora",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Pyke",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Alistar",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Ekko",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Zephyr",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Viego",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Bloodthirster",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_MadredsBloodrazor",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Jhin",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_LastWhisper",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_UnstableConcoction",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Deathblade",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Urgot",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT8_Item_OxForceEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Leona",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Zac",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        }
-      ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
-    },
-    {
-      "id": "TFT8_Jhin",
-      "count": 1,
-      "tiers": [
-        {
-          "id": 2,
-          "count": 1
-        }
-      ],
-      "items": [
-        {
-          "id": "TFT_Item_LastWhisper",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_UnstableConcoction",
-          "count": 1
-        },
-        {
-          "id": "TFT_Item_Deathblade",
-          "count": 1
-        }
-      ],
-      "neighbors": [
-        {
-          "id": "TFT8_Fiora",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Camille",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT8_Item_RiftwalkerEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_TitanicHydra",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Pyke",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Alistar",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Ekko",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Zephyr",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Viego",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Bloodthirster",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_MadredsBloodrazor",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Urgot",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT8_Item_OxForceEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Leona",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Zac",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        }
-      ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
-    },
-    {
-      "id": "TFT8_Zac",
-      "count": 1,
-      "tiers": [
-        {
-          "id": 2,
-          "count": 1
-        }
-      ],
-      "items": [
-        {
-          "id": "no-item",
-          "count": 1
-        }
-      ],
-      "neighbors": [
-        {
-          "id": "TFT8_Fiora",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Camille",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT8_Item_RiftwalkerEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_TitanicHydra",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Pyke",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Alistar",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Ekko",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_RedBuff",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Zephyr",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_GargoyleStoneplate",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Viego",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_IonicSpark",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Bloodthirster",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_MadredsBloodrazor",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Jhin",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 2,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT_Item_LastWhisper",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_UnstableConcoction",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_Deathblade",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Urgot",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "TFT8_Item_OxForceEmblemItem",
-              "count": 1
-            },
-            {
-              "id": "TFT_Item_ArchangelsStaff",
-              "count": 1
-            }
-          ]
-        },
-        {
-          "id": "TFT8_Leona",
-          "count": 1,
-          "tiers": [
-            {
-              "id": 1,
-              "count": 1
-            }
-          ],
-          "items": [
-            {
-              "id": "no-item",
-              "count": 1
-            }
-          ]
-        }
-      ],
-      "rank": 5,
-      "rankTotalCount": 5,
-      "compTotalCount": 8
+      "rank": 6,
+      "rankTotalCount": 6,
+      "compTotalCount": 12
     }
   ],
-  "lastUpdatedTS": 1685604196192
+  "lastUpdatedTS": 1685609448815
 }
