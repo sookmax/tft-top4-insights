@@ -426,20 +426,20 @@
           "tierTotal": 3
         },
         {
-          "id": "Set8_Channeler#1",
-          "count": 113,
-          "style": 1,
-          "name": "Set8_Channeler",
-          "tierCurrent": 1,
-          "tierTotal": 4
-        },
-        {
           "id": "Set8_Renegade#2",
           "count": 113,
           "style": 2,
           "name": "Set8_Renegade",
           "tierCurrent": 2,
           "tierTotal": 3
+        },
+        {
+          "id": "Set8_Channeler#1",
+          "count": 113,
+          "style": 1,
+          "name": "Set8_Channeler",
+          "tierCurrent": 1,
+          "tierTotal": 4
         },
         {
           "id": "Set8_Aegis#2",
@@ -3216,20 +3216,20 @@
           "tierTotal": 1
         },
         {
-          "id": "Set8_Heart#1",
-          "count": 3,
-          "style": 1,
-          "name": "Set8_Heart",
-          "tierCurrent": 1,
-          "tierTotal": 3
-        },
-        {
           "id": "Set8_Aegis#2",
           "count": 3,
           "style": 2,
           "name": "Set8_Aegis",
           "tierCurrent": 2,
           "tierTotal": 4
+        },
+        {
+          "id": "Set8_Heart#1",
+          "count": 3,
+          "style": 1,
+          "name": "Set8_Heart",
+          "tierCurrent": 1,
+          "tierTotal": 3
         },
         {
           "id": "Set8_StarGuardian#1",
@@ -6593,6 +6593,14 @@
           "tierTotal": 1
         },
         {
+          "id": "Set8_Corrupted#3",
+          "count": 1,
+          "style": 3,
+          "name": "Set8_Corrupted",
+          "tierCurrent": 1,
+          "tierTotal": 1
+        },
+        {
           "id": "Set8_Channeler#1",
           "count": 1,
           "style": 1,
@@ -6607,14 +6615,6 @@
           "name": "Set8_Renegade",
           "tierCurrent": 1,
           "tierTotal": 3
-        },
-        {
-          "id": "Set8_Corrupted#3",
-          "count": 1,
-          "style": 3,
-          "name": "Set8_Corrupted",
-          "tierCurrent": 1,
-          "tierTotal": 1
         }
       ],
       "rank": 63,
@@ -6829,5 +6829,5 @@
       "compTotalCount": 2056
     }
   ],
-  "lastUpdatedTS": 1685945936542
+  "lastUpdatedTS": 1686126092983
 }
